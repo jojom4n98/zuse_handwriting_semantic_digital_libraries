@@ -1,0 +1,54 @@
+1
+
+
+Z1 Rechenwerk
+1) Verteiler
+Blöcke 13, 14a, 14b
+Blatt 210 Übersicht.
+" 210.1 (Pause) Sockellicher 10
+210.2 Impulsverteilung
+" 210.3 Übersicht über Bleche
+Schicht 5, 4, 7
+" 210.4 Schicht 3
+" 210.5 " 8
+" 211.2 (210) (Pause) Schicht 6, 2
+6 Löschen
+2 Micht, Dr
+211.3
+" 211.4 (210) " Schicht 4 :
+" 211.5 (210) " " 5 10pd x,
+" 211.6 (210) " " 3 x, :
+" 211.7 (210) " " 7 2. Opd
+" 211.8 (210) " " 8 Res. Ausg.
+" 212 Scnitte, Teile NT6', NT7'
+" 213 Platten 4 mm st.
+
+
+Pause ?
+
+
+1
+
+
+Z1 Rechenwerk
+Blatt 214 Platten Sockel
+215 Versch. Platten
+216 " "
+218 Bleche
+219 "
+220 "
+221 ", Sonderteile 221.2
+3
+4
+5
+222 Einrurchtschablone 222.30
+222.31
+Impulsstange
+
+
+2
+
+
+2
+
+

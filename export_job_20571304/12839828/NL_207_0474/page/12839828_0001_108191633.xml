@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:16:46.130+01:00</Created>
+        <LastChange>2025-12-28T12:50:19.408+01:00</LastChange>
+        <TranskribusMetadata docId="12839828" pageId="108191633" pageNr="1" tsid="269501472" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YUUTLSFFNOSJEXZHSNXMHQEP" xmlUrl="https://files.transkribus.eu/Get?id=WIKKFOERXZIGSSUEOWZKAFTB" imageId="90978368"/>
+    </Metadata>
+    <Page imageFilename="12839828_0001_108191633.jpg" imageWidth="1873" imageHeight="2606">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957798500" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+                <RegionRefIndexed index="3" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="592,332 949,332 949,475 592,475"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;} person {offset:0; length:7;wikiData:Q60093; firstname:Konrad; lastname:Zuse;}">
+                <Coords points="603,444 934,439 934,409 603,414"/>
+                <Baseline points="603,444 934,439"/>
+                <TextEquiv>
+                    <Unicode>K. Zuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="229,545 1773,545 1773,1096 229,1096"/>
+            <TextLine id="l_3" custom="readingOrder {index:0;}">
+                <Coords points="282,679 1743,676 1743,646 282,649"/>
+                <Baseline points="282,679 1743,676"/>
+                <TextEquiv>
+                    <Unicode>Vortrag anlässlich der Verleihung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:1;} textStyle {offset:28; length:1;strikethrough}">
+                <Coords points="256,797 1613,785 1613,755 256,767"/>
+                <Baseline points="256,797 1613,785"/>
+                <TextEquiv>
+                    <Unicode>des Dr. Ing. E.h. durch die T</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:2;}">
+                <Coords points="254,901 1684,901 1684,871 254,871"/>
+                <Baseline points="254,901 1684,901"/>
+                <TextEquiv>
+                    <Unicode>Technische Universität Berlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:3;} textStyle {offset:3; length:12;underlined}">
+                <Coords points="271,1042 1192,1042 1192,1012 271,1012"/>
+                <Baseline points="271,1042 1192,1042"/>
+                <TextEquiv>
+                    <Unicode>am 28. Mai 1957.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:marginalia;}">
+            <Coords points="1693,2453 1783,2453 1783,2525 1693,2525"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1717,2520 1763,2520 1763,2490 1717,2490"/>
+                <Baseline points="1717,2520 1763,2520"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;} structure {type:marginalia;}">
+            <Coords points="1207,229 1507,229 1507,341 1207,341"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="1227,326 1479,324 1479,294 1227,296"/>
+                <Baseline points="1227,326 1479,324"/>
+                <TextEquiv>
+                    <Unicode>035|008</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

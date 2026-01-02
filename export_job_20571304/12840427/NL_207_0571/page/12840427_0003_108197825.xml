@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:38:17.454+01:00</Created>
+        <LastChange>2025-12-19T10:28:17.276+01:00</LastChange>
+        <TranskribusMetadata docId="12840427" pageId="108197825" pageNr="3" tsid="267366074" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KNBMJRILFAKBESFYLFGYHQIS" xmlUrl="https://files.transkribus.eu/Get?id=NTZQTHLNBEGIZMXESEPVVXQI" imageId="90984490"/>
+    </Metadata>
+    <Page imageFilename="12840427_0003_108197825.jpg" imageWidth="2586" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957879601" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1209,124 1271,124 1271,194 1209,194"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1223,188 1251,186 1249,156 1221,158"/>
+                <Baseline points="1223,188 1251,186"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="434,3258 281,1524 284,1291 482,249 2406,249 2527,610 2504,2336 2492,3277 2406,3429 482,3429"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="485,380 1548,374 2062,386 2380,383 2380,353 2062,356 1548,344 485,350"/>
+                <Baseline points="485,380 1548,374 2062,386 2380,383"/>
+                <TextEquiv>
+                    <Unicode>3.) Die einzelnen Felder werden ent-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;} textStyle {offset:16; length:10;underlined}">
+                <Coords points="505,502 1101,499 1916,499 2182,502 2322,499 2321,469 2182,472 1916,469 1101,469 505,472"/>
+                <Baseline points="505,502 1101,499 1916,499 2182,502 2322,499"/>
+                <TextEquiv>
+                    <Unicode>sprechend einer Kehrangabe gekehrt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="505,619 1151,616 1644,616 2071,613 2369,613 2369,583 2071,583 1644,586 1151,586 505,589"/>
+                <Baseline points="505,619 1151,616 1644,616 2071,613 2369,613"/>
+                <TextEquiv>
+                    <Unicode>Dadurch wird verhindert, dass die Zahl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="520,733 1335,739 2009,730 2331,727 2506,739 2508,709 2332,697 2009,700 1335,709 520,703"/>
+                <Baseline points="520,733 1335,739 2009,730 2331,727 2506,739"/>
+                <TextEquiv>
+                    <Unicode>der positiven bzw. negativen Felder gleich-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;} textStyle {offset:24; length:1;superscript}">
+                <Coords points="485,859 1747,850 1989,850 1989,820 1747,820 485,829"/>
+                <Baseline points="485,859 1747,850 1989,850"/>
+                <TextEquiv>
+                    <Unicode>bleibt. (Variabilität: 25 = 32-fach)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;}">
+                <Coords points="672,981 1492,975 2150,975 2418,975 2418,945 2150,945 1492,945 672,951"/>
+                <Baseline points="672,981 1492,975 2150,975 2418,975"/>
+                <TextEquiv>
+                    <Unicode>Durch diese 3-fache Verschlüsselung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;}">
+                <Coords points="502,1089 1799,1101 2296,1084 2295,1054 1799,1071 502,1059"/>
+                <Baseline points="502,1089 1799,1101 2296,1084"/>
+                <TextEquiv>
+                    <Unicode>ist eine genügende Verzerrung des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;}">
+                <Coords points="502,1192 1638,1203 1638,1173 502,1162"/>
+                <Baseline points="502,1192 1638,1203"/>
+                <TextEquiv>
+                    <Unicode>Klartextes gewährleistet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;} textStyle {offset:0; length:14;underlined}">
+                <Coords points="304,1373 967,1376 967,1346 304,1343"/>
+                <Baseline points="304,1373 967,1376"/>
+                <TextEquiv>
+                    <Unicode>Befehlsablauf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;} textStyle {offset:0; length:14;underlined}">
+                <Coords points="307,1501 1069,1481 1068,1451 306,1471"/>
+                <Baseline points="307,1501 1069,1481"/>
+                <TextEquiv>
+                    <Unicode>Grundschlüssel:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;}">
+                <Coords points="800,1621 1767,1624 2430,1618 2430,1588 1767,1594 800,1591"/>
+                <Baseline points="800,1621 1767,1624 2430,1618"/>
+                <TextEquiv>
+                    <Unicode>Die Befehle für die Permutatio-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;}">
+                <Coords points="534,1723 1376,1720 2077,1738 2351,1738 2351,1708 2077,1708 1376,1690 534,1693"/>
+                <Baseline points="534,1723 1376,1720 2077,1738 2351,1738"/>
+                <TextEquiv>
+                    <Unicode>nen und Umkehrungen werden in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;}">
+                <Coords points="532,1849 1679,1843 2208,1849 2208,1819 1679,1813 532,1819"/>
+                <Baseline points="532,1849 1679,1843 2208,1849"/>
+                <TextEquiv>
+                    <Unicode>unregelmässiger Folge aus dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:13;}">
+                <Coords points="511,1960 1227,1963 1793,1968 2261,1968 2386,1968 2386,1938 2261,1938 1793,1938 1227,1933 511,1930"/>
+                <Baseline points="511,1960 1227,1963 1793,1968 2261,1968 2386,1968"/>
+                <TextEquiv>
+                    <Unicode>Grundschlüssel berechnet. Dieser besteht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:14;}">
+                <Coords points="499,2079 1028,2077 1475,2077 2027,2068 2377,2088 2379,2058 2028,2038 1475,2047 1028,2047 499,2049"/>
+                <Baseline points="499,2079 1028,2077 1475,2077 2027,2068 2377,2088"/>
+                <TextEquiv>
+                    <Unicode>aus 14 Fünferkombinationen. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:15;}">
+                <Coords points="517,2208 1142,2196 1700,2193 2053,2199 2290,2193 2289,2163 2053,2169 1700,2163 1142,2166 516,2178"/>
+                <Baseline points="517,2208 1142,2196 1700,2193 2053,2199 2290,2193"/>
+                <TextEquiv>
+                    <Unicode>Berechnung der Befehlsfolgen ist so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:16;} textStyle {offset:28; length:1;strikethrough} unclear {offset:28; length:1;}">
+                <Coords points="508,2328 1110,2313 1338,2310 1697,2307 2071,2316 2404,2325 2405,2295 2072,2286 1697,2277 1338,2280 1109,2283 507,2298"/>
+                <Baseline points="508,2328 1110,2313 1338,2310 1697,2307 2071,2316 2404,2325"/>
+                <TextEquiv>
+                    <Unicode>aufgebaut, dass sekbst wenn # Teile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:17;}">
+                <Coords points="479,2433 853,2430 1379,2427 1714,2424 2018,2424 2255,2433 2450,2483 2457,2454 2259,2403 2019,2394 1714,2394 1379,2397 853,2400 479,2403"/>
+                <Baseline points="479,2433 853,2430 1379,2427 1714,2424 2018,2424 2255,2433 2450,2483"/>
+                <TextEquiv>
+                    <Unicode>der Befehlsfolgen bekannt sind, daraus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:18;}">
+                <Coords points="497,2547 1078,2538 1402,2547 1901,2544 2214,2544 2418,2561 2420,2531 2215,2514 1901,2514 1402,2517 1078,2508 497,2517"/>
+                <Baseline points="497,2547 1078,2538 1402,2547 1901,2544 2214,2544 2418,2561"/>
+                <TextEquiv>
+                    <Unicode>noch keine Schlüsse auf den Aufbau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:19;}">
+                <Coords points="488,2681 1457,2669 1860,2661 2152,2661 2465,2684 2467,2654 2153,2631 1860,2631 1457,2639 488,2651"/>
+                <Baseline points="488,2681 1457,2669 1860,2661 2152,2661 2465,2684"/>
+                <TextEquiv>
+                    <Unicode>des Grundschlüssels gezogen werden kön-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:20;}">
+                <Coords points="479,2783 1174,2789 1758,2780 2398,2792 2399,2762 1758,2750 1174,2759 479,2753"/>
+                <Baseline points="479,2783 1174,2789 1758,2780 2398,2792"/>
+                <TextEquiv>
+                    <Unicode>nen. Dies erfolgt durch Kombination</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:21;}">
+                <Coords points="491,2894 926,2894 1881,2891 2188,2900 2407,2906 2408,2876 2189,2870 1881,2861 926,2864 491,2864"/>
+                <Baseline points="491,2894 926,2894 1881,2891 2188,2900 2407,2906"/>
+                <TextEquiv>
+                    <Unicode>je zweier Fünferkombinationen des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:22;} textStyle {offset:0; length:2;strikethrough}">
+                <Coords points="461,3020 1414,3017 1752,3017 2132,3020 2421,3023 2421,2993 2132,2990 1752,2987 1414,2987 461,2990"/>
+                <Baseline points="461,3020 1414,3017 1752,3017 2132,3020 2421,3023"/>
+                <TextEquiv>
+                    <Unicode>Sc Grundschlüssels, wobei die Auswahl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:23;}">
+                <Coords points="482,3148 1221,3140 1697,3134 2167,3148 2491,3166 2491,3166 2491,3136 2492,3136 2168,3118 1697,3104 1221,3110 482,3118"/>
+                <Baseline points="482,3148 1221,3140 1697,3134 2167,3148 2491,3166 2491,3166"/>
+                <TextEquiv>
+                    <Unicode>so erfolgt, dass alle Schlüsselkombina-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:24;}">
+                <Coords points="511,3268 864,3254 1247,3254 1565,3254 1954,3256 2068,3271 2167,3256 2447,3280 2447,3283 2456,3286 2465,3258 2476,3262 2478,3252 2166,3226 2068,3241 1956,3226 1565,3224 1247,3224 863,3224 510,3238"/>
+                <Baseline points="511,3268 864,3254 1247,3254 1565,3254 1954,3256 2068,3271 2167,3256 2447,3280 2447,3283 2456,3286"/>
+                <TextEquiv>
+                    <Unicode>tionen laufend herangezogen werden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:25;}">
+                <Coords points="488,3367 1682,3367 2383,3385 2384,3355 1682,3337 488,3337"/>
+                <Baseline points="488,3367 1682,3367 2383,3385"/>
+                <TextEquiv>
+                    <Unicode>und mit der Zeit jede Kombination</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2418,3467 2488,3467 2488,3557 2418,3557"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2435,3548 2462,3543 2457,3514 2430,3519"/>
+                <Baseline points="2435,3548 2462,3543"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

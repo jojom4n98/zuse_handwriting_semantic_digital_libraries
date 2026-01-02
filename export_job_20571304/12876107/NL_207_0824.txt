@@ -1,0 +1,114 @@
+s0, sm, sLRyR
+
+
+Kurze Beschreibung eines Ausführungsbeispiels
+Die Register der Maschine, d. h. die ein Wort
+oder eine Zahl speichernden Elemente
+seien :
+a.) Der Akkumulator ein mit durch
+vorgeschalteten Addierwerk einem Summen
+bzw Differenzregister.
+b Das Befehlsregister,
+r Der Befehlsentschlüssler
+die Register einer
+Magnettrommel. M.
+Die Wirkungsweise des aus b und
+r bestehenden Leitwerk ist nach
+Skizze die folgende
+
+
+6
+
+
+2
+
+
+1.) Ein in b stehender Befehlstext
+wird nach den Entschlüssler gesetzt.
+2.) Der Entschlüssler setzt die Stromtore
+A, E, T usw zum Zahlentransport oder
+bereit zum Befehlstransport bereit,
+je nach Art des im Befehlstext vorhandenen
+Operationszeichens und wählt die Adresse
+im Speicher mg m.
+3.) Der Transport von Zahlen oder Befehls-
+texten findet nach Ausgabe auf Grund
+der Stellung der Stromtore statt.
+z.B. Bei Öffnung der Tore A zu wirdaus
+dem Speicher mit der Adresse m eine Zahl geholt die
+sich zu der im Akkumulator a be-
+findlichen im Addierwerk + hinzu
+addiert, wobei die Summe sogleich wieder
+in a wandert. Gleichzeitig ste wandert
+ein in c reservierte Text ins Befehls
+register b.
+Anschliessend beginnt wieder die Phase 1).
+Es ist oft vorteilhaft die Addresse vor der
+Entschlüsselung dadurch um zu wandeln
+das man eine im Register i befindliche
+Zahl vorher hinzu addiert. Diese i-Register
+sind v ... beschrieben.
+Nach Ansp. Z. von Part ... wird jetzt
+analog.
+
+
+7
+
+
+3
+
+
+folgende Erweiterung der Flexibilität
+der Maschine eingebaut.
+Aus gewissen einzelnen Dual-
+Stellen gewiss bestimmter Register, (z.B.)
+Vorzeichenstelle des Akkummulators u ä
+werden im logischen Umformer u Umweckl
+mine logische Funktionen logistische
+Funktionen
+einerseits und besteimmten Stellenen
+ihn Text eines jeden Befehls werden
+im Umformer Lu logische überreden
+Funktionen errechnet und auf den
+Entschlüssler r gegeben.
+Der Vorteil ist der, das der Ablauf
+der Rechnung eines / bei vorgegebenen
+Programmm in viel stärkeren Masse
+von den Rechenresultaten abhängt und
+somit zeitlich und auch auf Zeit ein-
+spart, aber auch Geräteteile ersetzt.
+Es sei Z.B ein im Tex Befehlstext vor
+handenes Zeichen mit der Bedeutung,
+das und v das Vorzeichen des Akku-
+mulators mit der Bedeutung,
+Q-n wenn die Q Stelle im Entschlüsser
+rk = 1 ist, dann wird der Befehl überrun-
+gen und wenn die Q Stelle rQ im Entschlüsser
+gleich 0 ist, dann wird der Befehl aus
+geführt.
+
+
+8
+
+
+eine logische Umformung der Stellen
+des Befehlsregister (bv1, bv2 ... bvk) durch
+Flipflo Ja-Nein-Werte (t1 t2 ... tk) vorgenom
+men. Wie die vorg Die (t1 ... tk) ents-
+sprechen dabei irgendwelchen nach organi-
+satorischen Richtlinien ausgewählten
+K  Dualstellen An K verschiedenen Regist
+im Akkumulator und an der Registerer
+und evtl Schalter
+Der Gang der Rechnung hängt dann
+in vielfacher Weise von den Rechenresultaten ab,
+so dass die Flexibilität erhä gross wird,
+und auch Zeit eingespart werden kann.
+
+
+4
+
+
+10
+
+

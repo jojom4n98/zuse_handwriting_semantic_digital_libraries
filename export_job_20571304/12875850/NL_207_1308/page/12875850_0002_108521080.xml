@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T16:01:28.593+01:00</Created>
+        <LastChange>2025-12-27T12:04:06.181+01:00</LastChange>
+        <TranskribusMetadata docId="12875850" pageId="108521080" pageNr="2" tsid="269307652" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KTOZJYYSZVGNJUZYATRIVBQK" xmlUrl="https://files.transkribus.eu/Get?id=BTUJUUVDAMBZKKHREMCRQVDY" imageId="91290580"/>
+    </Metadata>
+    <Page imageFilename="12875850_0002_108521080.jpg" imageWidth="3611" imageHeight="2602">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958241051" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="740,617 738,67 2991,67 2979,256 2500,250 2495,295 2969,352 2998,505 2789,624 2612,664 2353,827 1325,866 1336,706 849,693"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="761,189 1013,174 1154,182 1451,171 1645,167 1926,164 2144,167 2462,162 2807,153 2927,156 2928,126 2807,123 2461,132 2144,137 1926,134 1645,137 1450,141 1154,152 1013,144 759,159"/>
+                <Baseline points="761,189 1013,174 1154,182 1451,171 1645,167 1926,164 2144,167 2462,162 2807,153 2927,156"/>
+                <TextEquiv>
+                    <Unicode>beschäftigt. Ich erlaube mir jedoch, Ihnen mit ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="758,276 1073,279 1277,251 1425,251 1723,243 2124,243 2358,248 2545,237 2955,240 2955,210 2544,207 2357,218 2124,213 1723,213 1425,221 1275,221 1071,249 758,246"/>
+                <Baseline points="758,276 1073,279 1277,251 1425,251 1723,243 2124,243 2358,248 2545,237 2955,240"/>
+                <TextEquiv>
+                    <Unicode>trennter Post einen Kalender mit den Abdrucken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;}">
+                <Coords points="786,368 1104,357 1330,362 1659,348 1846,346 1940,362 2032,346 2250,326 2406,335 2408,305 2249,296 2028,316 1940,332 1848,316 1658,318 1330,332 1104,327 785,338"/>
+                <Baseline points="786,368 1104,357 1330,362 1659,348 1846,346 1940,362 2032,346 2250,326 2406,335"/>
+                <TextEquiv>
+                    <Unicode>einger Bilder von mir zu schicken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:3;}">
+                <Coords points="1051,463 1271,457 1539,460 1751,452 1837,452 1899,438 2016,421 2191,427 2478,429 2752,415 2910,413 2910,383 2751,385 2477,399 2192,397 2014,391 1894,409 1834,422 1750,422 1539,430 1271,427 1050,433"/>
+                <Baseline points="1051,463 1271,457 1539,460 1751,452 1837,452 1899,438 2016,421 2191,427 2478,429 2752,415 2910,413"/>
+                <TextEquiv>
+                    <Unicode>Meine Frau und ich wünschen Ihnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:4;} unclear {offset:28; length:5;}">
+                <Coords points="786,574 951,560 1048,563 1123,544 1310,549 1419,549 1519,549 1581,555 1670,535 1762,538 1873,535 2016,527 2135,538 2227,524 2386,546 2556,527 2701,510 2933,519 2934,489 2700,480 2553,497 2386,516 2227,494 2134,508 2017,497 1872,505 1762,508 1667,505 1579,525 1520,519 1419,519 1310,519 1120,514 1045,533 950,530 783,544"/>
+                <Baseline points="786,574 951,560 1048,563 1123,544 1310,549 1419,549 1519,549 1581,555 1670,535 1762,538 1873,535 2016,527 2135,538 2227,524 2386,546 2556,527 2701,510 2933,519"/>
+                <TextEquiv>
+                    <Unicode>frohe Feiertage und erfolgreiches weiteres Schaffen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:5;}">
+                <Coords points="839,675 987,652 1249,652 1436,636 1664,627 1726,633 1804,638 1949,630 1947,600 1804,608 1728,603 1665,597 1434,606 1248,622 985,622 834,645"/>
+                <Baseline points="839,675 987,652 1249,652 1436,636 1664,627 1726,633 1804,638 1949,630"/>
+                <TextEquiv>
+                    <Unicode>Mit herzlichen Grüßen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:6;} person {offset:0; length:11;wikiData:Q60093;}">
+                <Coords points="1388,814 1703,781 1954,755 2163,730 2484,733 2484,703 2161,700 1951,725 1700,751 1385,784"/>
+                <Baseline points="1388,814 1703,781 1954,755 2163,730 2484,733"/>
+                <TextEquiv>
+                    <Unicode>Konrad Zuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="3466,78 3547,78 3547,152 3466,152"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3532,141 3536,85 3506,83 3502,139"/>
+                <Baseline points="3532,141 3536,85"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

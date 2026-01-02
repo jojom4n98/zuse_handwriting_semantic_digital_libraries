@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:21:15.997+01:00</Created>
+        <LastChange>2025-12-25T10:45:06.442+01:00</LastChange>
+        <TranskribusMetadata docId="12839888" pageId="108192900" pageNr="5" tsid="268752493" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LRKKZKPUWWPMTNXMKFULXEGV" xmlUrl="https://files.transkribus.eu/Get?id=LVSTEVUHKSOPXROUHNQCFONE" imageId="90979610"/>
+    </Metadata>
+    <Page imageFilename="12839888_0005_108192900.jpg" imageWidth="2592" imageHeight="3582">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957809442" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="243,114 621,114 621,284 243,284"/>
+            <TextLine id="l" custom="readingOrder {index:0;} textStyle {offset:0; length:4;underlined}">
+                <Coords points="255,276 577,259 575,229 253,246"/>
+                <Baseline points="255,276 577,259"/>
+                <TextEquiv>
+                    <Unicode>Zuse)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="512,3395 463,439 620,350 700,204 1320,219 1393,335 1604,370 1660,514 2178,521 2214,887 2400,937 2477,1241 2356,3205 2029,3352 688,3425"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="669,372 1328,358 1327,328 668,342"/>
+                <Baseline points="669,372 1328,358"/>
+                <TextEquiv>
+                    <Unicode>Modell 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="475,492 999,496 1580,485 1579,455 999,466 475,462"/>
+                <Baseline points="475,492 999,496 1580,485"/>
+                <TextEquiv>
+                    <Unicode>Stand 7.5.85-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;}">
+                <Coords points="503,652 1148,659 1541,662 2157,659 2157,629 1541,632 1148,629 503,622"/>
+                <Baseline points="503,652 1148,659 1541,662 2157,659"/>
+                <TextEquiv>
+                    <Unicode>1) Teil 34,6, Blatt 38, 34</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:3;}">
+                <Coords points="1130,783 1289,783 1289,753 1130,753"/>
+                <Baseline points="1130,783 1289,783"/>
+                <TextEquiv>
+                    <Unicode>4x</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:4;} textStyle {offset:0; length:5;underlined}">
+                <Coords points="769,932 1041,896 1037,866 765,902"/>
+                <Baseline points="769,932 1041,896"/>
+                <TextEquiv>
+                    <Unicode>fehlt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:5;}">
+                <Coords points="517,1066 1470,1066 2356,1048 2355,1018 1470,1036 517,1036"/>
+                <Baseline points="517,1066 1470,1066 2356,1048"/>
+                <TextEquiv>
+                    <Unicode>2) Auf Platte 32.02, Blatt 32</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:6;}">
+                <Coords points="779,1180 1410,1190 1410,1160 779,1150"/>
+                <Baseline points="779,1180 1410,1190"/>
+                <TextEquiv>
+                    <Unicode>(Obere Platte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:7;}">
+                <Coords points="811,1304 1257,1300 1891,1304 2444,1293 2443,1263 1891,1274 1257,1270 811,1274"/>
+                <Baseline points="811,1304 1257,1300 1891,1304 2444,1293"/>
+                <TextEquiv>
+                    <Unicode>Stifft 5Ø setzen entspr. Zeichnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:8;}">
+                <Coords points="531,1481 1389,1477 2093,1470 2093,1440 1389,1447 531,1451"/>
+                <Baseline points="531,1481 1389,1477 2093,1470"/>
+                <TextEquiv>
+                    <Unicode>3) Teil 35.01., Blatt 37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:9;}">
+                <Coords points="949,1580 1782,1580 2320,1566 2319,1536 1782,1550 949,1550"/>
+                <Baseline points="949,1580 1782,1580 2320,1566"/>
+                <TextEquiv>
+                    <Unicode>ändern entspr. Zeichnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:10;}">
+                <Coords points="507,1785 893,1778 1498,1778 2019,1764 2018,1734 1498,1748 893,1748 506,1755"/>
+                <Baseline points="507,1785 893,1778 1498,1778 2019,1764"/>
+                <TextEquiv>
+                    <Unicode>4) Teil 35.24 Blatt 36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:11;}">
+                <Coords points="942,1884 1576,1884 2221,1870 2384,1870 2384,1840 2221,1840 1576,1854 942,1854"/>
+                <Baseline points="942,1884 1576,1884 2221,1870 2384,1870"/>
+                <TextEquiv>
+                    <Unicode>ändern entspr. Zeichnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:12;}">
+                <Coords points="521,2065 1268,2058 1838,2047 2054,2069 2057,2039 1839,2017 1268,2028 521,2035"/>
+                <Baseline points="521,2065 1268,2058 1838,2047 2054,2069"/>
+                <TextEquiv>
+                    <Unicode>5) Teil 35.33 Blatt 37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:13;}">
+                <Coords points="992,2182 1817,2154 2093,2139 2091,2109 1816,2124 991,2152"/>
+                <Baseline points="992,2182 1817,2154 2093,2139"/>
+                <TextEquiv>
+                    <Unicode>Neue Zeichnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:14;}">
+                <Coords points="1775,2260 2175,2246 2174,2216 1774,2230"/>
+                <Baseline points="1775,2260 2175,2246"/>
+                <TextEquiv>
+                    <Unicode>Din A4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:15;}">
+                <Coords points="496,2458 638,2458 924,2472 1452,2476 2051,2462 2050,2432 1452,2446 925,2442 639,2428 496,2428"/>
+                <Baseline points="496,2458 638,2458 924,2472 1452,2476 2051,2462"/>
+                <TextEquiv>
+                    <Unicode>6) Teil 35.31 Blatt 37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:16;}">
+                <Coords points="949,2603 1902,2593 2278,2579 2277,2549 1901,2563 949,2573"/>
+                <Baseline points="949,2603 1902,2593 2278,2579"/>
+                <TextEquiv>
+                    <Unicode>Ändern entspr. Zeichnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:17;}">
+                <Coords points="535,2823 1307,2820 2072,2809 2072,2779 1307,2790 535,2793"/>
+                <Baseline points="535,2823 1307,2820 2072,2809"/>
+                <TextEquiv>
+                    <Unicode>7) Teil 32.05 Blatt 33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:18;}">
+                <Coords points="1010,2933 1732,2936 2253,2901 2251,2871 1731,2906 1010,2903"/>
+                <Baseline points="1010,2933 1732,2936 2253,2901"/>
+                <TextEquiv>
+                    <Unicode>Ändern entspr. Zeichnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:19;}">
+                <Coords points="815,3050 1119,3050 1714,3046 2012,3036 2232,3043 2233,3013 2012,3006 1713,3016 1119,3020 815,3020"/>
+                <Baseline points="815,3050 1119,3050 1714,3046 2012,3036 2232,3043"/>
+                <TextEquiv>
+                    <Unicode>ebenso Teil 32.09 Blatt 33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:20;} textStyle {offset:15; length:1;strikethrough}">
+                <Coords points="889,3177 1367,3177 1792,3163 2320,3160 2320,3130 1791,3133 1367,3147 889,3147"/>
+                <Baseline points="889,3177 1367,3177 1792,3163 2320,3160"/>
+                <TextEquiv>
+                    <Unicode>" Teil 35.30 " " 37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:21;}">
+                <Coords points="531,3354 1180,3347 1697,3347 2005,3347 2005,3317 1697,3317 1180,3317 531,3324"/>
+                <Baseline points="531,3354 1180,3347 1697,3347 2005,3347"/>
+                <TextEquiv>
+                    <Unicode>8) Teil 33.15 Blatt 34</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2398,3437 2477,3437 2477,3501 2398,3501"/>
+            <TextLine id="l_23" custom="readingOrder {index:0;}">
+                <Coords points="2411,3497 2459,3497 2459,3467 2411,3467"/>
+                <Baseline points="2411,3497 2459,3497"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

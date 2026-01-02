@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:40:42.139+01:00</Created>
+        <LastChange>2025-12-28T13:09:08.638+01:00</LastChange>
+        <TranskribusMetadata docId="12840529" pageId="108198724" pageNr="1" tsid="269503384" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CRTOYEATPXYJDGEEEVBDRZLY" xmlUrl="https://files.transkribus.eu/Get?id=ECKYAMAIEXUHBPGTEMNWNRMD" imageId="90985217"/>
+    </Metadata>
+    <Page imageFilename="12840529_0001_108198724.jpg" imageWidth="2570" imageHeight="3622">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957957572" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+                <RegionRefIndexed index="3" regionRef="r_3"/>
+                <RegionRefIndexed index="4" regionRef="r_4"/>
+                <RegionRefIndexed index="5" regionRef="r_5"/>
+                <RegionRefIndexed index="6" regionRef="r_6"/>
+                <RegionRefIndexed index="7" regionRef="r_7"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="517,152 2320,152 2320,307 517,307"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="543,283 2284,294 2284,264 543,253"/>
+                <Baseline points="543,283 2284,294"/>
+                <TextEquiv>
+                    <Unicode>C. Zuse-Schriften, unveröffentlicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="396,374 2109,374 2109,751 396,751"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;} person {offset:3; length:8;wikiData:Q60093;}">
+                <Coords points="418,486 807,494 808,464 419,456"/>
+                <Baseline points="418,486 807,494"/>
+                <TextEquiv>
+                    <Unicode>a) Zuse, K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="473,604 831,602 1215,602 1538,599 1891,602 1891,572 1538,569 1215,572 831,572 473,574"/>
+                <Baseline points="473,604 831,602 1215,602 1538,599 1891,602"/>
+                <TextEquiv>
+                    <Unicode>"Theorie der angewandten Logistik"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;} abbrev {offset:12; length:4;expansion:zusammen;}">
+                <Coords points="613,700 871,700 1123,698 1355,705 1533,705 1652,693 1649,663 1531,675 1355,675 1123,668 871,670 613,670"/>
+                <Baseline points="613,700 871,700 1123,698 1355,705 1533,705 1652,693"/>
+                <TextEquiv>
+                    <Unicode>(5 Kapitel, zus. 240 Seiten)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:3;} unclear {offset:3; length:3;}">
+                <Coords points="1868,709 1985,716 2034,716 2048,716 2048,686 2034,686 1986,686 1870,679"/>
+                <Baseline points="1868,709 1985,716 2034,716 2048,716"/>
+                <TextEquiv>
+                    <Unicode>[0.1.1]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;}">
+            <Coords points="396,901 2493,901 2493,1482 396,1482"/>
+            <TextLine id="l_5" custom="readingOrder {index:0;} person {offset:3; length:8;wikiData:Q60093;}">
+                <Coords points="414,1021 824,1016 824,986 414,991"/>
+                <Baseline points="414,1021 824,1016"/>
+                <TextEquiv>
+                    <Unicode>b) Zuse, K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:1;}">
+                <Coords points="468,1140 676,1128 967,1126 1203,1126 1489,1126 1938,1131 2200,1128 2364,1128 2364,1098 2200,1098 1938,1101 1489,1096 1203,1096 967,1096 675,1098 466,1110"/>
+                <Baseline points="468,1140 676,1128 967,1126 1203,1126 1489,1126 1938,1131 2200,1128 2364,1128"/>
+                <TextEquiv>
+                    <Unicode>"Ansätze einer Theorie des allgemeinen Rechnens-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:2;}">
+                <Coords points="452,1229 700,1226 871,1226 1053,1226 1238,1224 1388,1229 1578,1231 1774,1229 1903,1229 2076,1226 2221,1226 2383,1226 2458,1231 2460,1201 2384,1196 2221,1196 2076,1196 1903,1199 1774,1199 1578,1201 1389,1199 1238,1194 1053,1196 871,1196 700,1196 452,1199"/>
+                <Baseline points="452,1229 700,1226 871,1226 1053,1226 1238,1224 1388,1229 1578,1231 1774,1229 1903,1229 2076,1226 2221,1226 2383,1226 2458,1231"/>
+                <TextEquiv>
+                    <Unicode>unter besonderer Berücksichtigung des AussagenKalküls-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:3;}">
+                <Coords points="473,1334 679,1329 899,1329 985,1325 1102,1327 1266,1329 1395,1334 1533,1334 1709,1325 1959,1332 2114,1332 2219,1332 2350,1332 2350,1302 2219,1302 2114,1302 1959,1302 1709,1295 1532,1304 1396,1304 1267,1299 1102,1297 985,1295 898,1299 679,1299 472,1304"/>
+                <Baseline points="473,1334 679,1329 899,1329 985,1325 1102,1327 1266,1329 1395,1334 1533,1334 1709,1325 1959,1332 2114,1332 2219,1332 2350,1332"/>
+                <TextEquiv>
+                    <Unicode>und dessen Anwendung auf Relaisschaltungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:4;}">
+                <Coords points="602,1437 803,1435 934,1437 1077,1439 1152,1437 1151,1407 1077,1409 934,1407 803,1405 602,1407"/>
+                <Baseline points="602,1437 803,1435 934,1437 1077,1439 1152,1437"/>
+                <TextEquiv>
+                    <Unicode>(127 Seiten)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:5;}">
+                <Coords points="1903,1447 1992,1442 2137,1451 2139,1421 1992,1412 1901,1417"/>
+                <Baseline points="1903,1447 1992,1442 2137,1451"/>
+                <TextEquiv>
+                    <Unicode>[0.2.2]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:3;}">
+            <Coords points="366,1635 2479,1635 2479,2013 366,2013"/>
+            <TextLine id="l_11" custom="readingOrder {index:0;} person {offset:3; length:7;wikiData:Q60093;}">
+                <Coords points="382,1746 520,1746 681,1751 770,1744 939,1741 1072,1748 1074,1718 940,1711 769,1714 680,1721 520,1716 382,1716"/>
+                <Baseline points="382,1746 520,1746 681,1751 770,1744 939,1741 1072,1748"/>
+                <TextEquiv>
+                    <Unicode>c) Zuse, K: 1948</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:1;}">
+                <Coords points="482,1854 587,1854 707,1861 873,1851 992,1851 1102,1847 1219,1858 1313,1858 1414,1863 1507,1854 1615,1854 1816,1849 1915,1854 2083,1854 2259,1863 2359,1861 2465,1865 2466,1835 2359,1831 2259,1833 2084,1824 1916,1824 1816,1819 1615,1824 1506,1824 1413,1833 1314,1828 1220,1828 1103,1817 991,1821 872,1821 707,1831 588,1824 482,1824"/>
+                <Baseline points="482,1854 587,1854 707,1861 873,1851 992,1851 1102,1847 1219,1858 1313,1858 1414,1863 1507,1854 1615,1854 1816,1849 1915,1854 2083,1854 2259,1863 2359,1861 2465,1865"/>
+                <TextEquiv>
+                    <Unicode>Freiheit und Kausalität im Lichte der Rechenmaschine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:2;}">
+                <Coords points="672,1968 812,1961 1063,1966 1064,1936 812,1931 671,1938"/>
+                <Baseline points="672,1968 812,1961 1063,1966"/>
+                <TextEquiv>
+                    <Unicode>57 Seiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:3;}">
+                <Coords points="1952,1964 2076,1966 2158,1975 2161,1945 2078,1936 1952,1934"/>
+                <Baseline points="1952,1964 2076,1966 2158,1975"/>
+                <TextEquiv>
+                    <Unicode>[0.02]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:4;}">
+            <Coords points="378,2173 2255,2173 2255,2636 378,2636"/>
+            <TextLine id="l_15" custom="readingOrder {index:0;} person {offset:3; length:8;wikiData:Q60093;}">
+                <Coords points="386,2277 585,2277 768,2270 932,2270 1102,2275 1103,2245 932,2240 767,2240 584,2247 386,2247"/>
+                <Baseline points="386,2277 585,2277 768,2270 932,2270 1102,2275"/>
+                <TextEquiv>
+                    <Unicode>d) Zuse, K. 1948</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:1;}">
+                <Coords points="449,2376 639,2369 822,2376 1030,2385 1184,2385 1498,2394 1704,2387 1800,2371 1983,2383 2135,2390 2198,2387 2197,2357 2135,2360 1985,2353 1799,2341 1701,2357 1498,2364 1184,2355 1031,2355 823,2346 639,2339 448,2346"/>
+                <Baseline points="449,2376 639,2369 822,2376 1030,2385 1184,2385 1498,2394 1704,2387 1800,2371 1983,2383 2135,2390 2198,2387"/>
+                <TextEquiv>
+                    <Unicode>"Über Theorie und Anwendungen logistischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:2;}">
+                <Coords points="440,2479 613,2488 810,2483 1028,2493 1029,2463 810,2453 613,2458 442,2449"/>
+                <Baseline points="440,2479 613,2488 810,2483 1028,2493"/>
+                <TextEquiv>
+                    <Unicode>Rechengeräte."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:3;}">
+                <Coords points="709,2591 822,2589 1037,2598 1038,2568 822,2559 708,2561"/>
+                <Baseline points="709,2591 822,2589 1037,2598"/>
+                <TextEquiv>
+                    <Unicode>31 Seiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:4;}">
+                <Coords points="1961,2589 2069,2589 2167,2593 2168,2563 2070,2559 1961,2559"/>
+                <Baseline points="1961,2589 2069,2589 2167,2593"/>
+                <TextEquiv>
+                    <Unicode>[0.1.4]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:5;}">
+            <Coords points="363,2698 2371,2698 2371,3046 363,3046"/>
+            <TextLine id="l_20" custom="readingOrder {index:0;} person {offset:3; length:7;wikiData:Q60093;}">
+                <Coords points="377,2797 543,2799 770,2795 953,2792 1035,2795 1036,2765 953,2762 769,2765 543,2769 377,2767"/>
+                <Baseline points="377,2797 543,2799 770,2795 953,2792 1035,2795"/>
+                <TextEquiv>
+                    <Unicode>e) Zuse K. 1948 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:1;} sic {offset:37; length:12;} unclear {offset:46; length:3;}">
+                <Coords points="468,2902 632,2902 878,2902 1236,2902 1463,2902 1681,2900 1957,2905 2109,2905 2196,2905 2282,2898 2315,2898 2315,2868 2281,2868 2195,2875 2109,2875 1957,2875 1681,2870 1463,2872 1236,2872 878,2872 632,2872 468,2872"/>
+                <Baseline points="468,2902 632,2902 878,2902 1236,2902 1463,2902 1681,2900 1957,2905 2109,2905 2196,2905 2282,2898 2315,2898"/>
+                <TextEquiv>
+                    <Unicode>"Uber die Mechanisierung schematisch kombinatirer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:2;} gap {offset:9; length:0;} gap {offset:21; length:0;}">
+                <Coords points="466,3005 552,3015 655,3015 756,3005 854,2998 1105,3010 1248,3012 1482,3012 2006,3017 2114,3012 2217,3012 2217,2982 2113,2982 2005,2987 1482,2982 1248,2982 1106,2980 854,2968 753,2975 654,2985 554,2985 469,2975"/>
+                <Baseline points="466,3005 552,3015 655,3015 756,3005 854,2998 1105,3010 1248,3012 1482,3012 2006,3017 2114,3012 2217,3012"/>
+                <TextEquiv>
+                    <Unicode>Aufgaben" (41 Seiten) [0.1.3]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_6" custom="readingOrder {index:6;}">
+            <Coords points="348,3113 2410,3113 2410,3368 348,3368"/>
+            <TextLine id="l_23" custom="readingOrder {index:0;} person {offset:3; length:6;wikiData:Q60093;}">
+                <Coords points="360,3235 499,3218 644,3218 868,3223 1023,3223 1037,3223 1037,3193 1023,3193 868,3193 644,3188 497,3188 356,3205"/>
+                <Baseline points="360,3235 499,3218 644,3218 868,3223 1023,3223 1037,3223"/>
+                <TextEquiv>
+                    <Unicode>f) Zuse K 1950</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:1;}">
+                <Coords points="487,3338 688,3335 960,3328 1308,3324 1489,3324 1695,3326 1961,3326 2123,3333 2369,3326 2368,3296 2123,3303 1962,3296 1695,3296 1489,3294 1308,3294 959,3298 687,3305 487,3308"/>
+                <Baseline points="487,3338 688,3335 960,3328 1308,3324 1489,3324 1695,3326 1961,3326 2123,3333 2369,3326"/>
+                <TextEquiv>
+                    <Unicode>"Rechnen im Dualsystem" (93 Seiten) [0.2.1]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_7" custom="readingOrder {index:7;} structure {type:page-number;}">
+            <Coords points="2397,3455 2454,3455 2454,3548 2397,3548"/>
+            <TextLine id="l_25" custom="readingOrder {index:0;}">
+                <Coords points="2406,3534 2441,3532 2439,3502 2404,3504"/>
+                <Baseline points="2406,3534 2441,3532"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

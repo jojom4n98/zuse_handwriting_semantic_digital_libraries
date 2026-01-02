@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:40:42.560+01:00</Created>
+        <LastChange>2025-12-28T13:21:51.017+01:00</LastChange>
+        <TranskribusMetadata docId="12840529" pageId="108198752" pageNr="4" tsid="269504609" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CXGPWILEXCLZVEZBKQGQDKWF" xmlUrl="https://files.transkribus.eu/Get?id=GOZRHBPJZTDVGNGMNTDJWMQR" imageId="90985225"/>
+    </Metadata>
+    <Page imageFilename="12840529_0004_108198752.jpg" imageWidth="2579" imageHeight="3623">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957958066" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+                <RegionRefIndexed index="3" regionRef="r_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="413,166 2238,166 2238,632 413,632"/>
+            <TextLine id="l_3" custom="readingOrder {index:0;}">
+                <Coords points="435,272 722,278 794,266 1116,281 1532,281 1898,275 2201,272 2201,242 1898,245 1532,251 1117,251 792,236 720,248 436,242"/>
+                <Baseline points="435,272 722,278 794,266 1116,281 1532,281 1898,275 2201,272"/>
+                <TextEquiv>
+                    <Unicode>Ähnlich tiefgreifende Folgen in mathematischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:1;}">
+                <Coords points="431,375 719,366 838,369 1019,369 1172,385 1438,366 1644,375 1748,369 1979,378 2151,385 2226,385 2226,355 2152,355 1980,348 1748,339 1644,345 1438,336 1172,355 1021,339 838,339 719,336 430,345"/>
+                <Baseline points="431,375 719,366 838,369 1019,369 1172,385 1438,366 1644,375 1748,369 1979,378 2151,385 2226,385"/>
+                <TextEquiv>
+                    <Unicode>Beziehung hatte die Angabe der Flußdiagramms-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:2;} textStyle {offset:28; length:11;underlined} person {offset:28; length:11;wikiData:Q17455;}">
+                <Coords points="448,489 675,487 861,478 1031,487 1294,487 1426,493 1625,485 2029,483 2182,483 2182,453 2029,453 1624,455 1426,463 1295,457 1032,457 861,448 674,457 448,459"/>
+                <Baseline points="448,489 675,487 861,478 1031,487 1294,487 1426,493 1625,485 2029,483 2182,483"/>
+                <TextEquiv>
+                    <Unicode>und der Sprungbefehle durch Jv. Neumann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:3;} textStyle {offset:0; length:11;underlined} person {offset:0; length:11;wikiData:Q711833;} person {offset:16; length:15;wikiData:Q93005;} textStyle {offset:22; length:9;underlined}">
+                <Coords points="457,594 685,581 1004,585 1196,585 1403,581 1633,591 1785,585 2046,585 2046,555 1784,555 1633,561 1403,551 1196,555 1004,555 684,551 455,564"/>
+                <Baseline points="457,594 685,581 1004,585 1196,585 1403,581 1633,591 1785,585 2046,585"/>
+                <TextEquiv>
+                    <Unicode>A. W. Burks und H. H. Goldstine seit 1946.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2273,97 2460,97 2460,166 2273,166"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2298,153 2432,153 2432,123 2298,123"/>
+                <Baseline points="2298,153 2432,153"/>
+                <TextEquiv>
+                    <Unicode>–3–</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:marginalia;}">
+            <Coords points="2270,488 2448,488 2448,600 2270,600"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2285,591 2435,588 2434,558 2284,561"/>
+                <Baseline points="2285,591 2435,588"/>
+                <TextEquiv>
+                    <Unicode>1946</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:3;} structure {type:page-number;}">
+            <Coords points="2388,3470 2467,3470 2467,3545 2388,3545"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="2404,3539 2451,3539 2451,3509 2404,3509"/>
+                <Baseline points="2404,3539 2451,3539"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

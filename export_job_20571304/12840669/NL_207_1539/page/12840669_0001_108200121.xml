@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:45:56.584+01:00</Created>
+        <LastChange>2025-12-28T13:34:52.769+01:00</LastChange>
+        <TranskribusMetadata docId="12840669" pageId="108200121" pageNr="1" tsid="269505549" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RPYMKLYKTENKMPGHQEYVONWE" xmlUrl="https://files.transkribus.eu/Get?id=KSCNTHDMNGWXFTCJMXHHKITS" imageId="90986464"/>
+    </Metadata>
+    <Page imageFilename="12840669_0001_108200121.jpg" imageWidth="1882" imageHeight="2549">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958256905" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="720,143 1600,143 1600,307 720,307"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="752,264 1579,262 1579,232 752,234"/>
+                <Baseline points="752,264 1579,262"/>
+                <TextEquiv>
+                    <Unicode>Freiburg, d. 19.10.54.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="157,274 1787,274 1787,2281 157,2281"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="193,383 1280,385 1280,355 193,353"/>
+                <Baseline points="193,383 1280,385"/>
+                <TextEquiv>
+                    <Unicode>Sehr geehrter Herr Professor!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="421,502 1660,504 1660,474 421,472"/>
+                <Baseline points="421,502 1660,504"/>
+                <TextEquiv>
+                    <Unicode>Es ist mir noch folgende einge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;}">
+                <Coords points="202,630 1641,623 1641,593 202,600"/>
+                <Baseline points="202,630 1641,623"/>
+                <TextEquiv>
+                    <Unicode>fallen: Man kann den Einfluss der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:3;} textStyle {offset:21; length:1;subscript}">
+                <Coords points="224,744 1717,747 1717,717 224,714"/>
+                <Baseline points="224,744 1717,747"/>
+                <TextEquiv>
+                    <Unicode>Drossel und Druckes pQ (Quellendruck =</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:4;}">
+                <Coords points="224,866 1772,863 1772,833 224,836"/>
+                <Baseline points="224,866 1772,863"/>
+                <TextEquiv>
+                    <Unicode>Druck der erzeugenden Pressluftquelle)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:5;}">
+                <Coords points="209,978 1731,980 1731,950 209,948"/>
+                <Baseline points="209,978 1731,980"/>
+                <TextEquiv>
+                    <Unicode>eliminieren, wenn der Widerstand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:6;} textStyle {offset:16; length:1;strikethrough} textStyle {offset:17; length:1;strikethrough; subscript} textStyle {offset:20; length:1;subscript}">
+                <Coords points="193,1099 1596,1104 1596,1074 193,1069"/>
+                <Baseline points="193,1099 1596,1104"/>
+                <TextEquiv>
+                    <Unicode>der Drossel und pq pa hoch ansetzt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:7;} textStyle {offset:1; length:1;subscript}">
+                <Coords points="171,1230 1672,1213 1672,1183 171,1200"/>
+                <Baseline points="171,1230 1672,1213"/>
+                <TextEquiv>
+                    <Unicode>p0 = Druck im schädlichen Raum ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:8;} textStyle {offset:28; length:1;strikethrough} textStyle {offset:29; length:1;strikethrough; subscript} textStyle {offset:30; length:1;strikethrough} textStyle {offset:32; length:1;subscript}">
+                <Coords points="169,1327 1705,1341 1705,1311 169,1297"/>
+                <Baseline points="169,1327 1705,1341"/>
+                <TextEquiv>
+                    <Unicode>dann klein im Verhältnis zu pq pa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:9;}">
+                <Coords points="174,1448 1622,1444 1622,1414 174,1418"/>
+                <Baseline points="174,1448 1622,1444"/>
+                <TextEquiv>
+                    <Unicode>Dementsprechend ist bei kleinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:10;} textStyle {offset:16; length:1;subscript}">
+                <Coords points="169,1582 1748,1574 1748,1544 169,1552"/>
+                <Baseline points="169,1582 1748,1574"/>
+                <TextEquiv>
+                    <Unicode>Änderungen von p0 der Druckabfall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:11;}">
+                <Coords points="162,1680 1725,1693 1725,1663 162,1650"/>
+                <Baseline points="162,1680 1725,1693"/>
+                <TextEquiv>
+                    <Unicode>in der Drossel kaum verändert, was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:12;} unclear {offset:4; length:9;}">
+                <Coords points="178,1822 1696,1824 1696,1794 178,1792"/>
+                <Baseline points="178,1822 1696,1824"/>
+                <TextEquiv>
+                    <Unicode>ein annähernd konstantes p durch die Drossel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:13;}">
+                <Coords points="169,1915 421,1915 421,1885 169,1885"/>
+                <Baseline points="169,1915 421,1915"/>
+                <TextEquiv>
+                    <Unicode>ergibt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:14;} sic {offset:24; length:10;correction:vielleicht;}">
+                <Coords points="281,2034 1617,2038 1617,2008 281,2004"/>
+                <Baseline points="281,2034 1617,2038"/>
+                <TextEquiv>
+                    <Unicode>Es empfiehlt sich  sich villleicht ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:15;}">
+                <Coords points="164,2152 1755,2171 1755,2141 164,2122"/>
+                <Baseline points="164,2152 1755,2171"/>
+                <TextEquiv>
+                    <Unicode>elektrisches Ersatzbild zu verwenden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:16;}">
+                <Coords points="169,2267 1665,2267 1665,2237 169,2237"/>
+                <Baseline points="169,2267 1665,2267"/>
+                <TextEquiv>
+                    <Unicode>bei dem die Drossel durch einen Wider-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="1726,2408 1779,2408 1779,2478 1726,2478"/>
+            <TextLine id="l_18" custom="readingOrder {index:0;}">
+                <Coords points="1731,2469 1770,2469 1770,2439 1731,2439"/>
+                <Baseline points="1731,2469 1770,2469"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

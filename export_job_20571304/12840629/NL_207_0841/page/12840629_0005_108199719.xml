@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:43:15.074+01:00</Created>
+        <LastChange>2025-12-27T11:55:40.573+01:00</LastChange>
+        <TranskribusMetadata docId="12840629" pageId="108199719" pageNr="5" tsid="269307293" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=INONEYGMMOHVYKYPVQOUILQL" xmlUrl="https://files.transkribus.eu/Get?id=OLJSTHKQDJWKXYXJJANKFEVE" imageId="90986097"/>
+    </Metadata>
+    <Page imageFilename="12840629_0005_108199719.jpg" imageWidth="2625" imageHeight="3626">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957983668" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_5"/>
+                <RegionRefIndexed index="3" regionRef="r_4"/>
+                <RegionRefIndexed index="4" regionRef="r"/>
+                <RegionRefIndexed index="5" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_2" custom="readingOrder {index:0;}">
+            <Coords points="279,233 2482,233 2482,896 279,896"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="380,365 710,365 972,368 1335,383 1903,368 2096,358 2322,358 2322,328 2095,328 1902,338 1335,353 973,338 710,335 380,335"/>
+                <Baseline points="380,365 710,365 972,368 1335,383 1903,368 2096,358 2322,358"/>
+                <TextEquiv>
+                    <Unicode>Die Schiene wird über eine für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;} unclear {offset:27; length:6;}">
+                <Coords points="325,461 519,466 769,472 1095,468 1275,463 1834,474 2096,478 2306,474 2408,478 2409,448 2306,444 2096,448 1835,444 1275,433 1094,438 769,442 520,436 326,431"/>
+                <Baseline points="325,461 519,466 769,472 1095,468 1275,463 1834,474 2096,478 2306,474 2408,478"/>
+                <TextEquiv>
+                    <Unicode>alle Kupplungen gemeinsame Nochen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;}">
+                <Coords points="329,610 540,595 744,591 1086,597 1352,599 1669,599 1945,597 2166,604 2364,616 2432,619 2433,589 2366,586 2167,574 1945,567 1669,569 1352,569 1086,567 744,561 539,565 327,580"/>
+                <Baseline points="329,610 540,595 744,591 1086,597 1352,599 1669,599 1945,597 2166,604 2364,616 2432,619"/>
+                <TextEquiv>
+                    <Unicode>Scheibe (Nicht gezeichnet) angetrieben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:3;} unclear {offset:10; length:6;}">
+                <Coords points="589,818 871,816 1180,823 1530,816 1822,833 2051,831 2183,825 2182,795 2050,801 1823,803 1531,786 1180,793 871,786 589,788"/>
+                <Baseline points="589,818 871,816 1180,823 1530,816 1822,833 2051,831 2183,825"/>
+                <TextEquiv>
+                    <Unicode>Schaltung fü die Magnet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:1;}">
+            <Coords points="456,998 1179,918 1217,1121 1732,1262 1811,1800 456,1744"/>
+        </GraphicRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:2;}">
+            <Coords points="1235,983 2289,983 2289,1239 1992,1240 1991,1137 1254,1111"/>
+            <TextLine id="l_5" custom="readingOrder {index:0;}">
+                <Coords points="1282,1086 1492,1084 1764,1090 1960,1093 2206,1093 2206,1063 1960,1063 1765,1060 1492,1054 1282,1056"/>
+                <Baseline points="1282,1086 1492,1084 1764,1090 1960,1093 2206,1093"/>
+                <TextEquiv>
+                    <Unicode>Relais für Stelle i von ∆x</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:1;}">
+                <Coords points="2072,1180 2221,1178 2221,1148 2072,1150"/>
+                <Baseline points="2072,1180 2221,1178"/>
+                <TextEquiv>
+                    <Unicode>∆y.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="316,1747 1438,1830 1438,1984 794,1996 263,1909"/>
+            <TextLine id="l_7" custom="readingOrder {index:0;}">
+                <Coords points="310,1885 555,1881 729,1888 874,1905 1050,1917 1209,1930 1401,1951 1404,1921 1212,1900 1052,1887 877,1875 731,1858 555,1851 310,1855"/>
+                <Baseline points="310,1885 555,1881 729,1888 874,1905 1050,1917 1209,1930 1401,1951"/>
+                <TextEquiv>
+                    <Unicode>Raststellungskontakt, Ck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:4;} structure {type:page-number;}">
+            <Coords points="2369,113 2506,113 2506,243 2369,243"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2391,222 2474,222 2474,192 2391,192"/>
+                <Baseline points="2391,222 2474,222"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:5;} structure {type:page-number;}">
+            <Coords points="2410,3449 2519,3449 2519,3555 2410,3555"/>
+            <TextLine id="l_8" custom="readingOrder {index:0;}">
+                <Coords points="2438,3545 2485,3543 2484,3513 2437,3515"/>
+                <Baseline points="2438,3545 2485,3543"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:48:44.510+01:00</Created>
+        <LastChange>2025-12-13T21:45:50.756+01:00</LastChange>
+        <TranskribusMetadata docId="12875831" pageId="108519281" pageNr="14" tsid="265588999" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XXTSJVQUGUJXVCGCXYPPXIQF" xmlUrl="https://files.transkribus.eu/Get?id=KJVNPEAQBVRFZVJIAKJJOMAF" imageId="91288398"/>
+    </Metadata>
+    <Page imageFilename="12875831_0014_108519281.jpg" imageWidth="2517" imageHeight="3272">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958021581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="203,2202 201,472 267,159 1455,156 2242,558 2235,762 2052,1002 2121,1248 2385,1884 2394,1947 2280,2033 2177,2471 2296,2643 2325,2730 2023,2806 1266,2787"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;} unclear {offset:10; length:12;}">
+                <Coords points="271,307 567,294 1036,284 1445,273 1444,243 1035,254 566,264 270,277"/>
+                <Baseline points="271,307 567,294 1036,284 1445,273"/>
+                <TextEquiv>
+                    <Unicode>9) 8000 m Schaltderabt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="252,424 721,424 1210,414 1398,414 1398,384 1210,384 721,394 252,394"/>
+                <Baseline points="252,424 721,424 1210,414 1398,414"/>
+                <TextEquiv>
+                    <Unicode>10) 30 20-fach-Stecker.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="242,583 698,560 1210,552 1642,565 1643,535 1210,522 697,530 240,553"/>
+                <Baseline points="242,583 698,560 1210,552 1642,565"/>
+                <TextEquiv>
+                    <Unicode>11) 60 m 20-fach-Kabel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="245,711 573,718 1106,721 1564,729 2192,729 2192,699 1564,699 1106,691 573,688 246,681"/>
+                <Baseline points="245,711 573,718 1106,721 1564,729 2192,729"/>
+                <TextEquiv>
+                    <Unicode>12) 1000 kg Walzeisen (Profileisen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;}">
+                <Coords points="239,893 677,869 1083,875 1546,864 1864,856 1863,826 1545,834 1083,845 676,839 237,863"/>
+                <Baseline points="239,893 677,869 1083,875 1546,864 1864,856"/>
+                <TextEquiv>
+                    <Unicode>13) Feinbleche 0,1-0,2 mm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;}">
+                <Coords points="552,999 1067,989 1546,986 2004,986 2004,956 1546,956 1067,959 551,969"/>
+                <Baseline points="552,999 1067,989 1546,986 2004,986"/>
+                <TextEquiv>
+                    <Unicode>(Stahl, Dural, oder Messing).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;}">
+                <Coords points="757,1083 1169,1104 1403,1096 1402,1066 1169,1074 759,1053"/>
+                <Baseline points="757,1083 1169,1104 1403,1096"/>
+                <TextEquiv>
+                    <Unicode>etwa 200 kg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;}">
+                <Coords points="237,1273 552,1265 992,1262 1645,1260 2072,1268 2073,1238 1645,1230 992,1232 552,1235 236,1243"/>
+                <Baseline points="237,1273 552,1265 992,1262 1645,1260 2072,1268"/>
+                <TextEquiv>
+                    <Unicode>14) Verschiedenes wie Schrauben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;}">
+                <Coords points="422,1403 1002,1387 1088,1395 1512,1387 1511,1357 1089,1365 1003,1357 421,1373"/>
+                <Baseline points="422,1403 1002,1387 1088,1395 1512,1387"/>
+                <TextEquiv>
+                    <Unicode>Kettenräder usw.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;}">
+                <Coords points="247,1463 547,1494 713,1494 924,1489 923,1459 713,1464 549,1464 250,1433"/>
+                <Baseline points="247,1463 547,1494 713,1494 924,1489"/>
+                <TextEquiv>
+                    <Unicode>15) Stanzwerkzeug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;}">
+                <Coords points="549,1666 1327,1663 1715,1676 2259,1689 2260,1659 1716,1646 1327,1633 549,1636"/>
+                <Baseline points="549,1666 1327,1663 1715,1676 2259,1689"/>
+                <TextEquiv>
+                    <Unicode>Vielleicht genügt Ihnen diese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;}">
+                <Coords points="346,1796 914,1791 1265,1806 1661,1814 2228,1830 2229,1800 1662,1784 1266,1776 915,1761 346,1766"/>
+                <Baseline points="346,1796 914,1791 1265,1806 1661,1814 2228,1830"/>
+                <TextEquiv>
+                    <Unicode>Aufstellung zunächst. Im Falle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;}">
+                <Coords points="276,1939 1642,1926 1838,1939 2132,1934 2356,1965 2360,1935 2134,1904 1839,1909 1643,1896 276,1909"/>
+                <Baseline points="276,1939 1642,1926 1838,1939 2132,1934 2356,1965"/>
+                <TextEquiv>
+                    <Unicode>das die Sache aktuell wird, würde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:13;}">
+                <Coords points="265,2046 789,2041 1970,2051 2251,2061 2252,2031 1971,2021 789,2011 265,2016"/>
+                <Baseline points="265,2046 789,2041 1970,2051 2251,2061"/>
+                <TextEquiv>
+                    <Unicode>sowieso eine genaue Aufstellung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:14;}">
+                <Coords points="247,2168 604,2163 1070,2158 1301,2163 1302,2133 1070,2128 604,2133 247,2138"/>
+                <Baseline points="247,2168 604,2163 1070,2158 1301,2163"/>
+                <TextEquiv>
+                    <Unicode>gemacht werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:15;}">
+                <Coords points="718,2468 1127,2449 1497,2460 1825,2468 2129,2488 2131,2458 1826,2438 1498,2430 1127,2419 717,2438"/>
+                <Baseline points="718,2468 1127,2449 1497,2460 1825,2468 2129,2488"/>
+                <TextEquiv>
+                    <Unicode>Mit den besten Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:16;} person {offset:0; length:11;wikiData:Q60093;}">
+                <Coords points="1366,2720 1926,2720 2291,2712 2290,2682 1926,2690 1366,2690"/>
+                <Baseline points="1366,2720 1926,2720 2291,2712"/>
+                <TextEquiv>
+                    <Unicode>Konrad Zuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="1646,2830 1805,2830 1805,2948 1646,2948"/>
+            <TextLine id="l" custom="readingOrder {index:0;} unclear {offset:0; length:3;}">
+                <Coords points="1663,2929 1784,2932 1785,2902 1664,2899"/>
+                <Baseline points="1663,2929 1784,2932"/>
+                <TextEquiv>
+                    <Unicode>deh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="1767,3118 1864,3118 1864,3194 1767,3194"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="1781,3184 1841,3181 1840,3151 1780,3154"/>
+                <Baseline points="1781,3184 1841,3181"/>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>12876129</docId>
+    <title>NL_207/0825</title>
+    <uploadTimestamp>1765465187863</uploadTimestamp>
+    <uploader>dickhaut.johannes@studio.unibo.it</uploader>
+    <uploaderId>444774</uploaderId>
+    <nrOfPages>4</nrOfPages>
+    <pageId>108521651</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=MJGRRYRGINIGXWDEYWYZRWIH</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=MJGRRYRGINIGXWDEYWYZRWIH</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_12876129</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>2182337</colId>
+            <colName>Zuse_Handwritten</colName>
+            <description>dickhaut.johannes@studio.unibo.it</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+            <isFavorite>false</isFavorite>
+        </colList>
+    </collectionList>
+    <mainColId>2182337</mainColId>
+</trpDocMetadata>

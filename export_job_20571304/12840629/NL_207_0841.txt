@@ -1,0 +1,154 @@
+Kupplung 28.5.60.
+
+
+A. Antrieb, dauernd umlaufend
+B Festes Teil, auf Welle sitzend
+C. Abtrieb.
+Verbindungsglied zwischen
+Antrieb u Abtrieb ist Rolle Cr1
+Verb.glied zw. Abtrieb u. Festteil Rolle Cr2
+D Cr1, Cr2 auf Schieber C2 radial zu
+C1 verschiebbar. Innere Stellung = Raststellung
+Äusser " = Laufstellung
+A. Antrieb enthält: Transportnut (A5).
+Anfahrtenline Aka
+Bremstenline Akb.
+Mitteltenline Akm.
+Aka, Akb, Akm sind in Achsrichtung
+verschiebbar auf Teil A1 angebracht.
+Wird Aka oder Akb geschaltet (In der Zeichnung
+von links nach rechts verschieben), so wird
+über Ansätze A10, A11 Akm mit in Arbeits-
+stellung gebracht. Die Schaltung von
+Aka bzw. Akb erfolgt über Ringsegmente
+A12, A13 von aussen (Siehe unten).
+Die Rückstellung erfolgt über Akm, welches
+eine Rücksstell mit Ak A14 aufweist.
+
+
+1
+
+
+1
+
+
+2
+
+
+Der Kulissenhub beträgt 6 mm.
+(Rollenbreite 5 mm).
+Bei der Konstruktion ist zu beachten,
+dass sich die Kulisen A5, Aka, Akm, Akb
+in den Grenzstellungen überlappen müssen
+um Anecken zu vermeiden. Daher Kulissen
+breite 6-7 mm.
+Die Kulissen Aka, Akb, Akm müssen
+in den Grenzstellungen gegen Verschieben
+durch Blattfedern gesichert sein.
+Teil A läuft dauernd mit gleichmässiger
+Geschwindigkeit um.
+Massenausgleich über A6. (Berechnen!)
+C Abtrieb Hauptteil C1 mit Zahlkranz
+Schieber C2 trägt Rollen Cr1 Cr2
+Am Schieber C2 ein Nocken C4. Dieser
+schaltet einen Stössel C3, welcher in
+der Ruhestellung einen aussen
+fest montierten Umschaltkontakt Ck
+betätigt. (Nicht gezeichnet) Dieser Kontakt
+zeigt an, ob die betreffende Kupplung
+eingeschaltet ist oder nicht.
+Teil C und Schieber C2 möglicht
+leicht konstruieren
+Massenausgleich beachten!
+Rastfeder zur Sicherung des Schiebers
+C2 beachten. (Nicht gezeichnet).
+
+
+
+
+3
+
+
+Festteil B Dieser Teil sitzt auf
+der Achse und läuft auf Teil C1
+er trägt die Kulissen Bka, Bkb, Bkm, welche
+genau justiert sein müssen.
+Andere feste Teile wie, Kontakte u.
+Magnete k werden am Hauptrahme
+befestigt. Teil B muss gegen Verdrehen
+am Hauptrahmen gesichert sein.
+Beachten, dass keine Verklemmungen
+der Achse auftreten.
+B1 enthält die Rastmit.
+B2 ist der Träger der Kulissen.
+B3 verbindet als Fultenstrick B1
+mit B2.
+Die Kulissen Bka, Bkb, Bkm sind
+der Achse geführt, durch Bolzen
+B4, B5, B6, ferner Drehsicherungen
+B7, B8, B9.
+Bka, Bkb bestehen konstruktiv aus
+zwei Teilen, der eigentlichen Kulisse
+und den Trägern. Diese greift hinter
+die Kulisse Bkm, sodass diese bei
+Schalten einer Kulisse Bka, Bkb mitge
+nommen wird. Umgekehrt werde
+sämtliche Kulissen Bka, Bkb, Bkm
+gelöscht durch Löschen v. Bkm.
+
+
+5
+
+
+4
+
+
+Es sind Verbindungen zwischen
+Bka und Aka, bzw zw. Bkb und
+akb erforderlich , da diese zugleich
+geschaltet werden müssen. Die
+Schaltbewegung ist dabei entgegen gesetzt
+Dies erfolgt über Um Verbindungshebel
+B10, B11. Dies sind von Achsen B12,
+B13 schwenkbar. Die Achsen B12, B13
+sind an Teil B3 befestigt.
+Die Hebel B10, B11 sind auf der einen
+Seite mit den Kulissenführungen
+v. Bka bzw Bkb in Eingriff (Nicht
+gezeichnet) und auf der anderen
+Seite mit den Ringsegmenten
+A12, A13.
+Die Steuerung erfolgt durch Betr
+Verstellen der Kulissen Bka bw. Bkb.
+Dies Hierzu gibt es einen di über alle
+Kupplungen durchlaufende Schiene S
+welche über Nocken S1, S2 und
+Stössel B15, B16. Diese werden von
+Magneten geschaltet.
+Die Löschung von Bkm erfolgt ebenfalls
+über die Schiene S durch ein Langlock
+S3 und einen Stift B14
+
+
+7
+
+
+Die Schiene wird über eine für
+alle Kupplungen gemeinsame Nochen
+Scheibe (Nicht gezeichnet) angetrieben.
+Schaltung fü die Magnet.
+
+
+Relais für Stelle i von ∆x
+∆y.
+
+
+Raststellungskontakt, Ck
+
+
+5
+
+
+8
+
+

@@ -1,0 +1,136 @@
+Programmsteuereung für P insb. für Rechenmaschinen
+Beschreibung eines Leitwerks nach-
+
+
+Die programmgesteuerten Maschinen
+enthalten stets ein Register, das einen Befehls
+text aufnehmen kann und für dessen
+Weiterga Verarbeitung sorgt, das Befehls
+register b. Der Text gelangt in einen
+Entschlüssler oder Steuerregister r und
+setzt von dort aus die Stromtore, Relais etz,
+die, ihrerseits den Zahlen oder Worttrans-
+port gestatten oder unterbinden.
+Solche Transporte sind z. B. das
+1) das Ablesen einer Zahl aus
+dem Speicher, und addieren
+mit oder ohne Additon in
+2) Das Verar das Speichern
+Ist das Resultatwerk oder der Akkumulator
+a ein Register des Rechenwerkes, so
+mit den Zellen s0 .. sm ... sLq gelesenen
+Zahlen zum Inhalt des Akkumulators
+addiert oder subtrahiert werden.
+Mit den Bauelemen b, r, a,
+dem Adderwerk + und dem Kom
+plementwerk - erhalten wir z. B
+folgendes Funktionschema
+einer solchen Maschiene.
+
+
+6
+
+
+2
+
+
+V
+ein Abruf
+befehl
+
+
+Wir beschränken uns darauf zwei
+Typen Klassen von Stromtoren zu betrachten,
+die A - Stromtore, die arithmetische
+Befehle und Zahlentransporte bewirken
+und die E -Stromtore, die Befehls-
+Transporte gestalten.
+Ein Befehl bei dessen Entschlüsselung
+ein E-Tor geöffnet wird/liest einen
+Befehlstext aus dem Speicher ab, während
+ein A Befehl den Speicher mit dem Rechen-
+werk koppelt, diese Befehle seien durch
+Em- und-Am verkodet, wobei m die Zellen
+Nummer der gekoppelten Speicherzelle, die
+sogenannte Adresse repräsentiere.
+Nach einem E-Befehl läuft der Text, im allge-
+meinen ein A-Befehl in b und dan
+kommt dann zur Wirkung.
+
+
+7
+
+
+3
+
+
+Unter den möglichen Methoden
+die Wahl des nächsten Befehlstextes
+sei erwähnt, das man z. B die in einem
+besonderen Zahlwerk, dem Befehlszahlreg-
+ister enthaltene Zahl ihrer eine beson-
+dere Organisation dazu benutzen kann.
+Um Weitere
+Nach vorliegen v. d. Poel (- A simple dec.
+Computer) kann man den ersten Text des
+ersten Abrufbefehl -Em- selber modifizieren (z. B.
+die Adresseneinheit addieren) und zum
+Abrufen der folgenden in den auf zu folgenden
+Speicherzellen bereitstehenden Befehlstexte
+benutzen. In der beschriebenen Maschine
+geht dabei der Abruf Text über das
+Addierwerk in den Akkumulator und,
+verdrangt die dort stehende Zahl auf
+ein Hilfregister und kommt dann modi-
+fiziert ins Befehlsregister.
+Nach vorliegender Erfindung wird
+der Abruftext auf eine Abrufregister c
+gesetzt und erscheint no
+der durch ein Addierwerk modifizierte
+Text Abruftext (Em+1) in ein Abrufregister
+c gesetzt und gelangt nach Ausführung
+eines Arithmetischen Befehls wieder
+in das Befehlsreister um dort den
+
+
+8
+
+
+?
+
+
+in der Zelle m+1 liegenden Text
+in Befehlregister zu holen Zu der
+oben skizzierten Organisation
+komm dann mir das gestrichelt
+gezeichnete de Abrufregister c
+und mit den beiden Stromtoren
+E und A hin und einem Halb-
+addierwerk hinzu.
+Damit ist zweierlei erreicht.
+1.) In Programmen in den den
+kern Sprung vorkommt, arbeitet
+die Maschine im Zweitaktverfahren
+in dem immer ein
+A-Befehl (arithmetisch)
+undein E-Befehl zum Abrufen
+aufeinander Folgen, wobei die
+lineare Folge z. B. m, m+1, m+2
+durch das Halbaddierwerk geleistet
+wird
+2.) Bei einem Sprungbefehl, der
+eine neue Folge mit r, r+1 ...
+beginnen soll, steht im Speicher
+mir der Text Ex, der nach
+in Befehlsregister gelangt, auto-
+matisch die Folge EK, EK+1, EK+2
+und damit eines ein in K beginnen-
+des lineares Programm ausliest.
+
+
+9
+
+
+4
+
+

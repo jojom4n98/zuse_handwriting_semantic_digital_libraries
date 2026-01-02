@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:48:43.082+01:00</Created>
+        <LastChange>2025-12-28T13:44:54.424+01:00</LastChange>
+        <TranskribusMetadata docId="12875831" pageId="108519292" pageNr="9" tsid="269506179" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MQXPGUYIZILSWJVMJSYZGFXA" xmlUrl="https://files.transkribus.eu/Get?id=BXVCQCMWAJQVKYVCCXLFLAFK" imageId="91288336"/>
+    </Metadata>
+    <Page imageFilename="12875831_0009_108519292.jpg" imageWidth="1852" imageHeight="1378">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958019165" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="3" regionRef="r_1"/>
+                <RegionRefIndexed index="4" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_3" custom="readingOrder {index:0;}">
+            <Coords points="106,112 869,112 869,401 106,401"/>
+        </GraphicRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="272,1100 305,1027 179,976 143,933 123,815 124,627 131,545 153,414 795,433 898,543 920,1194 394,1175"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="155,509 317,504 483,504 767,511 768,481 483,474 317,474 154,479"/>
+                <Baseline points="155,509 317,504 483,504 767,511"/>
+                <TextEquiv>
+                    <Unicode>Über den Stand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="155,578 405,571 642,573 851,571 851,541 642,543 405,541 154,548"/>
+                <Baseline points="155,578 405,571 642,573 851,571"/>
+                <TextEquiv>
+                    <Unicode>meiner Angelegen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="129,640 319,642 519,649 660,651 770,653 771,623 660,621 520,619 320,612 129,610"/>
+                <Baseline points="129,640 319,642 519,649 660,651 770,653"/>
+                <TextEquiv>
+                    <Unicode>heit, hoffe ich mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;}">
+                <Coords points="136,724 379,724 560,726 720,733 862,731 862,701 720,703 561,696 379,694 136,694"/>
+                <Baseline points="136,724 379,724 560,726 720,733 862,731"/>
+                <TextEquiv>
+                    <Unicode>demnächst mit Ih-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="136,789 261,793 429,802 662,795 858,808 860,778 663,765 429,772 262,763 137,759"/>
+                <Baseline points="136,789 261,793 429,802 662,795 858,808"/>
+                <TextEquiv>
+                    <Unicode>nen persönlich unter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;}">
+                <Coords points="149,877 347,879 500,884 729,884 851,884 851,854 729,854 500,854 348,849 149,847"/>
+                <Baseline points="149,877 347,879 500,884 729,884 851,884"/>
+                <TextEquiv>
+                    <Unicode>halten zu können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;}">
+                <Coords points="200,974 399,968 584,968 696,972 697,942 585,938 399,938 199,944"/>
+                <Baseline points="200,974 399,968 584,968 696,972"/>
+                <TextEquiv>
+                    <Unicode>Mit den besten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;}">
+                <Coords points="306,1061 522,1048 612,1045 611,1015 521,1018 304,1031"/>
+                <Baseline points="306,1061 522,1048 612,1045"/>
+                <TextEquiv>
+                    <Unicode>Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;} person {offset:0; length:11;wikiData:Q60093;}">
+                <Coords points="420,1166 586,1158 791,1160 892,1170 895,1140 793,1130 585,1128 419,1136"/>
+                <Baseline points="420,1166 586,1158 791,1160 892,1170"/>
+                <TextEquiv>
+                    <Unicode>Konrad Zuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:2;}">
+            <Coords points="944,108 1716,108 1716,554 944,554"/>
+        </GraphicRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;}">
+            <Coords points="953,558 1711,558 1711,1121 953,1121"/>
+            <TextLine id="l_10" custom="readingOrder {index:0;}">
+                <Coords points="964,632 1190,625 1189,595 963,602"/>
+                <Baseline points="964,632 1190,625"/>
+                <TextEquiv>
+                    <Unicode>HERRN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:1;}">
+                <Coords points="964,696 1274,705 1275,675 965,666"/>
+                <Baseline points="964,696 1274,705"/>
+                <TextEquiv>
+                    <Unicode>DR.-ING.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:2;} person {offset:0; length:15;wikiData:Q1794263;}">
+                <Coords points="970,780 1694,782 1694,752 970,750"/>
+                <Baseline points="970,780 1694,782"/>
+                <TextEquiv>
+                    <Unicode>W. de BEAUCLAIR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:3;}">
+                <Coords points="959,976 1610,972 1610,942 959,946"/>
+                <Baseline points="959,976 1610,972"/>
+                <TextEquiv>
+                    <Unicode>SIBRATSHOFEN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:4;}">
+                <Coords points="1255,1117 1602,1114 1602,1084 1255,1087"/>
+                <Baseline points="1255,1117 1602,1114"/>
+                <TextEquiv>
+                    <Unicode>ALLGÄU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:4;} structure {type:page-number;}">
+            <Coords points="1673,1229 1763,1229 1763,1287 1673,1287"/>
+            <TextLine id="l_9" custom="readingOrder {index:0;}">
+                <Coords points="1686,1287 1752,1280 1749,1250 1683,1257"/>
+                <Baseline points="1686,1287 1752,1280"/>
+                <TextEquiv>
+                    <Unicode>15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

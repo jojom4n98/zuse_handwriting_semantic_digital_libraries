@@ -1,0 +1,225 @@
+27. Nov. 1939
+
+
+1
+
+
+Chiffriergerät.
+
+
+Allgemeines,
+Konstruktionselemente:
+Das hier vorgeschlagene Gerät
+zeichnet sich in erster Linie durch
+die Anwendung mechanischer Schalt-
+glieder aus, welche ähnlich elektrischen
+Relais beliebig zu Schaltungen kombiniert
+werden können, und somit mit ver-
+hältnismässig geringem Aufwand sehr
+komplizierte Zerrungen einer gege-
+benen Zeichenfolge zulassen. Das mecha-
+nische Schaltglied besteht aus planliegen-
+den gestanzten Blechen, deren Stanz-
+formen immer wieder kehren, so dass
+die Konstruktion für die Massen-
+herstellung besonders günstig ist. Räum-
+lich lassen sich die Arbeitsglieder gut kon-
+zentrieren, da sie schichtweise überein-
+ander angeordnet werden können.
+
+
+1
+
+
+Dipl. Ing Konrad Zuse
+Berlin SW. 61 Methfesselstr. 10
+z. Zt. Soldat
+Feldpostnr. 24 976.
+
+
+2
+
+
+Aufgabe:
+Als Aufgabe wird die Verschlüsselung
+von Fünferkombinationen bei Fernschreib-
+maschinen gewählt. Dies wird von einem
+Zusatzgerät bewirkt, welches entweder
+konstruktiv mit der Schreibmaschine ver-
+einigt sein kann, oder als selbstständiges
+Gerät zwischengeschaltet wird. Die Arbeits-
+weise ist vollkommen selbsttätig, d.h.
+es brauchen währen des Sendens kei-
+erlei Einstellungen vorgenommen wer-
+den.
+Methode:
+Die Stärke der Methode liegt in
+der Speichermöglichkeit und Platzver-
+tauschung der Zeichen.
+1.) Die Platzvertauschung (Permutation)
+der Zeichen erfolgt in Gruppen zu 1,2,4,8
+Zeichen, jedoch meistens in Gruppen zu 8;
+die kleineren Gruppen werden dazwischen
+gesetzt, um den Rythmus zu stören.
+(Zahl der Permutationen innerhalb einer
+A Achtergruppe = 8! = 40320
+2.) Innerhalb der Fünferkombina-
+tionen werden die Felder permutiert.
+(Zahl der Permutationen 5! = 120).
+
+
+2
+
+
+3
+
+
+3.) Die einzelnen Felder werden ent-
+sprechend einer Kehrangabe gekehrt.
+Dadurch wird verhindert, dass die Zahl
+der positiven bzw. negativen Felder gleich-
+bleibt. (Variabilität: 25 = 32-fach)
+Durch diese 3-fache Verschlüsselung
+ist eine genügende Verzerrung des
+Klartextes gewährleistet.
+Befehlsablauf,
+Grundschlüssel:
+Die Befehle für die Permutatio-
+nen und Umkehrungen werden in
+unregelmässiger Folge aus dem
+Grundschlüssel berechnet. Dieser besteht
+aus 14 Fünferkombinationen. Die
+Berechnung der Befehlsfolgen ist so
+aufgebaut, dass sekbst wenn # Teile
+der Befehlsfolgen bekannt sind, daraus
+noch keine Schlüsse auf den Aufbau
+des Grundschlüssels gezogen werden kön-
+nen. Dies erfolgt durch Kombination
+je zweier Fünferkombinationen des
+Sc Grundschlüssels, wobei die Auswahl
+so erfolgt, dass alle Schlüsselkombina-
+tionen laufend herangezogen werden,
+und mit der Zeit jede Kombination
+
+
+3
+
+
+4
+
+
+mit jeder kombiniert wird. Die
+neuen Befehle ergeben sich aus dem
+ausgewählten Schlüsselkombinationen
+und den nach rechts bzw. links ver-
+schobenen alten Befehlen.
+Störwerk: Ein Störwerk sorgt dafür,
+dass in unregelmässigen Abständen
+Ablauf und Methode der Befehls-
+vermittlung gestört werden.
+Voreinstellungen:
+Nach dem gleichen Grundschlüssel
+kann man mit mannigfachen Varia-
+tionen der Voreinstellungen arbeiten.
+Hierzu gehören:
+1.) Angabe der ersten zur Befehlserrech-
+nung g herangezogenen Zellen des Grund-
+schlüssels (13x14 = 182fach variabel).
+2.) die ersten Werte 2 Fünferkombi-
+nationen, welche zur ersten Befehlser-
+mittlung dienen. ( 210 = 1024 fach variabel).
+3.) Grundschlüsselpermutation.
+(5! = 120 fach variabel.)
+4.) Angaben über die Art der Befehls-
+ermittlung (Links=oder Rechts=Verschiebg.)
+usw. 4fach variabel.)
+5.) Angaben für das Störungswerk.
+(4 Fünferkomb. 220 = 106 fach variabel.)
+
+
+4
+
+
+5
+
+
+Über die gewählten Voreinstellungen
+muss eine Verständigung vor jeder
+Sendung erfolgen. Dies kann wie
+üblich durch mit Hilfe einer Vorein-
+stellungstabelle und Handeinstellung
+erfolgen, jedoch lässt sich das Gerät
+auch für
+selbständige Übermittlung der Vorein-
+stellung konstruieren. Hierbei erfolgt
+nur auf der Senderseite die V Ein-
+stellung. Darauf wird d in verschlüsselter
+Form die Voreinstellung auf das Em-
+pfangsgerät übertragen, zur Kontrolle
+selbsttätig zurückübertragen, vergab und
+vergleichen. Ist keine Gleichheit vorhanden,
+so erfolgt die Übertragung noch ein-
+mal. Der Vorgang spielt sich in weni-
+gen Sekunden ab. Dadurch erreicht
+man Zeitersparnis, Erhöhung der Si-
+cherheit, Verbesserung der Geheimhaltung.
+Es fällt die Umrechnungstabelle für die
+Einstellungen weg, und auf der Em-
+pfangsseite ist die Voreinstellung nicht
+bekannt.
+
+
+5
+
+
+6.
+
+
+Einstellung des Schlüssels:
+Für die Einstellung der Vor- und
+Grundschlüssel gibt es verschiedene
+Möglichkeiten:
+1.) Hebeleinstellung.
+2.) Eintasten über die Schreibma-
+schine in Form von Fünferkomb.
+3.) Einstellung mit Hilfe einer
+Lochschablone ähnlich einer Photo-
+Kassette. Hierdurch ist ein schnelles
+Wechseln des Schlüssels möglich.
+Mit versiegelten Kassetten ist
+seine Geheimhaltung möglich.
+Fehlerempfindlichkeit:
+Fehler bei der Übertragung erstrecken
+sich jeweils nur auf die gestörte Kom-
+bination, da die Felder Fünfer-
+kombinationen in sich zusammen
+bleiben.
+Perioden in den Abläufen:
+Die Periodizität in Abläufen der
+Befehle nach Einstellung der Vorein-
+stellungen, hängt von dem Grund
+schlüssel ab. Die Wahrscheinliche
+
+
+6
+
+
+7
+
+
+Länge einer Periode liegt etwa bei
+182x1024x4x8 = 6x106 Zeichen.
+Schlussbemerkung:
+Das beschriebene Gerät ist in
+mannigfacher Weise abwandelbar erwei-
+terbar. Es ist mit Hilfe mechanischer Schalt-
+glieder jede verlangte Variabilität und
+Funktion erreichbar. Durch die Platzver-
+tauschung wird verhindert, dass
+die Entzifferung mit Hilfe eines
+Kompromisstextes möglich ist.
+
+
+7
+
+

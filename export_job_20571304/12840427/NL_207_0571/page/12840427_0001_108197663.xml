@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:38:17.079+01:00</Created>
+        <LastChange>2025-12-28T13:01:19.893+01:00</LastChange>
+        <TranskribusMetadata docId="12840427" pageId="108197663" pageNr="1" tsid="269502516" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LFMMIPQCCZNDDSFQYGNAZXTF" xmlUrl="https://files.transkribus.eu/Get?id=PSAHQICFECMRFPTZXYGZGDRH" imageId="90984425"/>
+    </Metadata>
+    <Page imageFilename="12840427_0001_108197663.jpg" imageWidth="2580" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957879519" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+                <RegionRefIndexed index="3" regionRef="r_4"/>
+                <RegionRefIndexed index="4" regionRef="r_5"/>
+                <RegionRefIndexed index="5" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="326,170 850,170 850,268 326,268"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="334,257 819,257 819,227 334,227"/>
+                <Baseline points="334,257 819,257"/>
+                <TextEquiv>
+                    <Unicode>27. Nov. 1939</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="1197,77 1277,77 1277,159 1197,159"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1213,154 1261,151 1259,121 1211,124"/>
+                <Baseline points="1213,154 1261,151"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="837,824 1465,824 1465,1052 837,1052"/>
+            <TextLine id="l_6" custom="readingOrder {index:0;}">
+                <Coords points="842,972 1457,964 1457,934 842,942"/>
+                <Baseline points="842,972 1457,964"/>
+                <TextEquiv>
+                    <Unicode>Chiffriergerät.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="323,1091 2469,1091 2469,3444 323,3444"/>
+            <TextLine id="l_8" custom="readingOrder {index:0;} textStyle {offset:0; length:11;underlined}">
+                <Coords points="355,1195 864,1213 865,1183 356,1165"/>
+                <Baseline points="355,1195 864,1213"/>
+                <TextEquiv>
+                    <Unicode>Allgemeines,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:1;} textStyle {offset:0; length:21;underlined}">
+                <Coords points="344,1322 1301,1330 1301,1300 344,1292"/>
+                <Baseline points="344,1322 1301,1330"/>
+                <TextEquiv>
+                    <Unicode>Konstruktionselemente:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:2;}">
+                <Coords points="776,1502 1457,1502 1944,1497 2230,1499 2230,1469 1944,1467 1457,1472 776,1472"/>
+                <Baseline points="776,1502 1457,1502 1944,1497 2230,1499"/>
+                <TextEquiv>
+                    <Unicode>Das hier vorgeschlagene Gerät</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:3;}">
+                <Coords points="559,1629 996,1616 1338,1616 1695,1618 1950,1618 2265,1626 2266,1596 1950,1588 1695,1588 1338,1586 996,1586 558,1599"/>
+                <Baseline points="559,1629 996,1616 1338,1616 1695,1618 1950,1618 2265,1626"/>
+                <TextEquiv>
+                    <Unicode>zeichnet sich in erster Linie durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:4;} textStyle {offset:14; length:20;underlined}">
+                <Coords points="554,1727 1799,1743 2334,1738 2334,1708 1799,1713 554,1697"/>
+                <Baseline points="554,1727 1799,1743 2334,1738"/>
+                <TextEquiv>
+                    <Unicode>die Anwendung mechanischer Schalt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:5;} textStyle {offset:0; length:7;underlined}">
+                <Coords points="535,1862 1306,1852 1780,1857 2387,1854 2387,1824 1780,1827 1306,1822 535,1832"/>
+                <Baseline points="535,1862 1306,1852 1780,1857 2387,1854"/>
+                <TextEquiv>
+                    <Unicode>glieder aus, welche ähnlich elektrischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:6;}">
+                <Coords points="559,1963 1012,1963 1393,1971 1719,1966 2016,1968 2416,1971 2416,1941 2016,1938 1719,1936 1393,1941 1012,1933 559,1933"/>
+                <Baseline points="559,1963 1012,1963 1393,1971 1719,1966 2016,1968 2416,1971"/>
+                <TextEquiv>
+                    <Unicode>Relais beliebig zu Schaltungen kombiniert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:7;}">
+                <Coords points="554,2095 1073,2087 1846,2082 2222,2085 2350,2082 2349,2052 2222,2055 1846,2052 1073,2057 554,2065"/>
+                <Baseline points="554,2095 1073,2087 1846,2082 2222,2085 2350,2082"/>
+                <TextEquiv>
+                    <Unicode>werden können, und somit mit ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:8;}">
+                <Coords points="559,2201 1118,2199 1483,2199 1825,2199 2204,2209 2326,2209 2326,2179 2204,2179 1825,2169 1483,2169 1118,2169 559,2171"/>
+                <Baseline points="559,2201 1118,2199 1483,2199 1825,2199 2204,2209 2326,2209"/>
+                <TextEquiv>
+                    <Unicode>hältnismässig geringem Aufwand sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:9;}">
+                <Coords points="551,2307 1147,2313 1679,2320 2029,2323 2313,2323 2313,2293 2029,2293 1679,2290 1147,2283 551,2277"/>
+                <Baseline points="551,2307 1147,2313 1679,2320 2029,2323 2313,2323"/>
+                <TextEquiv>
+                    <Unicode>komplizierte Zerrungen einer gege-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:10;}">
+                <Coords points="546,2445 1388,2440 1944,2440 2413,2442 2413,2412 1944,2410 1388,2410 546,2415"/>
+                <Baseline points="546,2445 1388,2440 1944,2440 2413,2442"/>
+                <TextEquiv>
+                    <Unicode>benen Zeichenfolge zulassen. Das mecha-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:11;}">
+                <Coords points="522,2562 1309,2551 1748,2554 2050,2554 2440,2564 2441,2534 2050,2524 1748,2524 1309,2521 522,2532"/>
+                <Baseline points="522,2562 1309,2551 1748,2554 2050,2554 2440,2564"/>
+                <TextEquiv>
+                    <Unicode>nische Schaltglied besteht aus planliegen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:12;}">
+                <Coords points="540,2686 1290,2675 1722,2673 2042,2678 2358,2675 2358,2645 2042,2648 1722,2643 1290,2645 540,2656"/>
+                <Baseline points="540,2686 1290,2675 1722,2673 2042,2678 2358,2675"/>
+                <TextEquiv>
+                    <Unicode>den gestanzten Blechen, deren Stanz-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:13;}">
+                <Coords points="543,2789 1256,2784 1947,2787 2342,2795 2343,2765 1947,2757 1256,2754 543,2759"/>
+                <Baseline points="543,2789 1256,2784 1947,2787 2342,2795"/>
+                <TextEquiv>
+                    <Unicode>formen immer wieder kehren, so dass</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:14;}">
+                <Coords points="517,2909 1054,2906 1502,2916 2331,2906 2331,2876 1502,2886 1054,2876 517,2879"/>
+                <Baseline points="517,2909 1054,2906 1502,2916 2331,2906"/>
+                <TextEquiv>
+                    <Unicode>die Konstruktion für die Massen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:15;}">
+                <Coords points="527,3033 1844,3022 2281,3036 2450,3033 2449,3003 2281,3006 1844,2992 527,3003"/>
+                <Baseline points="527,3033 1844,3022 2281,3036 2450,3033"/>
+                <TextEquiv>
+                    <Unicode>herstellung besonders günstig ist. Räum-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:16;}">
+                <Coords points="524,3147 1200,3142 1732,3144 2212,3139 2418,3136 2418,3106 2212,3109 1732,3114 1200,3112 524,3117"/>
+                <Baseline points="524,3147 1200,3142 1732,3144 2212,3139 2418,3136"/>
+                <TextEquiv>
+                    <Unicode>lich lassen sich die Arbeitsglieder gut kon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:17;}">
+                <Coords points="527,3269 1123,3261 1918,3250 2215,3266 2429,3266 2429,3236 2216,3236 1919,3220 1123,3231 527,3239"/>
+                <Baseline points="527,3269 1123,3261 1918,3250 2215,3266 2429,3266"/>
+                <TextEquiv>
+                    <Unicode>zentrieren, da sie schichtweise überein-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:18;}">
+                <Coords points="519,3391 1727,3377 2228,3383 2228,3353 1727,3347 519,3361"/>
+                <Baseline points="519,3391 1727,3377 2228,3383"/>
+                <TextEquiv>
+                    <Unicode>ander angeordnet werden können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:4;} structure {type:page-number;}">
+            <Coords points="2403,3481 2458,3481 2458,3542 2403,3542"/>
+            <TextLine id="l_7" custom="readingOrder {index:0;}">
+                <Coords points="2421,3539 2440,3539 2440,3509 2421,3509"/>
+                <Baseline points="2421,3539 2440,3539"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:5;}">
+            <Coords points="1160,183 2403,183 2403,652 1160,652"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;} person {offset:0; length:21;wikiData:Q60093;}">
+                <Coords points="1187,268 2273,265 2273,235 1187,238"/>
+                <Baseline points="1187,268 2273,265"/>
+                <TextEquiv>
+                    <Unicode>Dipl. Ing Konrad Zuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="1179,392 1963,384 2371,389 2371,359 1963,354 1179,362"/>
+                <Baseline points="1179,392 1963,384 2371,389"/>
+                <TextEquiv>
+                    <Unicode>Berlin SW. 61 Methfesselstr. 10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="1166,509 1714,506 1714,476 1166,479"/>
+                <Baseline points="1166,509 1714,506"/>
+                <TextEquiv>
+                    <Unicode>z. Zt. Soldat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="1179,625 1905,615 1905,585 1179,595"/>
+                <Baseline points="1179,625 1905,615"/>
+                <TextEquiv>
+                    <Unicode>Feldpostnr. 24 976.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

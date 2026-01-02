@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:48:42.445+01:00</Created>
+        <LastChange>2025-12-28T13:42:49.983+01:00</LastChange>
+        <TranskribusMetadata docId="12875831" pageId="108519275" pageNr="6" tsid="269505995" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CTZSBODRLVTAVGPPAARDASGQ" xmlUrl="https://files.transkribus.eu/Get?id=EHWVGVPOURDZYXDKEVHOYSGX" imageId="91288389"/>
+    </Metadata>
+    <Page imageFilename="12875831_0006_108519275.jpg" imageWidth="1858" imageHeight="2328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958019068" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="682,108 1656,108 1656,188 682,188"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="700,179 1135,182 1457,182 1643,179 1643,149 1457,152 1135,152 700,149"/>
+                <Baseline points="700,179 1135,182 1457,182 1643,179"/>
+                <TextEquiv>
+                    <Unicode>Hinterstein, d. 23.6.46.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="614,1542 411,1534 170,1447 221,217 1567,225 1740,510 1739,1490 1519,1544 1511,1745 614,1740"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;} person {offset:19; length:12;wikiData:Q1794263;}">
+                <Coords points="234,304 518,306 929,316 1227,319 1506,324 1507,294 1227,289 930,286 518,276 234,274"/>
+                <Baseline points="234,304 518,306 929,316 1227,319 1506,324"/>
+                <TextEquiv>
+                    <Unicode>Sehr geehrter Herr De Beauclair!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="401,500 603,493 792,495 1011,498 1168,505 1290,508 1444,513 1621,510 1620,480 1444,483 1291,478 1169,475 1012,468 792,465 603,463 400,470"/>
+                <Baseline points="401,500 603,493 792,495 1011,498 1168,505 1290,508 1444,513 1621,510"/>
+                <TextEquiv>
+                    <Unicode>Anbei übersende ich Ihnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="249,580 346,565 645,570 916,575 1198,588 1462,580 1521,580 1521,550 1462,550 1198,558 917,545 646,540 344,535 244,550"/>
+                <Baseline points="249,580 346,565 645,570 916,575 1198,588 1462,580 1521,580"/>
+                <TextEquiv>
+                    <Unicode>zunächst die Quittung über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="232,655 386,655 553,667 834,660 1232,660 1374,665 1584,665 1584,635 1375,635 1233,630 834,630 554,637 387,625 232,625"/>
+                <Baseline points="232,655 386,655 553,667 834,660 1232,660 1374,665 1584,665"/>
+                <TextEquiv>
+                    <Unicode>RM 850,-. Das weitere hoffe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;}">
+                <Coords points="224,739 309,744 466,747 779,752 1038,752 1285,752 1581,752 1688,752 1688,722 1581,722 1285,722 1038,722 779,722 467,717 310,714 226,709"/>
+                <Baseline points="224,739 309,744 466,747 779,752 1038,752 1285,752 1581,752 1688,752"/>
+                <TextEquiv>
+                    <Unicode>ich demnächst mit Ihnen per-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;}">
+                <Coords points="219,814 543,824 720,827 941,837 1185,842 1414,837 1636,837 1636,807 1414,807 1185,812 942,807 721,797 544,794 220,784"/>
+                <Baseline points="219,814 543,824 720,827 941,837 1185,842 1414,837 1636,837"/>
+                <TextEquiv>
+                    <Unicode>sönlich besprechen zu können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;}">
+                <Coords points="366,936 471,946 665,931 782,936 946,949 1133,954 1449,941 1554,949 1556,919 1450,911 1133,924 948,919 784,906 664,901 471,916 369,906"/>
+                <Baseline points="366,936 471,946 665,931 782,936 946,949 1133,954 1449,941 1554,949"/>
+                <TextEquiv>
+                    <Unicode>Ich fahre jetzt zunächst zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;} person {offset:0; length:12;wikiData:Q103224;}">
+                <Coords points="234,1036 423,1033 735,1018 899,1026 1165,1036 1459,1043 1691,1043 1691,1013 1459,1013 1166,1006 900,996 735,988 422,1003 234,1006"/>
+                <Baseline points="234,1036 423,1033 735,1018 899,1026 1165,1036 1459,1043 1691,1043"/>
+                <TextEquiv>
+                    <Unicode>Prof Walther und anschlies-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;} person {offset:8; length:13;firstname:Alfred; lastname:Eckhard;}">
+                <Coords points="229,1113 451,1113 642,1105 1086,1120 1310,1123 1467,1133 1618,1140 1725,1158 1730,1128 1621,1110 1469,1103 1311,1093 1087,1090 642,1075 450,1083 229,1083"/>
+                <Baseline points="229,1113 451,1113 642,1105 1086,1120 1310,1123 1467,1133 1618,1140 1725,1158"/>
+                <TextEquiv>
+                    <Unicode>send zu Herrn Eckhard und werde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;}">
+                <Coords points="212,1225 368,1230 558,1223 725,1220 931,1223 1143,1223 1285,1223 1429,1232 1589,1240 1733,1240 1733,1210 1590,1210 1431,1202 1286,1193 1143,1193 931,1193 725,1190 557,1193 368,1200 213,1195"/>
+                <Baseline points="212,1225 368,1230 558,1223 725,1220 931,1223 1143,1223 1285,1223 1429,1232 1589,1240 1733,1240"/>
+                <TextEquiv>
+                    <Unicode>dort mein Möglichstes tun, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;}">
+                <Coords points="199,1317 468,1320 598,1322 874,1332 1260,1335 1476,1332 1708,1332 1708,1302 1476,1302 1260,1305 875,1302 599,1292 468,1290 199,1287"/>
+                <Baseline points="199,1317 468,1320 598,1322 874,1332 1260,1335 1476,1332 1708,1332"/>
+                <TextEquiv>
+                    <Unicode>Ihnen zu etwas Werkzeug zu ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;} sic {offset:0; length:7;}">
+                <Coords points="202,1409 331,1417 483,1412 482,1382 331,1387 204,1379"/>
+                <Baseline points="202,1409 331,1417 483,1412"/>
+                <TextEquiv>
+                    <Unicode>helfen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;}">
+                <Coords points="433,1514 642,1516 827,1511 1148,1501 1596,1499 1596,1469 1147,1471 826,1481 642,1486 433,1484"/>
+                <Baseline points="433,1514 642,1516 827,1511 1148,1501 1596,1499"/>
+                <TextEquiv>
+                    <Unicode>Mit den besten Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:13;} person {offset:0; length:11;wikiData:Q60093;}">
+                <Coords points="657,1693 1018,1681 1354,1656 1476,1643 1473,1613 1351,1626 1016,1651 656,1663"/>
+                <Baseline points="657,1693 1018,1681 1354,1656 1476,1643"/>
+                <TextEquiv>
+                    <Unicode>Konrad Zuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="1696,2189 1752,2189 1752,2266 1696,2266"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1699,2249 1743,2246 1741,2216 1697,2219"/>
+                <Baseline points="1699,2249 1743,2246"/>
+                <TextEquiv>
+                    <Unicode>11</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

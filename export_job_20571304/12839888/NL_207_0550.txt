@@ -1,0 +1,510 @@
+K. Zuse, Modell 3, Speicherwerk
+
+
+(1
+
+
+1
+
+
+Bez.
+
+
+Blatt
+
+
+Stück
+
+
+Getriebe
+31.01
+31.02
+31.03
+01.04
+31.04
+01.10
+01.06
+01.05
+01.11 a
+01.11 b
+
+
+Obere Platte
+Untere "
+Sockel
+Stütze
+" mit Stift
+Achse
+Achse mit Stift
+Parstift
+Hebel mit Rolle
+" " Stift
+
+
+31
+"
+"
+2
+31
+3
+3
+2
+3
+3
+
+
+1
+1
+2
+2
+2
+4
+1
+2
+5
+5
+
+
+Rahmen
+32.01
+32.02
+
+
+Untere Rahmenplatte
+Obere "
+
+
+32
+32
+
+
+1
+1
+
+
+32.03
+32.04
+32.05
+32.06
+
+
+Untere Schaltwerksplatt
+" "
+" "
+" "
+
+
+33
+"
+"
+"
+
+
+1
+1
+1
+1
+
+
+32.07
+32.08
+32.09
+32.10
+
+
+Obere "
+" "
+" "
+" "
+
+
+"
+"
+"
+"
+
+
+1
+1
+1
+1
+
+
+K. Zuse, Modell 3, Speicherwerk
+
+
+(2
+
+
+2
+
+
+Bez.
+
+
+Blatt
+
+
+Stuck
+
+
+01.70
+33.01
+33.02
+01.51
+
+
+Stützen
+Koordinatenstift
+Impulsachse
+Hebel
+
+
+9
+38, ....
+37, ..
+6
+
+
+12
+8
+16
+18
+
+
+33.10
+33.11
+33.12
+33.13
+33.14
+33.15
+33.16
+
+
+"
+"
+"
+"
+"
+"
+Abstandsstift
+
+
+30,37
+"
+"
+"
+"
+"
+33,38
+
+
+3
+7
+3
+1
+1
+1
+30
+
+
+Einstellung
+34.01
+34.02
+33.16
+34.03
+34.04
+01.61
+34.5
+34.6
+
+
+Achse
+Hebel unten
+Hebel oben
+Hebel unten
+Achse f Hebel 34.03
+Knopf (geändert)
+Hebel obe
+" "
+
+
+30,38
+38
+38
+38
+38
+7
+38
+38
+
+
+7
+7
+4
+7
+7
+7
+3
+4
+
+
+Blche
+35.01
+
+
+K. Zuse, Modell 3, Speicherwerk
+
+
+(3
+
+
+3
+
+
+Bez
+
+
+Blatt
+
+
+Stück
+
+
+Bleche
+34.01
+36.02
+35.03
+35.04
+
+
+Blech
+
+
+34
+"
+"
+"
+
+
+4
+2
+4
+8
+
+
+35.10
+35.11
+35.12
+35.13
+35.14
+35.15
+35.16
+35.17
+
+
+35
+"
+"
+"
+"
+"
+"
+
+
+4
+4
+2
+2
+1
+2
+2
+4
+
+
+35.20
+35.21
+35.22
+35.23
+35.24
+35.25
+35.26
+
+
+36
+"
+"
+"
+"
+"
+"
+
+
+4
+8
+2
+2
+4
+4
+4
+
+
+K. Zuse, Modell 3, Speicherwerk
+
+
+(4
+
+
+4
+
+
+Bez
+
+
+Blatt
+
+
+Stück
+
+
+35.30
+35.31
+35.32
+35.33
+35.34
+35.35
+
+
+Blech
+
+
+311
+"
+"
+"
+"
+"
+
+
+4
+2
+4
+4
+4
+8
+
+
+Zuse)
+
+
+Modell 3.
+Stand 7.5.85-
+1) Teil 34,6, Blatt 38, 34
+4x
+fehlt
+2) Auf Platte 32.02, Blatt 32
+(Obere Platte
+Stifft 5Ø setzen entspr. Zeichnung
+3) Teil 35.01., Blatt 37
+ändern entspr. Zeichnung
+4) Teil 35.24 Blatt 36
+ändern entspr. Zeichnung
+5) Teil 35.33 Blatt 37
+Neue Zeichnung
+Din A4
+6) Teil 35.31 Blatt 37
+Ändern entspr. Zeichnung
+7) Teil 32.05 Blatt 33
+Ändern entspr. Zeichnung
+ebenso Teil 32.09 Blatt 33
+" Teil 35.30 " " 37
+8) Teil 33.15 Blatt 34
+
+
+5
+
+
+Zuse)
+
+
+Model 3
+Stand 7.5.85
+9) Teil 32.04 Blatt 33
+10) Teil 35.10 Blatt 35
+11) Teil 35.15 Blatt 35
+12) Teil 35.15a Blatt 35
+13) Teil 35.15b zu Blatt 35
+gesondert gezeichnet
+14) Teile 34.33a
+zu Blatt 37
+35.33b
+gesondert gezeichnet
+
+
+6
+
+
+Modell 3, Speicherwerk
+Zeitplan
+K Zuse 22.3.85
+
+
+7
+
+
+I
+
+
+II
+
+
+III
+
+
+IV
+
+
+5
+
+
+Allgemein
+
+
+Zellen-Nr einstelb
+Zelle einstellen
+Zelle zurückstellen
+Zellenbewegung
+Ausrichten
+
+
+1
+2
+3
+
+
+Speichern
+
+
+Einstellen
+B.A. Komb.
+Stellenblock
+
+
+4
+
+
+Ablesen
+
+
+Einstellen
+Alte Anzeige
+löschen
+Stellenbleche
+ziehen
+Anzeige
+
+
+5
+6
+
+

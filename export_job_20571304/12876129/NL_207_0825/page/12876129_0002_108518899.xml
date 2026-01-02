@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:59:47.134+01:00</Created>
+        <LastChange>2025-12-27T10:33:38.980+01:00</LastChange>
+        <TranskribusMetadata docId="12876129" pageId="108518899" pageNr="2" tsid="269304983" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KFOQPVTEGZBDBQSFFFSCMMXN" xmlUrl="https://files.transkribus.eu/Get?id=MOGGDIIANKXFUKZBJBHDMUBW" imageId="91289582"/>
+    </Metadata>
+    <Page imageFilename="12876129_0002_108518899.jpg" imageWidth="2599" imageHeight="3613">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957934483" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+                <RegionRefIndexed index="3" regionRef="r_1"/>
+                <RegionRefIndexed index="4" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <ImageRegion id="r_4" custom="readingOrder {index:0;}">
+            <Coords points="219,117 1989,117 1989,1367 219,1367"/>
+        </ImageRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2086,164 2200,164 2200,297 2086,297"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2103,280 2183,280 2183,250 2103,250"/>
+                <Baseline points="2103,280 2183,280"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;} structure {type:marginalia;}">
+            <Coords points="168,2164 477,2164 477,2469 168,2469"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="197,2268 248,2268 248,2238 197,2238"/>
+                <Baseline points="197,2268 248,2268"/>
+                <TextEquiv>
+                    <Unicode>V</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="168,2354 440,2343 439,2313 167,2324"/>
+                <Baseline points="168,2354 440,2343"/>
+                <TextEquiv>
+                    <Unicode>ein Abruf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="256,2436 422,2436 422,2406 256,2406"/>
+                <Baseline points="256,2436 422,2436"/>
+                <TextEquiv>
+                    <Unicode>befehl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:3;}">
+            <Coords points="496,1395 2512,1395 2512,3391 496,3391"/>
+            <TextLine id="l_5" custom="readingOrder {index:0;}">
+                <Coords points="515,1508 2081,1489 2081,1459 515,1478"/>
+                <Baseline points="515,1508 2081,1489"/>
+                <TextEquiv>
+                    <Unicode>Wir beschränken uns darauf zwei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:1;} textStyle {offset:0; length:5;strikethrough}">
+                <Coords points="526,1628 2356,1604 2356,1574 526,1598"/>
+                <Baseline points="526,1628 2356,1604"/>
+                <TextEquiv>
+                    <Unicode>Typen Klassen von Stromtoren zu betrachten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:2;}">
+                <Coords points="547,1734 2276,1721 2276,1691 547,1704"/>
+                <Baseline points="547,1734 2276,1721"/>
+                <TextEquiv>
+                    <Unicode>die A - Stromtore, die arithmetische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:3;}">
+                <Coords points="536,1849 2319,1839 2319,1809 536,1819"/>
+                <Baseline points="536,1849 2319,1839"/>
+                <TextEquiv>
+                    <Unicode>Befehle und Zahlentransporte bewirken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:4;}">
+                <Coords points="528,1961 2372,1953 2372,1923 528,1931"/>
+                <Baseline points="528,1961 2372,1953"/>
+                <TextEquiv>
+                    <Unicode>und die E -Stromtore, die Befehls-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:5;}">
+                <Coords points="542,2081 1580,2071 1580,2041 542,2051"/>
+                <Baseline points="542,2081 1580,2071"/>
+                <TextEquiv>
+                    <Unicode>Transporte gestalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:6;}">
+                <Coords points="544,2188 2231,2183 2231,2153 544,2158"/>
+                <Baseline points="544,2188 2231,2183"/>
+                <TextEquiv>
+                    <Unicode>Ein Befehl bei dessen Entschlüsselung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:7;}">
+                <Coords points="550,2308 2284,2284 2284,2254 550,2278"/>
+                <Baseline points="550,2308 2284,2284"/>
+                <TextEquiv>
+                    <Unicode>ein E-Tor geöffnet wird/liest einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:8;}">
+                <Coords points="563,2431 2332,2404 2332,2374 563,2401"/>
+                <Baseline points="563,2431 2332,2404"/>
+                <TextEquiv>
+                    <Unicode>Befehlstext aus dem Speicher ab, während</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:9;}">
+                <Coords points="534,2540 2439,2527 2439,2497 534,2510"/>
+                <Baseline points="534,2540 2439,2527"/>
+                <TextEquiv>
+                    <Unicode>ein A Befehl den Speicher mit dem Rechen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:10;}">
+                <Coords points="536,2652 2247,2647 2247,2617 536,2622"/>
+                <Baseline points="536,2652 2247,2647"/>
+                <TextEquiv>
+                    <Unicode>werk koppelt, diese Befehle seien durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:11;} unclear {offset:0; length:10;}">
+                <Coords points="566,2778 2498,2767 2498,2737 566,2748"/>
+                <Baseline points="566,2778 2498,2767"/>
+                <TextEquiv>
+                    <Unicode>Em- und-Am verkodet, wobei m die Zellen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:12;}">
+                <Coords points="560,2901 2455,2879 2455,2849 560,2871"/>
+                <Baseline points="560,2901 2455,2879"/>
+                <TextEquiv>
+                    <Unicode>Nummer der gekoppelten Speicherzelle, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:13;}">
+                <Coords points="568,3023 2151,2999 2151,2969 568,2993"/>
+                <Baseline points="568,3023 2151,2999"/>
+                <TextEquiv>
+                    <Unicode>sogenannte Adresse repräsentiere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:14;}">
+                <Coords points="568,3122 2466,3106 2466,3076 568,3092"/>
+                <Baseline points="568,3122 2466,3106"/>
+                <TextEquiv>
+                    <Unicode>Nach einem E-Befehl läuft der Text, im allge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:15;} textStyle {offset:29; length:3;strikethrough}">
+                <Coords points="592,3253 2217,3229 2217,3199 592,3223"/>
+                <Baseline points="592,3253 2217,3229"/>
+                <TextEquiv>
+                    <Unicode>meinen ein A-Befehl in b und dan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:16;}">
+                <Coords points="587,3368 2020,3354 2020,3324 587,3338"/>
+                <Baseline points="587,3368 2020,3354"/>
+                <TextEquiv>
+                    <Unicode>kommt dann zur Wirkung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:4;} structure {type:page-number;}">
+            <Coords points="2457,3450 2528,3450 2528,3544 2457,3544"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2471,3536 2490,3536 2490,3506 2471,3506"/>
+                <Baseline points="2471,3536 2490,3536"/>
+                <TextEquiv>
+                    <Unicode>7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

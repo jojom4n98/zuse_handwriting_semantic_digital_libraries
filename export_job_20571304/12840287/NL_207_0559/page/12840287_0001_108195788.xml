@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:33:28.245+01:00</Created>
+        <LastChange>2025-12-25T11:08:30.488+01:00</LastChange>
+        <TranskribusMetadata docId="12840287" pageId="108195788" pageNr="1" tsid="268757867" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=UODQUASLAZVAYDSKYLSOEIIX" xmlUrl="https://files.transkribus.eu/Get?id=QCZSLVXMWYPCDWGQUCWRFJDO" imageId="90982383"/>
+    </Metadata>
+    <Page imageFilename="12840287_0001_108195788.jpg" imageWidth="2602" imageHeight="3617">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957844413" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+                <RegionRefIndexed index="3" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2345,154 2517,154 2517,324 2345,324"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2366,289 2477,285 2476,255 2365,259"/>
+                <Baseline points="2366,289 2477,285"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="364,2390 245,876 371,549 604,196 1767,214 1906,350 2050,831 2294,873 2310,1038 2003,1039 1956,1193 2438,1285 2493,1777 2495,3050 2212,3257 437,3254"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="625,340 1761,330 1761,300 625,310"/>
+                <Baseline points="625,340 1761,330"/>
+                <TextEquiv>
+                    <Unicode>Z1 Rechenwerk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="383,625 1133,599 1132,569 382,595"/>
+                <Baseline points="383,625 1133,599"/>
+                <TextEquiv>
+                    <Unicode>1) Verteiler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="787,744 1970,729 1970,699 787,714"/>
+                <Baseline points="787,744 1970,729"/>
+                <TextEquiv>
+                    <Unicode>Blöcke 13, 14a, 14b</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="269,927 1820,915 1820,885 269,897"/>
+                <Baseline points="269,927 1820,915"/>
+                <TextEquiv>
+                    <Unicode>Blatt 210 Übersicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;}">
+                <Coords points="380,1029 2272,1024 2272,994 380,999"/>
+                <Baseline points="380,1029 2272,1024"/>
+                <TextEquiv>
+                    <Unicode>" 210.1 (Pause) Sockellicher 10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;} textStyle {offset:0; length:5;underlined}">
+                <Coords points="558,1150 1856,1155 1856,1125 558,1120"/>
+                <Baseline points="558,1150 1856,1155"/>
+                <TextEquiv>
+                    <Unicode>210.2 Impulsverteilung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;}">
+                <Coords points="359,1392 1932,1385 1932,1355 359,1362"/>
+                <Baseline points="359,1392 1932,1385"/>
+                <TextEquiv>
+                    <Unicode>" 210.3 Übersicht über Bleche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;}">
+                <Coords points="962,1502 1998,1518 1998,1488 962,1472"/>
+                <Baseline points="962,1502 1998,1518"/>
+                <TextEquiv>
+                    <Unicode>Schicht 5, 4, 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;}">
+                <Coords points="368,1621 1613,1623 1613,1593 368,1591"/>
+                <Baseline points="368,1621 1613,1623"/>
+                <TextEquiv>
+                    <Unicode>" 210.4 Schicht 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;}">
+                <Coords points="375,1744 1594,1739 1594,1709 375,1714"/>
+                <Baseline points="375,1744 1594,1739"/>
+                <TextEquiv>
+                    <Unicode>" 210.5 " 8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;}">
+                <Coords points="383,1929 2393,1920 2393,1890 383,1899"/>
+                <Baseline points="383,1929 2393,1920"/>
+                <TextEquiv>
+                    <Unicode>" 211.2 (210) (Pause) Schicht 6, 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;}">
+                <Coords points="1511,2017 2082,2020 2082,1990 1511,1987"/>
+                <Baseline points="1511,2017 2082,2020"/>
+                <TextEquiv>
+                    <Unicode>6 Löschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;} unclear {offset:2; length:9;}">
+                <Coords points="1545,2093 2226,2098 2226,2068 1545,2063"/>
+                <Baseline points="1545,2093 2226,2098"/>
+                <TextEquiv>
+                    <Unicode>2 Micht, Dr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:13;}">
+                <Coords points="582,2303 853,2295 852,2265 581,2273"/>
+                <Baseline points="582,2303 853,2295"/>
+                <TextEquiv>
+                    <Unicode>211.3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:14;}">
+                <Coords points="416,2407 2243,2374 2242,2344 415,2377"/>
+                <Baseline points="416,2407 2243,2374"/>
+                <TextEquiv>
+                    <Unicode>" 211.4 (210) " Schicht 4 :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:15;}">
+                <Coords points="440,2571 1095,2545 2371,2531 2371,2501 1094,2515 439,2541"/>
+                <Baseline points="440,2571 1095,2545 2371,2531"/>
+                <TextEquiv>
+                    <Unicode>" 211.5 (210) " " 5 10pd x,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:16;}">
+                <Coords points="449,2687 1041,2673 1956,2659 2352,2668 2353,2638 1956,2629 1040,2643 448,2657"/>
+                <Baseline points="449,2687 1041,2673 1956,2659 2352,2668"/>
+                <TextEquiv>
+                    <Unicode>" 211.6 (210) " " 3 x, :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:17;}">
+                <Coords points="456,2801 1041,2797 1944,2794 2343,2794 2343,2764 1944,2764 1041,2767 456,2771"/>
+                <Baseline points="456,2801 1041,2797 1944,2794 2343,2794"/>
+                <TextEquiv>
+                    <Unicode>" 211.7 (210) " " 7 2. Opd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:18;}">
+                <Coords points="454,2904 768,2913 1012,2906 1913,2894 2419,2918 2420,2888 1914,2864 1011,2876 768,2883 455,2874"/>
+                <Baseline points="454,2904 768,2913 1012,2906 1913,2894 2419,2918"/>
+                <TextEquiv>
+                    <Unicode>" 211.8 (210) " " 8 Res. Ausg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:19;} sic {offset:6; length:7;correction:Schnitte;}">
+                <Coords points="451,3094 798,3106 1459,3077 1844,3091 2409,3080 2408,3050 1844,3061 1459,3047 798,3076 452,3064"/>
+                <Baseline points="451,3094 798,3106 1459,3077 1844,3091 2409,3080"/>
+                <TextEquiv>
+                    <Unicode>" 212 Scnitte, Teile NT6', NT7'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:20;}">
+                <Coords points="461,3217 1542,3201 2207,3201 2207,3171 1542,3171 461,3187"/>
+                <Baseline points="461,3217 1542,3201 2207,3201"/>
+                <TextEquiv>
+                    <Unicode>" 213 Platten 4 mm st.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="2024,1044 2433,1044 2433,1184 2024,1184"/>
+            <TextLine id="l_23" custom="readingOrder {index:0;} textStyle {offset:0; length:5;underlined}">
+                <Coords points="2037,1151 2396,1168 2397,1138 2038,1121"/>
+                <Baseline points="2037,1151 2396,1168"/>
+                <TextEquiv>
+                    <Unicode>Pause ?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:3;} structure {type:page-number;}">
+            <Coords points="2394,3458 2465,3458 2465,3531 2394,3531"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2406,3523 2451,3523 2451,3493 2406,3493"/>
+                <Baseline points="2406,3523 2451,3523"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

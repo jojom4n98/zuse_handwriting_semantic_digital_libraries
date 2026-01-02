@@ -1,0 +1,55 @@
+Freiburg, d. 19.10.54.
+
+
+Sehr geehrter Herr Professor!
+Es ist mir noch folgende einge-
+fallen: Man kann den Einfluss der
+Drossel und Druckes pQ (Quellendruck =
+Druck der erzeugenden Pressluftquelle)
+eliminieren, wenn der Widerstand
+der Drossel und pq pa hoch ansetzt.
+p0 = Druck im schädlichen Raum ist
+dann klein im Verhältnis zu pq pa.
+Dementsprechend ist bei kleinen
+Änderungen von p0 der Druckabfall
+in der Drossel kaum verändert, was
+ein annähernd konstantes p durch die Drossel
+ergibt.
+Es empfiehlt sich  sich villleicht ein
+elektrisches Ersatzbild zu verwenden,
+bei dem die Drossel durch einen Wider-
+
+
+1
+
+
+stand und der Tellerwider ebenfalls
+durch einen Widerstand dargestellt werden.
+Der schädliche Raum entspricht einem
+Kondensator
+
+
+Spannungsquelle
+
+
+Drossel
+
+
+p0 zu konstant
+
+
+schädlicher Raum
+
+
+Variablen Teller Widerstand.
+
+
+Vielleicht kann Ihnen dies Hinweise
+geben. Ev. komme ich Anfang nächster
+Woche wd vorbei. Herzl. Grüsse
+Ihr . K. Zuse
+
+
+2
+
+

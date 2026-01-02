@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:12:25.323+01:00</Created>
+        <LastChange>2025-12-25T10:30:23.549+01:00</LastChange>
+        <TranskribusMetadata docId="12839747" pageId="108190547" pageNr="3" tsid="268749799" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZUTPIHTYNPVKJPANRQACCZTM" xmlUrl="https://files.transkribus.eu/Get?id=RQUYCAXYZSKVZLYEPOICZBQX" imageId="90977253"/>
+    </Metadata>
+    <Page imageFilename="12839747_0003_108190547.jpg" imageWidth="2585" imageHeight="3611">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957783377" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3"/>
+                <RegionRefIndexed index="3" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="2164,91 2433,91 2433,224 2164,224"/>
+            <TextLine id="l" custom="readingOrder {index:0;} unclear {offset:1; length:2;} textStyle {offset:2; length:1;strikethrough}">
+                <Coords points="2173,203 2415,207 2415,177 2173,173"/>
+                <Baseline points="2173,203 2415,207"/>
+                <TextEquiv>
+                    <Unicode>PK7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:marginalia;}">
+            <Coords points="2316,274 2492,274 2492,402 2316,402"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2329,386 2473,394 2475,364 2331,356"/>
+                <Baseline points="2329,386 2473,394"/>
+                <TextEquiv>
+                    <Unicode>Seite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="303,290 1248,231 1701,191 2173,228 2273,298 2285,418 2464,418 2447,620 2392,780 2277,2978 303,2986"/>
+            <TextLine id="l_3" custom="readingOrder {index:0;} textStyle {offset:3; length:33;underlined}">
+                <Coords points="322,412 2212,342 2211,312 321,382"/>
+                <Baseline points="322,412 2212,342"/>
+                <TextEquiv>
+                    <Unicode>7) Operationen des Prädikatenkalküls</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:1;} textStyle {offset:7; length:1;strikethrough} textStyle {offset:12; length:1;strikethrough} textStyle {offset:18; length:1;strikethrough}">
+                <Coords points="550,557 1056,538 1570,521 2086,509 2236,514 2338,528 2442,560 2451,531 2344,499 2239,484 2086,479 1569,491 1055,508 549,527"/>
+                <Baseline points="550,557 1056,538 1570,521 2086,509 2236,514 2338,528 2442,560"/>
+                <TextEquiv>
+                    <Unicode>a) Die "All-" und "Existenzoperatoren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:2;} unclear {offset:29; length:6;}">
+                <Coords points="540,719 1911,690 2294,678 2293,648 1910,660 539,689"/>
+                <Baseline points="540,719 1911,690 2294,678"/>
+                <TextEquiv>
+                    <Unicode>b) Der Operator "Diejenigen, welche".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:3;}">
+                <Coords points="550,860 1429,843 1831,828 2158,816 2289,816 2338,833 2348,805 2294,786 2157,786 1830,798 1428,813 549,830"/>
+                <Baseline points="550,860 1429,843 1831,828 2158,816 2289,816 2338,833"/>
+                <TextEquiv>
+                    <Unicode>c) Der Operator "Derjenige, welcher".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:4;}">
+                <Coords points="538,1017 1325,1000 1628,988 1877,976 2057,964 2055,934 1875,946 1627,958 1324,970 537,987"/>
+                <Baseline points="538,1017 1325,1000 1628,988 1877,976 2057,964"/>
+                <TextEquiv>
+                    <Unicode>d) Der Operator "Das nächste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:5;}">
+                <Coords points="535,1148 855,1148 1168,1136 1320,1136 1446,1136 1771,1126 1950,1124 2052,1109 2048,1079 1948,1094 1770,1096 1446,1106 1320,1106 1167,1106 854,1118 535,1118"/>
+                <Baseline points="535,1148 855,1148 1168,1136 1320,1136 1446,1136 1771,1126 1950,1124 2052,1109"/>
+                <TextEquiv>
+                    <Unicode>e) Der Operator "Das "letzte".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:6;}">
+                <Coords points="528,1291 870,1291 1211,1274 1495,1277 2025,1248 2258,1235 2258,1235 2258,1205 2257,1205 2023,1218 1494,1247 1210,1244 869,1261 528,1261"/>
+                <Baseline points="528,1291 870,1291 1211,1274 1495,1277 2025,1248 2258,1235 2258,1235"/>
+                <TextEquiv>
+                    <Unicode>f) µ=Operator rechts vom Ergibt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:7;}">
+                <Coords points="722,1412 1109,1400 1108,1370 721,1382"/>
+                <Baseline points="722,1412 1109,1400"/>
+                <TextEquiv>
+                    <Unicode>Zeichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:8;}">
+                <Coords points="543,1589 2260,1526 2259,1496 542,1559"/>
+                <Baseline points="543,1589 2260,1526"/>
+                <TextEquiv>
+                    <Unicode>g) Benennung der Variablen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:9;}">
+                <Coords points="741,1701 1873,1684 1873,1654 741,1671"/>
+                <Baseline points="741,1701 1873,1684"/>
+                <TextEquiv>
+                    <Unicode>und Zwischenwerte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:10;}">
+                <Coords points="538,1887 2074,1858 2073,1828 537,1857"/>
+                <Baseline points="538,1887 2074,1858"/>
+                <TextEquiv>
+                    <Unicode>h) Implizite und explizite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:11;}">
+                <Coords points="705,2028 2098,2001 2097,1971 704,1998"/>
+                <Baseline points="705,2028 2098,2001"/>
+                <TextEquiv>
+                    <Unicode>Ausdrücke mit Operatoren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:12;} textStyle {offset:3; length:1;underlined; strikethrough} textStyle {offset:4; length:14;underlined}">
+                <Coords points="332,2250 1403,2207 1402,2177 331,2220"/>
+                <Baseline points="332,2250 1403,2207"/>
+                <TextEquiv>
+                    <Unicode>8) 8 Verschiedenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:13;}">
+                <Coords points="577,2367 2141,2343 2141,2313 577,2337"/>
+                <Baseline points="577,2367 2141,2343"/>
+                <TextEquiv>
+                    <Unicode>a) Die Operatoren ∧R, ∨R, ΣR, πR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:14;}">
+                <Coords points="562,2531 2146,2466 2145,2436 561,2501"/>
+                <Baseline points="562,2531 2146,2466"/>
+                <TextEquiv>
+                    <Unicode>b) Darstellung von Potenzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:15;}">
+                <Coords points="572,2672 2229,2609 2228,2579 571,2642"/>
+                <Baseline points="572,2672 2229,2609"/>
+                <TextEquiv>
+                    <Unicode>c) Nullliste und Variable als Liste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:16;}">
+                <Coords points="678,2786 1674,2750 1673,2720 677,2756"/>
+                <Baseline points="678,2786 1674,2750"/>
+                <TextEquiv>
+                    <Unicode>mit einem Glied</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:17;}">
+                <Coords points="557,2938 1846,2914 1845,2884 556,2908"/>
+                <Baseline points="557,2938 1846,2914"/>
+                <TextEquiv>
+                    <Unicode>Behauptungszeichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:3;} structure {type:page-number;}">
+            <Coords points="2405,3421 2492,3421 2492,3531 2405,3531"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="2431,3519 2473,3515 2470,3485 2428,3489"/>
+                <Baseline points="2431,3519 2473,3515"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

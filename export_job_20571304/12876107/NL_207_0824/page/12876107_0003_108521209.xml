@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:57:03.457+01:00</Created>
+        <LastChange>2025-12-27T10:20:07.380+01:00</LastChange>
+        <TranskribusMetadata docId="12876107" pageId="108521209" pageNr="3" tsid="269304670" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=WVTVPJZOUMBLJJQFOIKLKQLO" xmlUrl="https://files.transkribus.eu/Get?id=UFQGUZXFUREXOGYHRUHKGNYK" imageId="91290386"/>
+    </Metadata>
+    <Page imageFilename="12876107_0003_108521209.jpg" imageWidth="2584" imageHeight="3596">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957912553" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2233,242 2280,242 2280,305 2233,305"/>
+            <TextLine id="l_29" custom="readingOrder {index:0;}">
+                <Coords points="2237,300 2270,300 2270,270 2237,270"/>
+                <Baseline points="2237,300 2270,300"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="493,3106 537,242 2157,242 2190,454 2460,465 2507,3240 2378,3354 1175,3483 537,3483"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="550,345 2129,327 2129,297 550,315"/>
+                <Baseline points="550,345 2129,327"/>
+                <TextEquiv>
+                    <Unicode>folgende Erweiterung der Flexibilität</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="546,465 1574,443 1573,413 545,435"/>
+                <Baseline points="546,465 1574,443"/>
+                <TextEquiv>
+                    <Unicode>der Maschine eingebaut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;} blackening {offset:4; length:8;} unclear {offset:13; length:15;}">
+                <Coords points="572,590 2403,562 2403,532 572,560"/>
+                <Baseline points="572,590 2403,562"/>
+                <TextEquiv>
+                    <Unicode>Aus gewissen einzelnen Dual-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;} blackening {offset:8; length:6;}">
+                <Coords points="612,694 2359,678 2359,648 612,664"/>
+                <Baseline points="612,694 2359,678"/>
+                <TextEquiv>
+                    <Unicode>Stellen gewiss bestimmter Register, (z.B.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="622,813 2362,804 2362,774 622,783"/>
+                <Baseline points="622,813 2362,804"/>
+                <TextEquiv>
+                    <Unicode>Vorzeichenstelle des Akkummulators u ä</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;} textStyle {offset:0; length:38;strikethrough} unclear {offset:31; length:7;}">
+                <Coords points="612,927 2418,908 2418,878 612,897"/>
+                <Baseline points="612,927 2418,908"/>
+                <TextEquiv>
+                    <Unicode>werden im logischen Umformer u Umweckl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;} textStyle {offset:0; length:24;strikethrough} unclear {offset:0; length:4;}">
+                <Coords points="587,1040 2101,1036 2101,1006 587,1010"/>
+                <Baseline points="587,1040 2101,1036"/>
+                <TextEquiv>
+                    <Unicode>mine logische Funktionen logistische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;}">
+                <Coords points="616,1150 1137,1159 1138,1129 617,1120"/>
+                <Baseline points="616,1150 1137,1159"/>
+                <TextEquiv>
+                    <Unicode>Funktionen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;} blackening {offset:34; length:2;}">
+                <Coords points="641,1281 2371,1263 2371,1233 641,1251"/>
+                <Baseline points="641,1281 2371,1263"/>
+                <TextEquiv>
+                    <Unicode>einerseits und besteimmten Stellenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:9;}">
+                <Coords points="634,1395 2337,1382 2337,1352 634,1365"/>
+                <Baseline points="634,1395 2337,1382"/>
+                <TextEquiv>
+                    <Unicode>ihn Text eines jeden Befehls werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:10;} textStyle {offset:24; length:9;strikethrough} unclear {offset:24; length:9;}">
+                <Coords points="622,1511 914,1517 1589,1514 2409,1511 2409,1481 1589,1484 914,1487 623,1481"/>
+                <Baseline points="622,1511 914,1517 1589,1514 2409,1511"/>
+                <TextEquiv>
+                    <Unicode>im Umformer Lu logische überreden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:11;}">
+                <Coords points="656,1633 2265,1614 2265,1584 656,1603"/>
+                <Baseline points="656,1633 2265,1614"/>
+                <TextEquiv>
+                    <Unicode>Funktionen errechnet und auf den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:12;}">
+                <Coords points="663,1749 1847,1740 1847,1710 663,1719"/>
+                <Baseline points="663,1749 1847,1740"/>
+                <TextEquiv>
+                    <Unicode>Entschlüssler r gegeben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:13;}">
+                <Coords points="952,1856 2359,1844 2359,1814 952,1826"/>
+                <Baseline points="952,1856 2359,1844"/>
+                <TextEquiv>
+                    <Unicode>Der Vorteil ist der, das der Ablauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:14;} textStyle {offset:13; length:5;strikethrough}">
+                <Coords points="666,1982 2356,1957 2356,1927 666,1952"/>
+                <Baseline points="666,1982 2356,1957"/>
+                <TextEquiv>
+                    <Unicode>der Rechnung eines / bei vorgegebenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:15;}">
+                <Coords points="663,2092 2302,2070 2302,2040 663,2062"/>
+                <Baseline points="663,2092 2302,2070"/>
+                <TextEquiv>
+                    <Unicode>Programmm in viel stärkeren Masse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:16;}">
+                <Coords points="682,2205 2425,2195 2425,2165 682,2175"/>
+                <Baseline points="682,2205 2425,2195"/>
+                <TextEquiv>
+                    <Unicode>von den Rechenresultaten abhängt und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:17;} textStyle {offset:6; length:21;strikethrough}">
+                <Coords points="644,2327 2409,2312 2409,2282 644,2297"/>
+                <Baseline points="644,2327 2409,2312"/>
+                <TextEquiv>
+                    <Unicode>somit zeitlich und auch auf Zeit ein-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:18;}">
+                <Coords points="704,2434 2101,2431 2101,2401 704,2404"/>
+                <Baseline points="704,2434 2101,2431"/>
+                <TextEquiv>
+                    <Unicode>spart, aber auch Geräteteile ersetzt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:19;} unclear {offset:22; length:11;}">
+                <Coords points="719,2563 2308,2547 2308,2517 719,2533"/>
+                <Baseline points="719,2563 2308,2547"/>
+                <TextEquiv>
+                    <Unicode>Es sei Z.B ein im Tex Befehlstext vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:20;} textStyle {offset:17; length:17;strikethrough}">
+                <Coords points="697,2670 1599,2670 2299,2657 2298,2627 1599,2640 697,2640"/>
+                <Baseline points="697,2670 1599,2670 2299,2657"/>
+                <TextEquiv>
+                    <Unicode>handenes Zeichen mit der Bedeutung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:21;} textStyle {offset:0; length:3;strikethrough}">
+                <Coords points="704,2792 2418,2789 2418,2759 704,2762"/>
+                <Baseline points="704,2792 2418,2789"/>
+                <TextEquiv>
+                    <Unicode>das und v das Vorzeichen des Akku-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:22;}">
+                <Coords points="688,2908 2023,2899 2023,2869 688,2878"/>
+                <Baseline points="688,2908 2023,2899"/>
+                <TextEquiv>
+                    <Unicode>mulators mit der Bedeutung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:23;} textStyle {offset:0; length:3;strikethrough} unclear {offset:0; length:3;} unclear {offset:25; length:12;}">
+                <Coords points="785,3012 2422,3012 2422,2982 785,2982"/>
+                <Baseline points="785,3012 2422,3012"/>
+                <TextEquiv>
+                    <Unicode>Q-n wenn die Q Stelle im Entschlüsser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:24;} textStyle {offset:1; length:1;subscript} unclear {offset:1; length:1;}">
+                <Coords points="506,3169 622,3182 854,3160 2484,3119 2483,3089 852,3130 622,3152 509,3139"/>
+                <Baseline points="506,3169 622,3182 854,3160 2484,3119"/>
+                <TextEquiv>
+                    <Unicode>rk = 1 ist, dann wird der Befehl überrun-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:25;} unclear {offset:26; length:18;} textStyle {offset:27; length:1;subscript}">
+                <Coords points="722,3266 2466,3244 2466,3214 722,3236"/>
+                <Baseline points="722,3266 2466,3244"/>
+                <TextEquiv>
+                    <Unicode>gen und wenn die Q Stelle rQ im Entschlüsser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:26;}">
+                <Coords points="738,3367 2315,3351 2315,3321 738,3337"/>
+                <Baseline points="738,3367 2315,3351"/>
+                <TextEquiv>
+                    <Unicode>gleich 0 ist, dann wird der Befehl aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:27;}">
+                <Coords points="748,3467 1134,3471 1134,3441 748,3437"/>
+                <Baseline points="748,3467 1134,3471"/>
+                <TextEquiv>
+                    <Unicode>geführt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2434,3449 2522,3449 2522,3524 2434,3524"/>
+            <TextLine id="l_28" custom="readingOrder {index:0;}">
+                <Coords points="2455,3518 2496,3516 2495,3486 2454,3488"/>
+                <Baseline points="2455,3518 2496,3516"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

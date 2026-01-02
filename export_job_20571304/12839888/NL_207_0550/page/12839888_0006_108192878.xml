@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:21:16.127+01:00</Created>
+        <LastChange>2025-12-25T10:47:01.893+01:00</LastChange>
+        <TranskribusMetadata docId="12839888" pageId="108192878" pageNr="6" tsid="268752917" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XTVPRWAYBNZPXPJQZCLSBAQB" xmlUrl="https://files.transkribus.eu/Get?id=KFDRDPPMRCHNXJLYOWJSHVVW" imageId="90979630"/>
+    </Metadata>
+    <Page imageFilename="12839888_0006_108192878.jpg" imageWidth="2596" imageHeight="3589">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957809453" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="141,104 517,104 517,259 141,259"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;} textStyle {offset:0; length:4;underlined}">
+                <Coords points="199,218 489,213 488,183 198,188"/>
+                <Baseline points="199,218 489,213"/>
+                <TextEquiv>
+                    <Unicode>Zuse)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="462,1604 401,1550 386,672 422,448 557,397 576,131 1159,134 1584,351 2062,480 2345,1085 2441,1903 970,1908"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="582,279 1165,262 1164,232 581,249"/>
+                <Baseline points="582,279 1165,262"/>
+                <TextEquiv>
+                    <Unicode>Model 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="613,414 904,419 1478,378 1476,348 903,389 614,384"/>
+                <Baseline points="613,414 904,419 1478,378"/>
+                <TextEquiv>
+                    <Unicode>Stand 7.5.85</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;} gap {offset:13; length:0;}">
+                <Coords points="463,591 947,591 1757,591 2038,598 2039,568 1757,561 947,561 463,561"/>
+                <Baseline points="463,591 947,591 1757,591 2038,598"/>
+                <TextEquiv>
+                    <Unicode>9) Teil 32.04 Blatt 33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;} gap {offset:14; length:0;}">
+                <Coords points="426,754 1047,749 1747,756 1994,741 1992,711 1746,726 1047,719 426,724"/>
+                <Baseline points="426,754 1047,749 1747,756 1994,741"/>
+                <TextEquiv>
+                    <Unicode>10) Teil 35.10 Blatt 35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;} gap {offset:14; length:0;}">
+                <Coords points="424,916 1090,872 1696,887 2091,889 2091,859 1696,857 1089,842 422,886"/>
+                <Baseline points="424,916 1090,872 1696,887 2091,889"/>
+                <TextEquiv>
+                    <Unicode>11) Teil 35.15 Blatt 35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;} gap {offset:15; length:0;}">
+                <Coords points="426,1049 979,1037 1275,1025 1737,1039 2147,1039 2147,1009 1737,1009 1275,995 978,1007 425,1019"/>
+                <Baseline points="426,1049 979,1037 1275,1025 1737,1039 2147,1039"/>
+                <TextEquiv>
+                    <Unicode>12) Teil 35.15a Blatt 35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;} gap {offset:15; length:0;}">
+                <Coords points="431,1207 945,1185 1359,1192 1953,1173 2253,1151 2251,1121 1951,1143 1359,1162 945,1155 430,1177"/>
+                <Baseline points="431,1207 945,1185 1359,1192 1953,1173 2253,1151"/>
+                <TextEquiv>
+                    <Unicode>13) Teil 35.15b zu Blatt 35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;}">
+                <Coords points="1127,1308 1614,1287 1958,1284 2147,1282 2147,1252 1958,1254 1613,1257 1126,1278"/>
+                <Baseline points="1127,1308 1614,1287 1958,1284 2147,1282"/>
+                <TextEquiv>
+                    <Unicode>gesondert gezeichnet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;}">
+                <Coords points="439,1536 964,1519 1367,1505 1366,1475 963,1489 438,1506"/>
+                <Baseline points="439,1536 964,1519 1367,1505"/>
+                <TextEquiv>
+                    <Unicode>14) Teile 34.33a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;}">
+                <Coords points="1536,1556 1980,1560 2319,1570 2320,1540 1981,1530 1536,1526"/>
+                <Baseline points="1536,1556 1980,1560 2319,1570"/>
+                <TextEquiv>
+                    <Unicode>zu Blatt 37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;}">
+                <Coords points="1027,1619 1330,1611 1329,1581 1026,1589"/>
+                <Baseline points="1027,1619 1330,1611"/>
+                <TextEquiv>
+                    <Unicode>35.33b</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;}">
+                <Coords points="1023,1817 1691,1798 2135,1798 2392,1815 2394,1785 2136,1768 1691,1768 1022,1787"/>
+                <Baseline points="1023,1817 1691,1798 2135,1798 2392,1815"/>
+                <TextEquiv>
+                    <Unicode>gesondert gezeichnet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:marginalia;}">
+            <Coords points="2417,3420 2505,3420 2505,3510 2417,3510"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2435,3502 2479,3500 2478,3470 2434,3472"/>
+                <Baseline points="2435,3502 2479,3500"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

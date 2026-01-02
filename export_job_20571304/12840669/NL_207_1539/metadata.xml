@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>12840669</docId>
+    <title>NL_207/1539</title>
+    <uploadTimestamp>1765363556793</uploadTimestamp>
+    <uploader>dickhaut.johannes@studio.unibo.it</uploader>
+    <uploaderId>444774</uploaderId>
+    <nrOfPages>2</nrOfPages>
+    <pageId>108200121</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=RPYMKLYKTENKMPGHQEYVONWE</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=RPYMKLYKTENKMPGHQEYVONWE</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_12840669</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>2182337</colId>
+            <colName>Zuse_Handwritten</colName>
+            <description>dickhaut.johannes@studio.unibo.it</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+            <isFavorite>false</isFavorite>
+        </colList>
+    </collectionList>
+    <mainColId>2182337</mainColId>
+</trpDocMetadata>

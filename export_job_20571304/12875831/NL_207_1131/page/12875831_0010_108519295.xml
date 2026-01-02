@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:48:43.274+01:00</Created>
+        <LastChange>2025-12-28T13:45:32.767+01:00</LastChange>
+        <TranskribusMetadata docId="12875831" pageId="108519295" pageNr="10" tsid="269506225" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CUPZCXJGKGTPQSPNAKKLUCVF" xmlUrl="https://files.transkribus.eu/Get?id=GIBOYEGUSPZGYXHXUFESJTCY" imageId="91288339"/>
+    </Metadata>
+    <Page imageFilename="12875831_0010_108519295.jpg" imageWidth="1869" imageHeight="1370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958019209" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="720,83 1638,83 1638,172 720,172"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="737,170 1059,157 1327,157 1514,157 1625,157 1625,127 1514,127 1327,127 1058,127 736,140"/>
+                <Baseline points="737,170 1059,157 1327,157 1514,157 1625,157"/>
+                <TextEquiv>
+                    <Unicode>Hinterstein d. 7.8.46.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="758,1042 363,863 373,796 174,805 157,687 182,489 204,181 1501,183 1529,279 1740,287 1731,751 1421,764 1404,866 1589,929 1631,1034 1303,1095"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;} person {offset:19; length:12;wikiData:Q1794263;}">
+                <Coords points="228,259 474,252 753,259 1101,257 1347,261 1449,270 1452,240 1349,231 1101,227 753,229 474,222 227,229"/>
+                <Baseline points="228,259 474,252 753,259 1101,257 1347,261 1449,270"/>
+                <TextEquiv>
+                    <Unicode>Sehr geehrter Herr De Beauclair!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="335,370 524,365 644,350 794,350 983,348 1162,355 1486,348 1718,346 1718,316 1486,318 1162,325 983,318 794,320 642,320 522,335 334,340"/>
+                <Baseline points="335,370 524,365 644,350 794,350 983,348 1162,355 1486,348 1718,346"/>
+                <TextEquiv>
+                    <Unicode>Ihrer freundlichen Einladung will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;}">
+                <Coords points="204,411 235,422 376,422 539,420 655,418 770,415 811,426 1057,418 1307,413 1512,418 1668,413 1667,383 1512,388 1307,383 1056,388 814,396 774,385 654,388 539,390 376,392 240,392 214,383"/>
+                <Baseline points="204,411 235,422 376,422 539,420 655,418 770,415 811,426 1057,418 1307,413 1512,418 1668,413"/>
+                <TextEquiv>
+                    <Unicode>ich gerne Folge leisten und werde Sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:3;}">
+                <Coords points="198,496 337,489 520,494 737,487 872,492 1038,489 1186,489 1440,485 1682,492 1683,462 1440,455 1186,459 1038,459 872,462 737,457 520,464 337,459 196,466"/>
+                <Baseline points="198,496 337,489 520,494 737,487 872,492 1038,489 1186,489 1440,485 1682,492"/>
+                <TextEquiv>
+                    <Unicode>am Montag d. 12.8. besuchen. Wahr-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:4;}">
+                <Coords points="211,576 363,570 500,570 672,570 807,568 979,566 1188,559 1329,561 1425,561 1616,561 1616,531 1425,531 1329,531 1188,529 978,536 807,538 672,540 500,540 362,540 210,546"/>
+                <Baseline points="211,576 363,570 500,570 672,570 807,568 979,566 1188,559 1329,561 1425,561 1616,561"/>
+                <TextEquiv>
+                    <Unicode>scheinlich werde ich Mittags eintreffen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:5;}">
+                <Coords points="202,655 359,642 500,637 631,635 807,633 966,637 1151,642 1360,635 1675,640 1675,610 1360,605 1151,612 967,607 807,603 631,605 499,607 357,612 200,625"/>
+                <Baseline points="202,655 359,642 500,637 631,635 807,633 966,637 1151,642 1360,635 1675,640"/>
+                <TextEquiv>
+                    <Unicode>Am nächsten Tage möchte ich weiter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:6;}">
+                <Coords points="165,713 355,711 598,711 851,711 1103,716 1225,713 1505,722 1703,729 1704,699 1506,692 1225,683 1103,686 851,681 598,681 355,681 165,683"/>
+                <Baseline points="165,713 355,711 598,711 851,711 1103,716 1225,713 1505,722 1703,729"/>
+                <TextEquiv>
+                    <Unicode>reisen und würde gerne in Sibratshofen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:7;}">
+                <Coords points="178,785 457,781 598,779 807,783 953,787 1157,781 1342,783 1342,753 1157,751 953,757 808,753 598,749 457,751 178,755"/>
+                <Baseline points="178,785 457,781 598,779 807,783 953,787 1157,781 1342,783"/>
+                <TextEquiv>
+                    <Unicode>übernachten. Notlager genügt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:8;}">
+                <Coords points="392,864 600,859 781,861 959,859 1120,868 1362,866 1362,836 1121,838 960,829 781,831 600,829 391,834"/>
+                <Baseline points="392,864 600,859 781,861 959,859 1120,868 1362,866"/>
+                <TextEquiv>
+                    <Unicode>Mit den besten Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:9;} person {offset:0; length:11;wikiData:Q60093;}">
+                <Coords points="790,1025 1079,1027 1225,1020 1479,1018 1597,1022 1598,992 1479,988 1224,990 1078,997 790,995"/>
+                <Baseline points="790,1025 1079,1027 1225,1020 1479,1018 1597,1022"/>
+                <TextEquiv>
+                    <Unicode>Konrad Zuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="1703,1223 1779,1223 1779,1294 1703,1294"/>
+            <TextLine id="l_11" custom="readingOrder {index:0;}">
+                <Coords points="1712,1288 1760,1288 1760,1258 1712,1258"/>
+                <Baseline points="1712,1288 1760,1288"/>
+                <TextEquiv>
+                    <Unicode>16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

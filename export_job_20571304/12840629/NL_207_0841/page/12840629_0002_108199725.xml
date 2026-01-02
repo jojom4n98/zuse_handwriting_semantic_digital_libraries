@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:43:14.558+01:00</Created>
+        <LastChange>2025-12-27T11:42:51.849+01:00</LastChange>
+        <TranskribusMetadata docId="12840629" pageId="108199725" pageNr="2" tsid="269307034" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=UKOBTUFTHJFVAFAULOEDDHWX" xmlUrl="https://files.transkribus.eu/Get?id=RBDPZVLUZBOKOMCXYZOICGXG" imageId="90986173"/>
+    </Metadata>
+    <Page imageFilename="12840629_0002_108199725.jpg" imageWidth="2605" imageHeight="3628">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957983326" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2394,126 2507,126 2507,243 2394,243"/>
+            <TextLine id="l_5" custom="readingOrder {index:0;}">
+                <Coords points="2407,209 2478,213 2480,183 2409,179"/>
+                <Baseline points="2407,209 2478,213"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="227,231 2523,231 2523,3423 227,3423"/>
+            <TextLine id="l" custom="readingOrder {index:0;} unclear {offset:4; length:12;}">
+                <Coords points="332,360 802,344 1336,360 1693,354 2062,354 2090,354 2090,324 2062,324 1693,324 1336,330 802,314 331,330"/>
+                <Baseline points="332,360 802,344 1336,360 1693,354 2062,354 2090,354"/>
+                <TextEquiv>
+                    <Unicode>Der Kulissenhub beträgt 6 mm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="398,474 1509,464 1509,434 398,444"/>
+                <Baseline points="398,474 1509,464"/>
+                <TextEquiv>
+                    <Unicode>(Rollenbreite 5 mm).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="388,594 1358,587 1813,597 2034,609 2308,584 2485,603 2488,573 2308,554 2033,579 1814,567 1358,557 388,564"/>
+                <Baseline points="388,594 1358,587 1813,597 2034,609 2308,584 2485,603"/>
+                <TextEquiv>
+                    <Unicode>Bei der Konstruktion ist zu beachten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;} textStyle {offset:23; length:1;subscript} textStyle {offset:28; length:1;subscript} textStyle {offset:33; length:1;subscript}">
+                <Coords points="313,711 534,717 909,692 1260,698 1557,714 1693,720 1869,707 2040,704 2185,704 2185,674 2040,674 1868,677 1693,690 1558,684 1261,668 908,662 533,687 314,681"/>
+                <Baseline points="313,711 534,717 909,692 1260,698 1557,714 1693,720 1869,707 2040,704 2185,704"/>
+                <TextEquiv>
+                    <Unicode>dass sich die Kulisen A5, Aka, Akm, Akb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="322,830 502,830 688,824 950,821 1102,830 1449,818 1585,818 1835,808 2087,815 2293,824 2435,837 2498,856 2507,827 2441,808 2295,794 2088,785 1835,778 1584,788 1448,788 1102,800 951,791 687,794 502,800 322,800"/>
+                <Baseline points="322,830 502,830 688,824 950,821 1102,830 1449,818 1585,818 1835,808 2087,815 2293,824 2435,837 2498,856"/>
+                <TextEquiv>
+                    <Unicode>in den Grenzstellungen überlappen müssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;}">
+                <Coords points="337,955 595,949 792,943 1162,949 1452,932 1710,932 1946,941 2156,949 2311,946 2420,971 2479,983 2485,954 2426,942 2314,916 2156,919 1947,911 1711,902 1451,902 1161,919 792,913 594,919 336,925"/>
+                <Baseline points="337,955 595,949 792,943 1162,949 1452,932 1710,932 1946,941 2156,949 2311,946 2420,971 2479,983"/>
+                <TextEquiv>
+                    <Unicode>um Anecken zu vermeiden. Daher Kulissen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;}">
+                <Coords points="357,1070 438,1053 550,1050 764,1053 1092,1050 1289,1053 1362,1053 1362,1023 1289,1023 1092,1020 764,1023 550,1020 435,1023 351,1041"/>
+                <Baseline points="357,1070 438,1053 550,1050 764,1053 1092,1050 1289,1053 1362,1053"/>
+                <TextEquiv>
+                    <Unicode>breite 6-7 mm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;}">
+                <Coords points="486,1179 542,1174 696,1171 876,1174 1050,1171 1235,1174 1421,1174 1682,1179 1833,1176 2010,1171 2190,1176 2448,1174 2448,1144 2190,1146 2010,1141 1832,1146 1682,1149 1421,1144 1235,1144 1050,1141 876,1144 696,1141 540,1144 483,1149"/>
+                <Baseline points="486,1179 542,1174 696,1171 876,1174 1050,1171 1235,1174 1421,1174 1682,1179 1833,1176 2010,1171 2190,1176 2448,1174"/>
+                <TextEquiv>
+                    <Unicode>Die Kulissen Aka, Akb, Akm müssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;}">
+                <Coords points="343,1300 441,1297 564,1289 685,1289 870,1291 1033,1297 1289,1291 1460,1289 1586,1286 1721,1294 1817,1291 1968,1297 2125,1300 2308,1291 2440,1289 2440,1259 2307,1261 2125,1270 1969,1267 1817,1261 1721,1264 1587,1256 1459,1259 1288,1261 1033,1267 871,1261 685,1259 563,1259 440,1267 342,1270"/>
+                <Baseline points="343,1300 441,1297 564,1289 685,1289 870,1291 1033,1297 1289,1291 1460,1289 1586,1286 1721,1294 1817,1291 1968,1297 2125,1300 2308,1291 2440,1289"/>
+                <TextEquiv>
+                    <Unicode>in den Grenzstellungen gegen Verschieben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;}">
+                <Coords points="343,1404 438,1409 637,1409 775,1407 901,1404 1095,1407 1277,1404 1398,1407 1583,1412 1760,1409 1912,1404 2064,1409 2238,1404 2237,1374 2064,1379 1912,1374 1759,1379 1583,1382 1399,1377 1277,1374 1095,1377 901,1374 774,1377 637,1379 439,1379 345,1374"/>
+                <Baseline points="343,1404 438,1409 637,1409 775,1407 901,1404 1095,1407 1277,1404 1398,1407 1583,1412 1760,1409 1912,1404 2064,1409 2238,1404"/>
+                <TextEquiv>
+                    <Unicode>durch Blattfedern gesichert sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;}">
+                <Coords points="371,1513 539,1527 643,1530 719,1522 831,1527 983,1522 1123,1513 1384,1513 1612,1513 1718,1522 1839,1527 1954,1525 2094,1516 2204,1516 2333,1525 2420,1547 2468,1578 2510,1614 2516,1620 2537,1599 2530,1592 2486,1554 2432,1519 2338,1495 2205,1486 2093,1486 1953,1495 1839,1497 1720,1492 1613,1483 1384,1483 1122,1483 982,1492 831,1497 718,1492 642,1500 541,1497 373,1483"/>
+                <Baseline points="371,1513 539,1527 643,1530 719,1522 831,1527 983,1522 1123,1513 1384,1513 1612,1513 1718,1522 1839,1527 1954,1525 2094,1516 2204,1516 2333,1525 2420,1547 2468,1578 2510,1614 2516,1620"/>
+                <TextEquiv>
+                    <Unicode>Teil A läuft dauernd mit gleichmässiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;}">
+                <Coords points="379,1651 486,1651 567,1637 747,1656 873,1640 1014,1640 1140,1634 1233,1634 1328,1637 1460,1631 1586,1637 1673,1637 1673,1607 1587,1607 1460,1601 1328,1607 1233,1604 1139,1604 1013,1610 871,1610 747,1626 566,1607 483,1621 379,1621"/>
+                <Baseline points="379,1651 486,1651 567,1637 747,1656 873,1640 1014,1640 1140,1634 1233,1634 1328,1637 1460,1631 1586,1637 1673,1637"/>
+                <TextEquiv>
+                    <Unicode>Geschwindigkeit um.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;} textStyle {offset:22; length:1;subscript}">
+                <Coords points="519,1704 660,1704 783,1704 921,1710 1042,1707 1143,1710 1230,1701 1283,1721 1345,1713 1432,1707 1555,1704 1668,1707 1752,1713 1856,1710 1855,1680 1753,1683 1669,1677 1555,1674 1431,1677 1342,1683 1286,1691 1234,1671 1142,1680 1042,1677 921,1680 784,1674 660,1674 519,1674"/>
+                <Baseline points="519,1704 660,1704 783,1704 921,1710 1042,1707 1143,1710 1230,1701 1283,1721 1345,1713 1432,1707 1555,1704 1668,1707 1752,1713 1856,1710"/>
+                <TextEquiv>
+                    <Unicode>Massenausgleich über A6. (Berechnen!)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:13;} textStyle {offset:0; length:10;underlined} textStyle {offset:21; length:1;subscript}">
+                <Coords points="244,1878 432,1836 598,1825 783,1825 901,1831 1039,1819 1202,1819 1334,1814 1437,1825 1651,1811 1831,1817 1923,1819 2078,1819 2193,1814 2283,1825 2287,1795 2194,1784 2077,1789 1923,1789 1832,1787 1651,1781 1438,1795 1335,1784 1201,1789 1038,1789 900,1801 784,1795 597,1795 428,1806 237,1849"/>
+                <Baseline points="244,1878 432,1836 598,1825 783,1825 901,1831 1039,1819 1202,1819 1334,1814 1437,1825 1651,1811 1831,1817 1923,1819 2078,1819 2193,1814 2283,1825"/>
+                <TextEquiv>
+                    <Unicode>C Abtrieb Hauptteil C1 mit Zahlkranz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:14;} textStyle {offset:0; length:8;underlined} textStyle {offset:10; length:1;subscript} textStyle {offset:27; length:1;subscript} textStyle {offset:31; length:1;subscript}">
+                <Coords points="514,1954 724,1940 918,1934 1084,1932 1266,1932 1440,1932 1536,1932 1640,1934 1769,1934 1870,1940 1993,1932 2151,1940 2277,1940 2277,1910 2152,1910 1993,1902 1870,1910 1770,1904 1640,1904 1536,1902 1440,1902 1266,1902 1084,1902 917,1904 723,1910 512,1924"/>
+                <Baseline points="514,1954 724,1940 918,1934 1084,1932 1266,1932 1440,1932 1536,1932 1640,1934 1769,1934 1870,1940 1993,1932 2151,1940 2277,1940"/>
+                <TextEquiv>
+                    <Unicode>Schieber C2 trägt Rollen Cr1 Cr2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:15;} textStyle {offset:13; length:1;subscript} textStyle {offset:27; length:1;subscript}">
+                <Coords points="517,2069 578,2052 679,2058 837,2052 966,2041 1112,2041 1238,2061 1325,2052 1423,2052 1612,2050 1791,2044 1892,2047 1963,2072 2030,2069 2092,2058 2218,2052 2322,2055 2323,2025 2218,2022 2089,2028 2027,2039 1967,2042 1897,2018 1791,2014 1611,2020 1423,2022 1323,2022 1239,2031 1114,2011 965,2011 835,2022 679,2028 575,2022 509,2040"/>
+                <Baseline points="517,2069 578,2052 679,2058 837,2052 966,2041 1112,2041 1238,2061 1325,2052 1423,2052 1612,2050 1791,2044 1892,2047 1963,2072 2030,2069 2092,2058 2218,2052 2322,2055"/>
+                <TextEquiv>
+                    <Unicode>Am Schieber C2 ein Nocken C4. Dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:16;} textStyle {offset:24; length:1;subscript}">
+                <Coords points="486,2162 651,2165 795,2162 963,2156 1075,2167 1165,2165 1269,2165 1482,2159 1578,2165 1673,2176 1833,2170 1943,2173 2100,2167 2179,2170 2347,2184 2349,2154 2181,2140 2100,2137 1943,2143 1833,2140 1674,2146 1581,2135 1483,2129 1269,2135 1165,2135 1076,2137 964,2126 794,2132 651,2135 487,2132"/>
+                <Baseline points="486,2162 651,2165 795,2162 963,2156 1075,2167 1165,2165 1269,2165 1482,2159 1578,2165 1673,2176 1833,2170 1943,2173 2100,2167 2179,2170 2347,2184"/>
+                <TextEquiv>
+                    <Unicode>schaltet einen Stössel C3, welcher in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:17;}">
+                <Coords points="491,2285 598,2291 719,2285 868,2285 997,2283 1134,2274 1311,2280 1452,2271 1595,2271 1794,2283 1988,2280 2125,2280 2274,2280 2274,2250 2125,2250 1988,2250 1795,2253 1596,2241 1451,2241 1311,2250 1134,2244 996,2253 868,2255 718,2255 598,2261 493,2255"/>
+                <Baseline points="491,2285 598,2291 719,2285 868,2285 997,2283 1134,2274 1311,2280 1452,2271 1595,2271 1794,2283 1988,2280 2125,2280 2274,2280"/>
+                <TextEquiv>
+                    <Unicode>der Ruhestellung einen aussen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:18;}">
+                <Coords points="466,2406 606,2395 772,2409 971,2403 1115,2403 1331,2403 1578,2400 1774,2392 1993,2389 2173,2409 2372,2403 2457,2403 2457,2373 2372,2373 2174,2379 1994,2359 1773,2362 1577,2370 1331,2373 1115,2373 971,2373 773,2379 606,2365 464,2376"/>
+                <Baseline points="466,2406 606,2395 772,2409 971,2403 1115,2403 1331,2403 1578,2400 1774,2392 1993,2389 2173,2409 2372,2403 2457,2403"/>
+                <TextEquiv>
+                    <Unicode>fest montierten Umschaltkontakt Ck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:19;}">
+                <Coords points="489,2528 639,2528 890,2528 1077,2528 1301,2521 1515,2514 1743,2517 1892,2528 2042,2514 2232,2507 2388,2521 2487,2548 2495,2519 2393,2491 2233,2477 2040,2484 1892,2498 1744,2487 1515,2484 1300,2491 1077,2498 890,2498 639,2498 489,2498"/>
+                <Baseline points="489,2528 639,2528 890,2528 1077,2528 1301,2521 1515,2514 1743,2517 1892,2528 2042,2514 2232,2507 2388,2521 2487,2548"/>
+                <TextEquiv>
+                    <Unicode>betätigt. (Nicht gezeichnet) Dieser Kontakt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:20;}">
+                <Coords points="479,2653 666,2636 907,2636 1036,2633 1257,2643 1461,2633 1665,2626 1848,2626 1964,2633 2082,2629 2229,2640 2344,2636 2426,2636 2426,2606 2343,2606 2230,2610 2083,2599 1964,2603 1849,2596 1664,2596 1460,2603 1257,2613 1036,2603 907,2606 665,2606 476,2623"/>
+                <Baseline points="479,2653 666,2636 907,2636 1036,2633 1257,2643 1461,2633 1665,2626 1848,2626 1964,2633 2082,2629 2229,2640 2344,2636 2426,2636"/>
+                <TextEquiv>
+                    <Unicode>zeigt an, ob die betreffende Kupplung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:21;}">
+                <Coords points="493,2759 632,2755 751,2759 863,2759 992,2748 1090,2748 1216,2748 1406,2755 1491,2752 1685,2762 1845,2755 1926,2745 1922,2715 1843,2725 1685,2732 1491,2722 1406,2725 1217,2718 1090,2718 991,2718 862,2729 752,2729 632,2725 492,2729"/>
+                <Baseline points="493,2759 632,2755 751,2759 863,2759 992,2748 1090,2748 1216,2748 1406,2755 1491,2752 1685,2762 1845,2755 1926,2745"/>
+                <TextEquiv>
+                    <Unicode>eingeschaltet ist oder nicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:22;} textStyle {offset:21; length:1;subscript} sic {offset:23; length:8;correction:möglichst;}">
+                <Coords points="781,2871 948,2871 1087,2871 1271,2871 1454,2877 1739,2864 1943,2874 2269,2877 2446,2867 2444,2837 2268,2847 1944,2844 1739,2834 1454,2847 1271,2841 1087,2841 948,2841 781,2841"/>
+                <Baseline points="781,2871 948,2871 1087,2871 1271,2871 1454,2877 1739,2864 1943,2874 2269,2877 2446,2867"/>
+                <TextEquiv>
+                    <Unicode>Teil C und Schieber C2 möglicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:23;}">
+                <Coords points="574,3007 751,2996 900,3000 1131,2996 1386,2990 1590,2983 1658,2986 1659,2956 1590,2953 1385,2960 1130,2966 900,2970 750,2966 572,2977"/>
+                <Baseline points="574,3007 751,2996 900,3000 1131,2996 1386,2990 1590,2983 1658,2986"/>
+                <TextEquiv>
+                    <Unicode>leicht konstruieren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:24;}">
+                <Coords points="625,3122 856,3102 1080,3105 1291,3105 1464,3102 1665,3098 1868,3102 1967,3102 1967,3072 1868,3072 1665,3068 1463,3072 1291,3075 1080,3075 855,3072 622,3092"/>
+                <Baseline points="625,3122 856,3102 1080,3105 1291,3105 1464,3102 1665,3098 1868,3102 1967,3102"/>
+                <TextEquiv>
+                    <Unicode>Massenausgleich beachten!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:25;}">
+                <Coords points="605,3227 758,3231 924,3227 1057,3227 1366,3214 1719,3204 1960,3207 2150,3214 2371,3207 2429,3227 2504,3265 2518,3238 2441,3199 2375,3177 2150,3184 1961,3177 1719,3174 1365,3184 1056,3197 924,3197 758,3201 606,3197"/>
+                <Baseline points="605,3227 758,3231 924,3227 1057,3227 1366,3214 1719,3204 1960,3207 2150,3214 2371,3207 2429,3227 2504,3265"/>
+                <TextEquiv>
+                    <Unicode>Rastfeder zur Sicherung des Schiebers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:26;} textStyle {offset:1; length:1;subscript}">
+                <Coords points="567,3360 836,3353 1152,3336 1396,3356 1631,3350 1797,3350 1967,3353 2144,3367 2307,3377 2392,3394 2398,3365 2311,3347 2146,3337 1968,3323 1797,3320 1631,3320 1397,3326 1152,3306 835,3323 566,3330"/>
+                <Baseline points="567,3360 836,3353 1152,3336 1396,3356 1631,3350 1797,3350 1967,3353 2144,3367 2307,3377 2392,3394"/>
+                <TextEquiv>
+                    <Unicode>C2 beachten. (Nicht gezeichnet).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2432,3474 2523,3474 2523,3549 2432,3549"/>
+            <TextLine id="l_6" custom="readingOrder {index:0;}">
+                <Coords points="2454,3547 2512,3547 2512,3517 2454,3517"/>
+                <Baseline points="2454,3547 2512,3547"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

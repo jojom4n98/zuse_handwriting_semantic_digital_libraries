@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:48:43.858+01:00</Created>
+        <LastChange>2025-12-28T13:46:42.134+01:00</LastChange>
+        <TranskribusMetadata docId="12875831" pageId="108519300" pageNr="12" tsid="269506330" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZRCHHWHWSMLKORHOBQRUGHNM" xmlUrl="https://files.transkribus.eu/Get?id=AVDKGNBKKOQHNKHILSSRHPGL" imageId="91288344"/>
+    </Metadata>
+    <Page imageFilename="12875831_0012_108519300.jpg" imageWidth="2646" imageHeight="3685">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958021221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="1492,1263 2168,1047 2219,1165 1531,1366"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;} unclear {offset:0; length:35;}">
+                <Coords points="1535,1330 1736,1285 2172,1145 2163,1116 1728,1256 1528,1301"/>
+                <Baseline points="1535,1330 1736,1285 2172,1145"/>
+                <TextEquiv>
+                    <Unicode>mit halbe Schwellenschreiber 213 TY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="267,2855 185,704 208,169 2468,107 2484,334 2418,719 1902,790 1879,1018 1502,1109 1440,1353 2266,1546 2501,1763 2407,1965 2416,2491 2221,2836 2166,3239 1431,3238 549,3089"/>
+            <TextLine id="l_3" custom="readingOrder {index:0;}">
+                <Coords points="288,293 1223,239 1548,226 1726,237 2346,234 2346,204 1727,207 1548,196 1222,209 286,263"/>
+                <Baseline points="288,293 1223,239 1548,226 1726,237 2346,234"/>
+                <TextEquiv>
+                    <Unicode>menarbeit mit mir Zusatzgeräte für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:1;} textStyle {offset:34; length:1;strikethrough}">
+                <Coords points="223,395 761,376 1312,368 2435,387 2436,357 1312,338 760,346 222,365"/>
+                <Baseline points="223,395 761,376 1312,368 2435,387"/>
+                <TextEquiv>
+                    <Unicode>meine Geräte bauen. Ein noch sehr g schlecht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:2;}">
+                <Coords points="242,519 575,497 728,513 1078,503 1468,500 1642,513 1766,489 2005,497 2341,473 2339,443 2004,467 1764,459 1640,483 1469,470 1077,473 729,483 576,467 240,489"/>
+                <Baseline points="242,519 575,497 728,513 1078,503 1468,500 1642,513 1766,489 2005,497 2341,473"/>
+                <TextEquiv>
+                    <Unicode>gelöstes Problem stellen alle Teile dar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:3;}">
+                <Coords points="237,637 648,640 1210,618 1524,616 1841,605 2333,594 2332,564 1840,575 1523,586 1209,588 648,610 237,607"/>
+                <Baseline points="237,637 648,640 1210,618 1524,616 1841,605 2333,594"/>
+                <TextEquiv>
+                    <Unicode>die die Verbindung mit dem Menschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:4;}">
+                <Coords points="226,755 1511,742 2188,710 2187,680 1510,712 226,725"/>
+                <Baseline points="226,755 1511,742 2188,710"/>
+                <TextEquiv>
+                    <Unicode>und andere Geräten herstellen also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:5;}">
+                <Coords points="247,884 457,876 456,846 246,854"/>
+                <Baseline points="247,884 457,876"/>
+                <TextEquiv>
+                    <Unicode>z.B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:6;}">
+                <Coords points="594,908 1185,892 1184,862 593,878"/>
+                <Baseline points="594,908 1185,892"/>
+                <TextEquiv>
+                    <Unicode>Tastaturen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:7;}">
+                <Coords points="567,1021 968,1005 1752,1000 1752,970 967,975 566,991"/>
+                <Baseline points="567,1021 968,1005 1752,1000"/>
+                <TextEquiv>
+                    <Unicode>Anzeigevorrichtungen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:8;}">
+                <Coords points="551,1158 960,1134 1247,1140 1248,1110 959,1104 549,1128"/>
+                <Baseline points="551,1158 960,1134 1247,1140"/>
+                <TextEquiv>
+                    <Unicode>Druckwerke,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:9;}">
+                <Coords points="546,1271 820,1258 1406,1231 1405,1201 819,1228 545,1241"/>
+                <Baseline points="546,1271 820,1258 1406,1231"/>
+                <TextEquiv>
+                    <Unicode>Kurvenabtaster,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:10;}">
+                <Coords points="532,1365 809,1355 1097,1360 1371,1357 1371,1327 1097,1330 809,1325 531,1335"/>
+                <Baseline points="532,1365 809,1355 1097,1360 1371,1357"/>
+                <TextEquiv>
+                    <Unicode>Kurvenzeichner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:11;}">
+                <Coords points="548,1459 965,1451 964,1421 547,1429"/>
+                <Baseline points="548,1459 965,1451"/>
+                <TextEquiv>
+                    <Unicode>Abtaster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:12;}">
+                <Coords points="530,1575 906,1556 904,1526 528,1545"/>
+                <Baseline points="530,1575 906,1556"/>
+                <TextEquiv>
+                    <Unicode>Locher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:13;}">
+                <Coords points="1148,1494 1650,1492 1650,1462 1148,1464"/>
+                <Baseline points="1148,1494 1650,1492"/>
+                <TextEquiv>
+                    <Unicode>ev. optisch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:14;}">
+                <Coords points="328,1718 2215,1650 2214,1620 327,1688"/>
+                <Baseline points="328,1718 2215,1650"/>
+                <TextEquiv>
+                    <Unicode>Ich selbst wäre froh, wenn ich mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:15;}">
+                <Coords points="320,1825 2465,1774 2464,1744 319,1795"/>
+                <Baseline points="320,1825 2465,1774"/>
+                <TextEquiv>
+                    <Unicode>den rein rechnerischen Problemen zuwen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:16;}">
+                <Coords points="312,1943 1008,1919 1007,1889 311,1913"/>
+                <Baseline points="312,1943 1008,1919"/>
+                <TextEquiv>
+                    <Unicode>den könnte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:17;}">
+                <Coords points="535,2064 2314,2027 2313,1997 534,2034"/>
+                <Baseline points="535,2064 2314,2027"/>
+                <TextEquiv>
+                    <Unicode>Die Hauptsache ist ja, dass ich </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:18;}">
+                <Coords points="325,2201 2258,2137 2257,2107 324,2171"/>
+                <Baseline points="325,2201 2258,2137"/>
+                <TextEquiv>
+                    <Unicode>jetzt erst einmal wieder auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:19;}">
+                <Coords points="339,2312 2355,2250 2354,2220 338,2282"/>
+                <Baseline points="339,2312 2355,2250"/>
+                <TextEquiv>
+                    <Unicode>die Beine komme, und da bin ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:20;}">
+                <Coords points="363,2435 2341,2379 2340,2349 362,2405"/>
+                <Baseline points="363,2435 2341,2379"/>
+                <TextEquiv>
+                    <Unicode>Ihnen sehr dankbar, dass Sie mir in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:21;}">
+                <Coords points="331,2537 2381,2513 2381,2483 331,2507"/>
+                <Baseline points="331,2537 2381,2513"/>
+                <TextEquiv>
+                    <Unicode>so hochherziger Weise geholfen haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:22;}">
+                <Coords points="360,2674 2271,2623 2270,2593 359,2644"/>
+                <Baseline points="360,2674 2271,2623"/>
+                <TextEquiv>
+                    <Unicode>Die formelle Quitting liegt bei,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:23;}">
+                <Coords points="352,2806 1583,2758 1582,2728 351,2776"/>
+                <Baseline points="352,2806 1583,2758"/>
+                <TextEquiv>
+                    <Unicode>ferner einige Berichte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:24;}">
+                <Coords points="659,2930 2185,2879 2184,2849 658,2900"/>
+                <Baseline points="659,2930 2185,2879"/>
+                <TextEquiv>
+                    <Unicode>Mit den besten Grüssen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:25;}">
+                <Coords points="575,3051 1019,3056 1158,3056 1384,3043 1382,3013 1157,3026 1019,3026 575,3021"/>
+                <Baseline points="575,3051 1019,3056 1158,3056 1384,3043"/>
+                <TextEquiv>
+                    <Unicode>Haus zu Haus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:26;} person {offset:0; length:9;wikiData:Q60093;}">
+                <Coords points="1407,3192 1879,3194 2144,3164 2141,3134 1877,3164 1407,3162"/>
+                <Baseline points="1407,3192 1879,3194 2144,3164"/>
+                <TextEquiv>
+                    <Unicode>Konrad Zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="1791,3502 1893,3502 1893,3569 1791,3569"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1801,3564 1871,3562 1870,3532 1800,3534"/>
+                <Baseline points="1801,3564 1871,3562"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:43:14.951+01:00</Created>
+        <LastChange>2025-12-27T11:54:40.957+01:00</LastChange>
+        <TranskribusMetadata docId="12840629" pageId="108199663" pageNr="4" tsid="269307283" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PXXTTGWHLJLSTFTWZEFVLJQD" xmlUrl="https://files.transkribus.eu/Get?id=BWSRSJEUAJDSLJONAKTYOKSW" imageId="90986176"/>
+    </Metadata>
+    <Page imageFilename="12840629_0004_108199663.jpg" imageWidth="2617" imageHeight="3631">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957983631" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2335,94 2508,94 2508,229 2335,229"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2391,203 2441,203 2441,173 2391,173"/>
+                <Baseline points="2391,203 2441,203"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="360,206 2523,206 2523,3379 360,3379"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="454,330 795,319 1080,319 1379,319 1675,319 2132,324 2262,333 2264,303 2133,294 1675,289 1379,289 1080,289 795,289 453,300"/>
+                <Baseline points="454,330 795,319 1080,319 1379,319 1675,319 2132,324 2262,333"/>
+                <TextEquiv>
+                    <Unicode>Es sind Verbindungen zwischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="381,457 561,443 852,446 1131,437 1503,451 1797,446 2070,448 2251,446 2251,416 2070,418 1797,416 1503,421 1131,407 852,416 560,413 379,427"/>
+                <Baseline points="381,457 561,443 852,446 1131,437 1503,451 1797,446 2070,448 2251,446"/>
+                <TextEquiv>
+                    <Unicode>Bka und Aka, bzw zw. Bkb und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="401,564 739,553 993,553 1204,564 1405,564 1689,561 1873,564 2104,556 2383,564 2488,581 2493,551 2386,534 2104,526 1873,534 1689,531 1405,534 1205,534 994,523 739,523 400,534"/>
+                <Baseline points="401,564 739,553 993,553 1204,564 1405,564 1689,561 1873,564 2104,556 2383,564 2488,581"/>
+                <TextEquiv>
+                    <Unicode>akb erforderlich , da diese zugleich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="423,671 606,668 917,668 1027,688 1218,683 1503,674 1670,680 1949,677 2138,671 2137,641 1948,647 1670,650 1503,644 1217,653 1029,658 920,638 606,638 423,641"/>
+                <Baseline points="423,671 606,668 917,668 1027,688 1218,683 1503,674 1670,680 1949,677 2138,671"/>
+                <TextEquiv>
+                    <Unicode>geschaltet werden müssen. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;}">
+                <Coords points="434,798 683,790 866,784 1035,784 1399,790 1546,798 1698,790 1864,784 2059,790 2189,793 2347,801 2454,821 2460,792 2351,771 2190,763 2060,760 1864,754 1697,760 1546,768 1400,760 1035,754 866,754 682,760 433,768"/>
+                <Baseline points="434,798 683,790 866,784 1035,784 1399,790 1546,798 1698,790 1864,784 2059,790 2189,793 2347,801 2454,821"/>
+                <TextEquiv>
+                    <Unicode>Schaltbewegung ist dabei entgegen gesetzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;} textStyle {offset:18; length:2;strikethrough}">
+                <Coords points="412,919 584,911 849,928 1049,905 1351,911 1743,917 2048,914 2231,925 2431,942 2434,912 2233,895 2049,884 1743,887 1352,881 1048,875 848,898 584,881 411,889"/>
+                <Baseline points="412,919 584,911 849,928 1049,905 1351,911 1743,917 2048,914 2231,925 2431,942"/>
+                <TextEquiv>
+                    <Unicode>Dies erfolgt über Um Verbindungshebel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;} textStyle {offset:1; length:2;subscript} textStyle {offset:6; length:2;subscript} textStyle {offset:32; length:2;subscript}">
+                <Coords points="420,1044 575,1035 773,1032 1083,1021 1543,1029 1774,1032 2051,1032 2302,1063 2306,1033 2053,1002 1774,1002 1543,999 1083,991 772,1002 574,1005 418,1014"/>
+                <Baseline points="420,1044 575,1035 773,1032 1083,1021 1543,1029 1774,1032 2051,1032 2302,1063"/>
+                <TextEquiv>
+                    <Unicode>B10, B11. Dies sind von Achsen B12,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;} textStyle {offset:1; length:3;subscript} textStyle {offset:28; length:2;subscript} textStyle {offset:33; length:2;subscript}">
+                <Coords points="434,1145 471,1148 491,1171 575,1156 750,1134 1013,1128 1478,1148 1785,1148 2022,1159 2152,1182 2299,1179 2298,1149 2154,1152 2025,1129 1786,1118 1479,1118 1013,1098 748,1104 570,1126 502,1140 485,1121 436,1115"/>
+                <Baseline points="434,1145 471,1148 491,1171 575,1156 750,1134 1013,1128 1478,1148 1785,1148 2022,1159 2152,1182 2299,1179"/>
+                <TextEquiv>
+                    <Unicode>B13 schwenkbar. Die Achsen B12, B13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;} textStyle {offset:14; length:1;subscript}">
+                <Coords points="423,1261 637,1261 922,1261 1272,1266 1402,1269 1715,1264 1929,1264 1929,1234 1715,1234 1402,1239 1273,1236 922,1231 637,1231 423,1231"/>
+                <Baseline points="423,1261 637,1261 922,1261 1272,1266 1402,1269 1715,1264 1929,1264"/>
+                <TextEquiv>
+                    <Unicode>sind an Teil B3 befestigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;} textStyle {offset:11; length:2;subscript} textStyle {offset:16; length:2;subscript}">
+                <Coords points="453,1382 619,1386 820,1375 1030,1375 1240,1382 1396,1382 1810,1369 2020,1384 2284,1382 2388,1390 2390,1360 2285,1352 2021,1354 1811,1339 1396,1352 1240,1352 1030,1345 819,1345 619,1356 454,1352"/>
+                <Baseline points="453,1382 619,1386 820,1375 1030,1375 1240,1382 1396,1382 1810,1369 2020,1384 2284,1382 2388,1390"/>
+                <TextEquiv>
+                    <Unicode>Die Hebel B10, B11 sind auf der einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;}">
+                <Coords points="464,1494 655,1492 882,1488 1028,1483 1231,1490 1437,1485 1627,1498 1793,1505 2013,1496 2181,1494 2289,1494 2289,1464 2181,1464 2012,1466 1793,1475 1629,1468 1438,1455 1231,1460 1028,1453 881,1458 655,1462 464,1464"/>
+                <Baseline points="464,1494 655,1492 882,1488 1028,1483 1231,1490 1437,1485 1627,1498 1793,1505 2013,1496 2181,1494 2289,1494"/>
+                <TextEquiv>
+                    <Unicode>Seite mit den Kulissenführungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;}">
+                <Coords points="479,1623 574,1623 757,1617 954,1617 1098,1619 1312,1617 1511,1619 1752,1615 2000,1615 2168,1615 2365,1617 2365,1587 2168,1585 2000,1585 1752,1585 1511,1589 1312,1587 1098,1589 954,1587 757,1587 574,1593 479,1593"/>
+                <Baseline points="479,1623 574,1623 757,1617 954,1617 1098,1619 1312,1617 1511,1619 1752,1615 2000,1615 2168,1615 2365,1617"/>
+                <TextEquiv>
+                    <Unicode>v. Bka bzw Bkb in Eingriff (Nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;}">
+                <Coords points="490,1742 757,1736 1138,1731 1388,1729 1693,1738 1975,1729 2174,1736 2390,1736 2390,1706 2175,1706 1975,1699 1693,1708 1388,1699 1138,1701 756,1706 489,1712"/>
+                <Baseline points="490,1742 757,1736 1138,1731 1388,1729 1693,1738 1975,1729 2174,1736 2390,1736"/>
+                <TextEquiv>
+                    <Unicode>gezeichnet) und auf der anderen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:13;}">
+                <Coords points="498,1858 733,1842 1053,1839 1371,1852 1744,1848 2058,1846 2344,1839 2343,1809 2058,1816 1744,1818 1371,1822 1053,1809 732,1812 496,1828"/>
+                <Baseline points="498,1858 733,1842 1053,1839 1371,1852 1744,1848 2058,1846 2344,1839"/>
+                <TextEquiv>
+                    <Unicode>Seite mit den Ringsegmenten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:14;} textStyle {offset:0; length:1;underlined} textStyle {offset:1; length:2;underlined; subscript} textStyle {offset:3; length:3;underlined} textStyle {offset:6; length:2;underlined; subscript} textStyle {offset:8; length:1;underlined}">
+                <Coords points="494,1969 636,1973 932,1960 931,1930 636,1943 495,1939"/>
+                <Baseline points="494,1969 636,1973 932,1960"/>
+                <TextEquiv>
+                    <Unicode>A12, A13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:15;} textStyle {offset:28; length:4;strikethrough} unclear {offset:28; length:4;}">
+                <Coords points="386,2200 988,2183 1242,2181 1587,2170 1852,2189 2138,2178 2301,2168 2299,2138 2137,2148 1852,2159 1588,2140 1241,2151 987,2153 385,2170"/>
+                <Baseline points="386,2200 988,2183 1242,2181 1587,2170 1852,2189 2138,2178 2301,2168"/>
+                <TextEquiv>
+                    <Unicode>Die Steuerung erfolgt durch Betr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:16;}">
+                <Coords points="377,2312 572,2314 833,2312 1079,2312 1278,2312 1522,2316 1700,2314 1943,2306 2147,2310 2314,2314 2475,2314 2475,2284 2314,2284 2148,2280 1943,2276 1699,2284 1522,2286 1278,2282 1079,2282 833,2282 572,2284 377,2282"/>
+                <Baseline points="377,2312 572,2314 833,2312 1079,2312 1278,2312 1522,2316 1700,2314 1943,2306 2147,2310 2314,2314 2475,2314"/>
+                <TextEquiv>
+                    <Unicode>Verstellen der Kulissen Bka bw. Bkb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:17;} textStyle {offset:0; length:4;strikethrough} textStyle {offset:26; length:2;strikethrough}">
+                <Coords points="403,2428 564,2418 913,2418 1132,2424 1560,2409 1861,2422 2181,2422 2308,2422 2308,2392 2181,2392 1862,2392 1560,2379 1132,2394 913,2388 563,2388 401,2398"/>
+                <Baseline points="403,2428 564,2418 913,2418 1132,2424 1560,2409 1861,2422 2181,2422 2308,2422"/>
+                <TextEquiv>
+                    <Unicode>Dies Hierzu gibt es einen di über alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:18;}">
+                <Coords points="426,2554 716,2547 867,2543 1146,2545 1320,2543 1566,2532 1767,2551 2049,2558 2221,2549 2428,2577 2501,2596 2509,2567 2434,2548 2222,2519 2049,2528 1769,2521 1567,2502 1319,2513 1146,2515 867,2513 715,2517 425,2524"/>
+                <Baseline points="426,2554 716,2547 867,2543 1146,2545 1320,2543 1566,2532 1767,2551 2049,2558 2221,2549 2428,2577 2501,2596"/>
+                <TextEquiv>
+                    <Unicode>Kupplungen durchlaufende Schiene S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:19;} textStyle {offset:20; length:1;subscript} textStyle {offset:24; length:1;subscript}">
+                <Coords points="434,2683 644,2670 941,2655 1110,2651 1375,2651 1598,2666 1742,2679 1916,2670 2142,2670 2142,2640 1915,2640 1743,2649 1600,2636 1376,2621 1110,2621 940,2625 642,2640 432,2653"/>
+                <Baseline points="434,2683 644,2670 941,2655 1110,2651 1375,2651 1598,2666 1742,2679 1916,2670 2142,2670"/>
+                <TextEquiv>
+                    <Unicode>welche über Nocken S1, S2 und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:20;} textStyle {offset:9; length:2;subscript} textStyle {offset:14; length:2;subscript}">
+                <Coords points="394,2787 615,2785 829,2761 985,2785 1278,2791 1615,2770 1884,2776 2100,2780 2348,2782 2348,2752 2100,2750 1885,2746 1614,2740 1277,2761 988,2755 830,2731 613,2755 394,2757"/>
+                <Baseline points="394,2787 615,2785 829,2761 985,2785 1278,2791 1615,2770 1884,2776 2100,2780 2348,2782"/>
+                <TextEquiv>
+                    <Unicode>Stössel B15, B16. Diese werden von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:21;}">
+                <Coords points="413,2905 619,2897 805,2895 1038,2890 1301,2888 1496,2874 1553,2876 1554,2846 1495,2844 1300,2858 1038,2860 805,2865 618,2867 412,2875"/>
+                <Baseline points="413,2905 619,2897 805,2895 1038,2890 1301,2888 1496,2874 1553,2876"/>
+                <TextEquiv>
+                    <Unicode>Magneten geschaltet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:22;}">
+                <Coords points="532,3022 767,3003 1055,3001 1329,3007 1509,3007 1657,3003 1810,3003 1986,3009 2172,3013 2299,3007 2437,3047 2477,3073 2493,3048 2449,3020 2303,2977 2172,2983 1987,2979 1811,2973 1657,2973 1509,2977 1329,2977 1055,2971 766,2973 530,2992"/>
+                <Baseline points="532,3022 767,3003 1055,3001 1329,3007 1509,3007 1657,3003 1810,3003 1986,3009 2172,3013 2299,3007 2437,3047 2477,3073"/>
+                <TextEquiv>
+                    <Unicode>Die Löschung von Bkm erfolgt ebenfalls</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:23;} unclear {offset:29; length:8;}">
+                <Coords points="409,3134 803,3136 1102,3128 1274,3147 1367,3138 1522,3136 1712,3143 1933,3145 2210,3166 2384,3189 2388,3159 2213,3136 1934,3115 1713,3113 1522,3106 1365,3108 1274,3117 1103,3098 803,3106 409,3104"/>
+                <Baseline points="409,3134 803,3136 1102,3128 1274,3147 1367,3138 1522,3136 1712,3143 1933,3145 2210,3166 2384,3189"/>
+                <TextEquiv>
+                    <Unicode>über die Schiene S durch ein Langlock</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:24;} textStyle {offset:1; length:1;subscript} textStyle {offset:20; length:2;subscript}">
+                <Coords points="422,3291 526,3308 725,3304 1038,3304 1250,3291 1433,3293 1602,3295 1657,3299 1659,3269 1603,3265 1433,3263 1249,3261 1037,3274 725,3274 528,3278 427,3261"/>
+                <Baseline points="422,3291 526,3308 725,3304 1038,3304 1250,3291 1433,3293 1602,3295 1657,3299"/>
+                <TextEquiv>
+                    <Unicode>S3 und einen Stift B14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2409,3447 2516,3447 2516,3551 2409,3551"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2443,3535 2479,3535 2479,3505 2443,3505"/>
+                <Baseline points="2443,3535 2479,3535"/>
+                <TextEquiv>
+                    <Unicode>7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

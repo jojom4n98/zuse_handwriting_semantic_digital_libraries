@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:59:47.311+01:00</Created>
+        <LastChange>2025-12-28T13:06:13.561+01:00</LastChange>
+        <TranskribusMetadata docId="12876129" pageId="108518902" pageNr="3" tsid="269503097" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YQNGMRXBOKZEFPWVPKGLWGWW" xmlUrl="https://files.transkribus.eu/Get?id=HNPSDQBAUEBKMGSPSUIOOCLF" imageId="91290685"/>
+    </Metadata>
+    <Page imageFilename="12876129_0003_108518902.jpg" imageWidth="2588" imageHeight="3607">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957935108" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="2134,216 2179,216 2179,325 2134,325"/>
+            <TextLine id="l_28" custom="readingOrder {index:0;}">
+                <Coords points="2141,316 2172,318 2174,288 2143,286"/>
+                <Baseline points="2141,316 2172,318"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="431,1079 449,152 2058,159 2057,429 2325,528 2444,658 2483,2306 2508,3165 2214,3438 601,3424"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="460,272 2027,251 2027,221 460,242"/>
+                <Baseline points="460,272 2027,251"/>
+                <TextEquiv>
+                    <Unicode>Unter den möglichen Methoden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;} unclear {offset:4; length:5;}">
+                <Coords points="449,439 1988,428 1988,398 449,409"/>
+                <Baseline points="449,439 1988,428"/>
+                <TextEquiv>
+                    <Unicode>die Wahl des nächsten Befehlstextes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;} unclear {offset:26; length:3;}">
+                <Coords points="460,608 2317,598 2317,568 460,578"/>
+                <Baseline points="460,608 2317,598"/>
+                <TextEquiv>
+                    <Unicode>sei erwähnt, das man z. B die in einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:3;}">
+                <Coords points="439,729 2398,711 2398,681 439,699"/>
+                <Baseline points="439,729 2398,711"/>
+                <TextEquiv>
+                    <Unicode>besonderen Zahlwerk, dem Befehlszahlreg-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="470,835 2408,835 2408,805 470,805"/>
+                <Baseline points="470,835 2408,835"/>
+                <TextEquiv>
+                    <Unicode>ister enthaltene Zahl ihrer eine beson-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;}">
+                <Coords points="449,958 2302,951 2302,921 449,928"/>
+                <Baseline points="449,958 2302,951"/>
+                <TextEquiv>
+                    <Unicode>dere Organisation dazu benutzen kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;} textStyle {offset:0; length:10;strikethrough} unclear {offset:0; length:10;}">
+                <Coords points="474,1075 990,1079 990,1049 474,1045"/>
+                <Baseline points="474,1075 990,1079"/>
+                <TextEquiv>
+                    <Unicode>Um Weitere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;} blackening {offset:4; length:11;} unclear {offset:5; length:9;} person {offset:15; length:10;wikiData:Q3189981;}">
+                <Coords points="711,1195 2366,1188 2366,1158 711,1165"/>
+                <Baseline points="711,1195 2366,1188"/>
+                <TextEquiv>
+                    <Unicode>Nach vorliegen v. d. Poel (- A simple dec.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;} textStyle {offset:23; length:6;strikethrough}">
+                <Coords points="502,1323 2331,1305 2331,1275 502,1293"/>
+                <Baseline points="502,1323 2331,1305"/>
+                <TextEquiv>
+                    <Unicode>Computer) kann man den ersten Text des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:9;} unclear {offset:18; length:6;}">
+                <Coords points="534,1432 2306,1429 2306,1399 534,1402"/>
+                <Baseline points="534,1432 2306,1429"/>
+                <TextEquiv>
+                    <Unicode>ersten Abrufbefehl -Em- selber modifizieren (z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:10;}">
+                <Coords points="517,1556 2227,1546 2227,1516 517,1526"/>
+                <Baseline points="517,1556 2227,1546"/>
+                <TextEquiv>
+                    <Unicode>die Adresseneinheit addieren) und zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:11;} textStyle {offset:11; length:10;strikethrough} unclear {offset:29; length:6;}">
+                <Coords points="556,1660 2246,1657 2246,1627 556,1630"/>
+                <Baseline points="556,1660 2246,1657"/>
+                <TextEquiv>
+                    <Unicode>Abrufen der folgenden in den auf zu folgenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:12;}">
+                <Coords points="563,1785 2297,1773 2297,1743 563,1755"/>
+                <Baseline points="563,1785 2297,1773"/>
+                <TextEquiv>
+                    <Unicode>Speicherzellen bereitstehenden Befehlstexte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:13;}">
+                <Coords points="548,1901 2297,1882 2297,1852 548,1871"/>
+                <Baseline points="548,1901 2297,1882"/>
+                <TextEquiv>
+                    <Unicode>benutzen. In der beschriebenen Maschine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:14;}">
+                <Coords points="575,2017 2191,2000 2191,1970 575,1987"/>
+                <Baseline points="575,2017 2191,2000"/>
+                <TextEquiv>
+                    <Unicode>geht dabei der Abruf Text über das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:15;} textStyle {offset:30; length:3;strikethrough}">
+                <Coords points="575,2135 2336,2118 2336,2088 575,2105"/>
+                <Baseline points="575,2135 2336,2118"/>
+                <TextEquiv>
+                    <Unicode>Addierwerk in den Akkumulator und,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:16;}">
+                <Coords points="563,2249 2309,2227 2309,2197 563,2219"/>
+                <Baseline points="563,2249 2309,2227"/>
+                <TextEquiv>
+                    <Unicode>verdrangt die dort stehende Zahl auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:17;}">
+                <Coords points="560,2365 1560,2353 2464,2353 2464,2323 1560,2323 560,2335"/>
+                <Baseline points="560,2365 1560,2353 2464,2353"/>
+                <TextEquiv>
+                    <Unicode>ein Hilfregister und kommt dann modi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:18;} unclear {offset:0; length:28;}">
+                <Coords points="575,2478 1925,2464 1925,2434 575,2448"/>
+                <Baseline points="575,2478 1925,2464"/>
+                <TextEquiv>
+                    <Unicode>fiziert ins Befehlsregister.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:19;}">
+                <Coords points="816,2587 2358,2585 2358,2555 816,2557"/>
+                <Baseline points="816,2587 2358,2585"/>
+                <TextEquiv>
+                    <Unicode>Nach vorliegender Erfindung wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:20;} textStyle {offset:0; length:38;strikethrough} unclear {offset:0; length:38; continued:true;}">
+                <Coords points="604,2713 2377,2708 2377,2678 604,2683"/>
+                <Baseline points="604,2713 2377,2708"/>
+                <TextEquiv>
+                    <Unicode>der Abruftext auf eine Abrufregister c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:21;} textStyle {offset:0; length:24;strikethrough} unclear {offset:0; length:24; continued:true;}">
+                <Coords points="597,2848 1879,2831 1879,2801 597,2818"/>
+                <Baseline points="597,2848 1879,2831"/>
+                <TextEquiv>
+                    <Unicode>gesetzt und erscheint no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:22;}">
+                <Coords points="621,2952 2331,2923 2330,2893 620,2922"/>
+                <Baseline points="621,2952 2331,2923"/>
+                <TextEquiv>
+                    <Unicode>der durch ein Addierwerk modifizierte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:23;} textStyle {offset:0; length:4;strikethrough} unclear {offset:15; length:7;}">
+                <Coords points="618,3065 2382,3046 2382,3016 618,3035"/>
+                <Baseline points="618,3065 2382,3046"/>
+                <TextEquiv>
+                    <Unicode>Text Abruftext (Em+1) in ein Abrufregister</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:24;}">
+                <Coords points="650,3176 2471,3162 2471,3132 650,3146"/>
+                <Baseline points="650,3176 2471,3162"/>
+                <TextEquiv>
+                    <Unicode>c gesetzt und gelangt nach Ausführung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:25;}">
+                <Coords points="640,3295 2300,3283 2300,3253 640,3265"/>
+                <Baseline points="640,3295 2300,3283"/>
+                <TextEquiv>
+                    <Unicode>eines Arithmetischen Befehls wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:26;}">
+                <Coords points="626,3404 2179,3399 2179,3369 626,3374"/>
+                <Baseline points="626,3404 2179,3399"/>
+                <TextEquiv>
+                    <Unicode>in das Befehlsreister um dort den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2437,3445 2493,3445 2493,3519 2437,3519"/>
+            <TextLine id="l_27" custom="readingOrder {index:0;}">
+                <Coords points="2452,3513 2485,3513 2485,3483 2452,3483"/>
+                <Baseline points="2452,3513 2485,3513"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

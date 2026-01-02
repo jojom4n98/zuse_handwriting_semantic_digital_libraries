@@ -1,0 +1,99 @@
+Kapitel 1
+Allgemeines
+Imh Inhaltsverzeichnis:
+
+
+Pk
+
+
+Seit
+
+
+I Aufgabe
+II Aufstellung des allgemeinen Plankalküls
+1) Allgemeine Ordnungsbezeichnungen
+2) Angaben und ihre Darstellung
+a) Angaben-Strukturen
+b) Angaben-Beschränkungen
+c) Angaben-Typen
+d) Angaben A Angabenart
+e) Komponenten von Angaben
+f) Darstellung von Angaben.
+g) Die Zeilendarstellung
+h) Constanten
+i) Angabenergänzung durch
+Komponentennummerierung.
+j) Angaben von starrer und variable
+variabler Struktur
+3) Starre Rechenpläne
+a) Bezeichnung der Rechenpläne
+b) Werte eines Rechenplans
+c) Reichweite der Indizes
+d) Randauszug
+
+
+1
+
+
+PK
+
+
+Seite
+
+
+e) Rechenplangleichungen. Das
+Das "Ergibt-"Zeichen
+f) Unterpläne
+g) Operationszeichen, Funktionszeichen
+4) Quasistarre Rechenpläne
+a) Definition
+b) Variable Operationszeichen
+c) Variable Planzeichen
+d) Variables Negationszeichen
+e) Variables Strukturzeichen
+f) Variation der Gliedzahl von
+Strukturen
+g) Allgemeines über Variablen
+von der Rechenpläne
+h) Bemerkung
+5) Freie Rechenpläne
+a) Variables Schlusszeichen
+b) Bedingte Planteile
+c) Variabl Indizes
+d) Angaben variablen Umfangs
+e) Errechnung von Rechenplänen
+6) Wiederholungspläne
+
+
+2
+
+
+PK7
+
+
+Seite
+
+
+7) Operationen des Prädikatenkalküls
+a) Die "All-" und "Existenzoperatoren
+b) Der Operator "Diejenigen, welche".
+c) Der Operator "Derjenige, welcher".
+d) Der Operator "Das nächste
+e) Der Operator "Das "letzte".
+f) µ=Operator rechts vom Ergibt-
+Zeichen
+g) Benennung der Variablen
+und Zwischenwerte
+h) Implizite und explizite
+Ausdrücke mit Operatoren
+8) 8 Verschiedenes
+a) Die Operatoren ∧R, ∨R, ΣR, πR
+b) Darstellung von Potenzen
+c) Nullliste und Variable als Liste
+mit einem Glied
+Behauptungszeichen.
+
+
+3
+
+

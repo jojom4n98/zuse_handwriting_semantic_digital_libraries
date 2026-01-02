@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:12:25.175+01:00</Created>
+        <LastChange>2025-12-25T10:25:11.985+01:00</LastChange>
+        <TranskribusMetadata docId="12839747" pageId="108190546" pageNr="2" tsid="268748266" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=AGGBAEPFIVTKWFOVNDHPWWXX" xmlUrl="https://files.transkribus.eu/Get?id=DZRNSRGBXSFRRUVQXINBCEJD" imageId="90977252"/>
+    </Metadata>
+    <Page imageFilename="12839747_0002_108190546.jpg" imageWidth="2585" imageHeight="3610">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957783365" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+                <RegionRefIndexed index="3" regionRef="r_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="2175,119 2393,119 2393,246 2175,246"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2195,217 2362,224 2363,194 2196,187"/>
+                <Baseline points="2195,217 2362,224"/>
+                <TextEquiv>
+                    <Unicode>PK</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:marginalia;}">
+            <Coords points="2183,438 2440,438 2440,609 2183,609"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2201,591 2413,598 2414,568 2202,561"/>
+                <Baseline points="2201,591 2413,598"/>
+                <TextEquiv>
+                    <Unicode>Seite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;}">
+            <Coords points="287,145 1914,148 2070,603 2427,728 2406,3144 287,3144"/>
+            <TextLine id="l_3" custom="readingOrder {index:0;} textStyle {offset:26; length:3;strikethrough}">
+                <Coords points="412,276 1835,247 1834,217 411,246"/>
+                <Baseline points="412,276 1835,247"/>
+                <TextEquiv>
+                    <Unicode>e) Rechenplangleichungen. Das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:1;}">
+                <Coords points="757,381 1833,346 1832,316 756,351"/>
+                <Baseline points="757,381 1833,346"/>
+                <TextEquiv>
+                    <Unicode>Das "Ergibt-"Zeichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:2;}">
+                <Coords points="448,599 1210,572 1209,542 447,569"/>
+                <Baseline points="448,599 1210,572"/>
+                <TextEquiv>
+                    <Unicode>f) Unterpläne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:3;}">
+                <Coords points="455,751 2405,767 2405,737 455,721"/>
+                <Baseline points="455,751 2035,729 2405,767"/>
+                <TextEquiv>
+                    <Unicode>g) Operationszeichen, Funktionszeichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:4;} textStyle {offset:3; length:23;underlined}">
+                <Coords points="319,920 1691,891 1690,861 318,890"/>
+                <Baseline points="319,920 1691,891"/>
+                <TextEquiv>
+                    <Unicode>4) Quasistarre Rechenpläne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:5;}">
+                <Coords points="504,1021 1200,1012 1200,982 504,991"/>
+                <Baseline points="504,1021 1200,1012"/>
+                <TextEquiv>
+                    <Unicode>a) Definition</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:6;}">
+                <Coords points="508,1175 2152,1142 2151,1112 507,1145"/>
+                <Baseline points="508,1175 2152,1142"/>
+                <TextEquiv>
+                    <Unicode>b) Variable Operationszeichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:7;}">
+                <Coords points="500,1290 1802,1267 1801,1237 499,1260"/>
+                <Baseline points="500,1290 1802,1267"/>
+                <TextEquiv>
+                    <Unicode>c) Variable Planzeichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:8;}">
+                <Coords points="498,1426 1930,1387 1929,1357 497,1396"/>
+                <Baseline points="498,1426 1930,1387"/>
+                <TextEquiv>
+                    <Unicode>d) Variables Negationszeichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:9;}">
+                <Coords points="502,1539 2123,1510 2122,1480 501,1509"/>
+                <Baseline points="502,1539 2123,1510"/>
+                <TextEquiv>
+                    <Unicode>e) Variables Strukturzeichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:10;}">
+                <Coords points="506,1666 2045,1632 2044,1602 505,1636"/>
+                <Baseline points="506,1666 2045,1632"/>
+                <TextEquiv>
+                    <Unicode>f) Variation der Gliedzahl von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:11;}">
+                <Coords points="817,1802 1450,1778 1449,1748 816,1772"/>
+                <Baseline points="817,1802 1450,1778"/>
+                <TextEquiv>
+                    <Unicode>Strukturen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:12;}">
+                <Coords points="529,1917 2084,1893 2084,1863 529,1887"/>
+                <Baseline points="529,1917 2084,1893"/>
+                <TextEquiv>
+                    <Unicode>g) Allgemeines über Variablen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:13;} textStyle {offset:0; length:3;strikethrough}">
+                <Coords points="776,2035 1782,2014 1781,1984 775,2005"/>
+                <Baseline points="776,2035 1782,2014"/>
+                <TextEquiv>
+                    <Unicode>von der Rechenpläne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:14;}">
+                <Coords points="556,2107 1440,2103 1440,2073 556,2077"/>
+                <Baseline points="556,2107 1440,2103"/>
+                <TextEquiv>
+                    <Unicode>h) Bemerkung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:15;} textStyle {offset:3; length:17;underlined}">
+                <Coords points="302,2177 1351,2183 1351,2153 302,2147"/>
+                <Baseline points="302,2177 1351,2183"/>
+                <TextEquiv>
+                    <Unicode>5) Freie Rechenpläne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:16;}">
+                <Coords points="501,2357 1789,2340 1789,2310 501,2327"/>
+                <Baseline points="501,2357 1789,2340"/>
+                <TextEquiv>
+                    <Unicode>a) Variables Schlusszeichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:17;}">
+                <Coords points="499,2507 1603,2470 1602,2440 498,2477"/>
+                <Baseline points="499,2507 1603,2470"/>
+                <TextEquiv>
+                    <Unicode>b) Bedingte Planteile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:18;} sic {offset:3; length:7;correction:Variable;}">
+                <Coords points="509,2625 1559,2599 1558,2569 508,2595"/>
+                <Baseline points="509,2625 1559,2599"/>
+                <TextEquiv>
+                    <Unicode>c) Variabl Indizes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:19;}">
+                <Coords points="504,2766 2185,2710 2184,2680 503,2736"/>
+                <Baseline points="504,2766 2185,2710"/>
+                <TextEquiv>
+                    <Unicode>d) Angaben variablen Umfangs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:20;}">
+                <Coords points="501,2915 2178,2879 2177,2849 500,2885"/>
+                <Baseline points="501,2915 2178,2879"/>
+                <TextEquiv>
+                    <Unicode>e) Errechnung von Rechenplänen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:21;} textStyle {offset:3; length:18;underlined}">
+                <Coords points="348,3077 1587,3049 1586,3019 347,3047"/>
+                <Baseline points="348,3077 1587,3049"/>
+                <TextEquiv>
+                    <Unicode>6) Wiederholungspläne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:3;} structure {type:page-number;}">
+            <Coords points="2406,3418 2476,3418 2476,3532 2406,3532"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;}">
+                <Coords points="2417,3514 2463,3510 2460,3480 2414,3484"/>
+                <Baseline points="2417,3514 2463,3510"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

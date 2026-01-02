@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:46:55.189+01:00</Created>
+        <LastChange>2025-12-28T13:31:14.579+01:00</LastChange>
+        <TranskribusMetadata docId="12875828" pageId="108518029" pageNr="1" tsid="269505194" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YXNVUOMVKVXGUVAPTSPPHFJX" xmlUrl="https://files.transkribus.eu/Get?id=FWQCCCBVJKEDGAAZIBKSDADF" imageId="91287929"/>
+    </Metadata>
+    <Page imageFilename="12875828_0001_108518029.jpg" imageWidth="2591" imageHeight="3627">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958215820" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="367,720 2482,720 2482,2929 367,2929"/>
+            <TextLine id="l" custom="readingOrder {index:0;} person {offset:13; length:11;firstname:Rita; lastname:Weinke;}">
+                <Coords points="576,913 933,903 1385,879 1812,869 1811,839 1384,849 932,873 575,883"/>
+                <Baseline points="576,913 933,903 1385,879 1812,869"/>
+                <TextEquiv>
+                    <Unicode>Sehr geehrte Frau Weinke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="750,1142 1092,1107 1410,1097 1559,1097 1832,1077 2154,1062 2288,1047 2285,1017 2152,1032 1830,1047 1558,1067 1410,1067 1090,1077 747,1112"/>
+                <Baseline points="750,1142 1092,1107 1410,1097 1559,1097 1832,1077 2154,1062 2288,1047"/>
+                <TextEquiv>
+                    <Unicode>Die Nachricht von dem Ableben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;} person {offset:24; length:4;firstname:Karl; lastname:Weinke;}">
+                <Coords points="397,1246 789,1241 898,1221 1295,1211 1668,1211 1911,1201 2100,1211 2283,1201 2281,1171 2100,1181 1911,1171 1667,1181 1295,1181 895,1191 786,1211 397,1216"/>
+                <Baseline points="397,1246 789,1241 898,1221 1295,1211 1668,1211 1911,1201 2100,1211 2283,1201"/>
+                <TextEquiv>
+                    <Unicode>meines Klassenkameraden Karl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;}">
+                <Coords points="397,1425 586,1390 769,1390 963,1380 1176,1375 1405,1350 1578,1350 1802,1355 2119,1340 2118,1310 1802,1325 1578,1320 1403,1320 1174,1345 962,1350 768,1360 583,1360 392,1396"/>
+                <Baseline points="397,1425 586,1390 769,1390 963,1380 1176,1375 1405,1350 1578,1350 1802,1355 2119,1340"/>
+                <TextEquiv>
+                    <Unicode>hat mich sehr erschüttert. Gern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="427,1539 864,1534 1032,1514 1375,1494 1534,1499 1737,1489 2060,1469 2288,1464 2287,1434 2059,1439 1735,1459 1534,1469 1375,1464 1029,1484 862,1504 427,1509"/>
+                <Baseline points="427,1539 864,1534 1032,1514 1375,1494 1534,1499 1737,1489 2060,1469 2288,1464"/>
+                <TextEquiv>
+                    <Unicode>erinnere ich mich an die Zeit, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;} place {offset:17; length:11;wikiData:Q14904;}">
+                <Coords points="417,1668 606,1663 913,1648 1340,1653 1568,1643 1921,1638 2263,1633 2263,1603 1921,1608 1567,1613 1340,1623 912,1618 605,1633 416,1638"/>
+                <Baseline points="417,1668 606,1663 913,1648 1340,1653 1568,1643 1921,1638 2263,1633"/>
+                <TextEquiv>
+                    <Unicode>wir gemeinsam in Hoyerswerda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;}">
+                <Coords points="448,1816 876,1801 1167,1790 1492,1775 1898,1768 2323,1756 2322,1726 1897,1738 1491,1745 1166,1760 875,1771 447,1786"/>
+                <Baseline points="448,1816 876,1801 1167,1790 1492,1775 1898,1768 2323,1756"/>
+                <TextEquiv>
+                    <Unicode>verbrachten. Ihnen persönlich und </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;}">
+                <Coords points="474,1984 712,1965 1033,1947 1242,1939 1604,1924 1891,1924 2211,1924 2402,1932 2403,1902 2212,1894 1891,1894 1603,1894 1241,1909 1032,1917 710,1935 472,1954"/>
+                <Baseline points="474,1984 712,1965 1033,1947 1242,1939 1604,1924 1891,1924 2211,1924 2402,1932"/>
+                <TextEquiv>
+                    <Unicode>Ihren werten Angehörigen möchte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;}">
+                <Coords points="444,2103 720,2081 981,2092 1272,2077 1637,2077 1921,2070 2204,2070 2349,2081 2424,2088 2427,2058 2352,2051 2205,2040 1921,2040 1637,2047 1271,2047 981,2062 719,2051 442,2073"/>
+                <Baseline points="444,2103 720,2081 981,2092 1272,2077 1637,2077 1921,2070 2204,2070 2349,2081 2424,2088"/>
+                <TextEquiv>
+                    <Unicode>ich meine aufrichtige Anteilnahme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:9;}">
+                <Coords points="451,2256 649,2234 776,2230 1048,2234 1182,2234 1182,2204 1048,2204 776,2200 647,2204 448,2226"/>
+                <Baseline points="451,2256 649,2234 776,2230 1048,2234 1182,2234"/>
+                <TextEquiv>
+                    <Unicode>aussprechen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:10;}">
+                <Coords points="932,2487 1186,2439 1350,2431 1525,2424 1682,2417 1876,2402 2055,2420 2058,2390 1876,2372 1680,2387 1524,2394 1349,2401 1182,2409 926,2458"/>
+                <Baseline points="932,2487 1186,2439 1350,2431 1525,2424 1682,2417 1876,2402 2055,2420"/>
+                <TextEquiv>
+                    <Unicode>Mit stillem Gruss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:11;} person {offset:0; length:11;wikiData:Q60093;}">
+                <Coords points="1044,2801 1488,2748 1663,2752 1950,2737 2144,2745 2145,2715 1950,2707 1663,2722 1487,2718 1040,2771"/>
+                <Baseline points="1044,2801 1488,2748 1663,2752 1950,2737 2144,2745"/>
+                <TextEquiv>
+                    <Unicode>Konrad Zuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="2437,3460 2497,3460 2497,3544 2437,3544"/>
+            <TextLine id="l_12" custom="readingOrder {index:0;}">
+                <Coords points="2451,3533 2484,3535 2486,3505 2453,3503"/>
+                <Baseline points="2451,3533 2484,3535"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

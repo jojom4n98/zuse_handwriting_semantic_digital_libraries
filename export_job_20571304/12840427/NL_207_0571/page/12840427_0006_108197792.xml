@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:38:17.962+01:00</Created>
+        <LastChange>2025-12-27T10:03:27.527+01:00</LastChange>
+        <TranskribusMetadata docId="12840427" pageId="108197792" pageNr="6" tsid="269304040" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZXZOWEVPSHOYNMSPDNKKBKGX" xmlUrl="https://files.transkribus.eu/Get?id=MBBDSFZFYHICHQJINMIKJWHS" imageId="90984193"/>
+    </Metadata>
+    <Page imageFilename="12840427_0006_108197792.jpg" imageWidth="2589" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957880186" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="1097,93 1229,93 1229,199 1097,199"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1122,198 1196,198 1196,168 1122,168"/>
+                <Baseline points="1122,198 1196,198"/>
+                <TextEquiv>
+                    <Unicode>6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="347,251 2470,251 2483,1492 2470,3400 347,3400"/>
+            <TextLine id="l_2" custom="readingOrder {index:0;} textStyle {offset:0; length:27;underlined}">
+                <Coords points="357,380 1702,374 1702,344 357,350"/>
+                <Baseline points="357,380 1702,374"/>
+                <TextEquiv>
+                    <Unicode>Einstellung des Schlüssels:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:1;}">
+                <Coords points="564,558 2368,553 2368,523 564,528"/>
+                <Baseline points="564,558 2368,553"/>
+                <TextEquiv>
+                    <Unicode>Für die Einstellung der Vor- und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:2;}">
+                <Coords points="406,673 2260,673 2260,643 406,643"/>
+                <Baseline points="406,673 2260,673"/>
+                <TextEquiv>
+                    <Unicode>Grundschlüssel gibt es verschiedene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:3;}">
+                <Coords points="427,798 1237,784 1236,754 426,768"/>
+                <Baseline points="427,798 1237,784"/>
+                <TextEquiv>
+                    <Unicode>Möglichkeiten:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:4;}">
+                <Coords points="617,912 1731,898 1731,868 617,882"/>
+                <Baseline points="617,912 1731,898"/>
+                <TextEquiv>
+                    <Unicode>1.) Hebeleinstellung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:5;}">
+                <Coords points="673,1020 2374,1026 2374,996 673,990"/>
+                <Baseline points="673,1020 2374,1026"/>
+                <TextEquiv>
+                    <Unicode>2.) Eintasten über die Schreibma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:6;}">
+                <Coords points="781,1143 2409,1140 2409,1110 781,1113"/>
+                <Baseline points="781,1143 2409,1140"/>
+                <TextEquiv>
+                    <Unicode>schine in Form von Fünferkomb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:7;}">
+                <Coords points="658,1254 2249,1240 2249,1210 658,1224"/>
+                <Baseline points="658,1254 2249,1240"/>
+                <TextEquiv>
+                    <Unicode>3.) Einstellung mit Hilfe einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:8;}">
+                <Coords points="775,1371 1351,1380 2137,1368 2319,1363 2318,1333 2136,1338 1351,1350 775,1341"/>
+                <Baseline points="775,1371 1351,1380 2137,1368 2319,1363"/>
+                <TextEquiv>
+                    <Unicode>Lochschablone ähnlich einer Photo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:9;}">
+                <Coords points="775,1491 1585,1497 2135,1494 2453,1518 2455,1488 2136,1464 1585,1467 775,1461"/>
+                <Baseline points="775,1491 1585,1497 2135,1494 2453,1518"/>
+                <TextEquiv>
+                    <Unicode>Kassette. Hierdurch ist ein schnelles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:10;}">
+                <Coords points="772,1611 1366,1602 1842,1599 2120,1602 2310,1608 2311,1578 2121,1572 1842,1569 1366,1572 772,1581"/>
+                <Baseline points="772,1611 1366,1602 1842,1599 2120,1602 2310,1608"/>
+                <TextEquiv>
+                    <Unicode>Wechseln des Schlüssels möglich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:11;}">
+                <Coords points="775,1734 1567,1722 2094,1722 2246,1725 2247,1695 2094,1692 1567,1692 775,1704"/>
+                <Baseline points="775,1734 1567,1722 2094,1722 2246,1725"/>
+                <TextEquiv>
+                    <Unicode>Mit versiegelten Kassetten ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:12;}">
+                <Coords points="784,1854 1564,1836 1953,1836 2105,1842 2266,1833 2386,1842 2388,1812 2266,1803 2105,1812 1954,1806 1564,1806 783,1824"/>
+                <Baseline points="784,1854 1564,1836 1953,1836 2105,1842 2266,1833 2386,1842"/>
+                <TextEquiv>
+                    <Unicode>seine Geheimhaltung möglich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:13;} textStyle {offset:0; length:21;underlined}">
+                <Coords points="424,2097 1518,2079 1518,2049 424,2067"/>
+                <Baseline points="424,2097 1518,2079"/>
+                <TextEquiv>
+                    <Unicode>Fehlerempfindlichkeit:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:14;} unclear {offset:33; length:2;}">
+                <Coords points="599,2269 1915,2251 2287,2263 2427,2275 2430,2245 2289,2233 1915,2221 599,2239"/>
+                <Baseline points="599,2269 1915,2251 2287,2263 2427,2275"/>
+                <TextEquiv>
+                    <Unicode>Fehler bei der Übertragung erstrecken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:15;}">
+                <Coords points="491,2371 1798,2368 2196,2360 2450,2380 2452,2350 2197,2330 1798,2338 491,2341"/>
+                <Baseline points="491,2371 1798,2368 2196,2360 2450,2380"/>
+                <TextEquiv>
+                    <Unicode>sich jeweils nur auf die gestörte Kom-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:16;}">
+                <Coords points="485,2497 1190,2474 1380,2497 1588,2485 2082,2480 2386,2485 2386,2455 2082,2450 1587,2455 1381,2467 1191,2444 484,2467"/>
+                <Baseline points="485,2497 1190,2474 1380,2497 1588,2485 2082,2480 2386,2485"/>
+                <TextEquiv>
+                    <Unicode>bination, da die Felder Fünfer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:17;}">
+                <Coords points="488,2594 1292,2597 1608,2597 1778,2602 2427,2608 2427,2578 1779,2572 1608,2567 1292,2567 488,2564"/>
+                <Baseline points="488,2594 1292,2597 1608,2597 1778,2602 2427,2608"/>
+                <TextEquiv>
+                    <Unicode>kombinationen in sich zusammen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:18;}">
+                <Coords points="500,2719 889,2708 888,2678 499,2689"/>
+                <Baseline points="500,2719 889,2708"/>
+                <TextEquiv>
+                    <Unicode>bleiben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:19;} textStyle {offset:0; length:24;underlined}">
+                <Coords points="427,2912 1927,2895 1927,2865 427,2882"/>
+                <Baseline points="427,2912 1927,2895"/>
+                <TextEquiv>
+                    <Unicode>Perioden in den Abläufen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:20;}">
+                <Coords points="643,3023 1617,3020 2053,3012 2211,3000 2209,2970 2052,2982 1617,2990 643,2993"/>
+                <Baseline points="643,3023 1617,3020 2053,3012 2211,3000"/>
+                <TextEquiv>
+                    <Unicode>Die Periodizität in Abläufen der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:21;}">
+                <Coords points="509,3137 1366,3132 1883,3126 2076,3126 2430,3140 2431,3110 2077,3096 1883,3096 1366,3102 509,3107"/>
+                <Baseline points="509,3137 1366,3132 1883,3126 2076,3126 2430,3140"/>
+                <TextEquiv>
+                    <Unicode>Befehle nach Einstellung der Vorein-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:22;}">
+                <Coords points="512,3263 1032,3254 1500,3240 1702,3240 1959,3240 2298,3249 2299,3219 1959,3210 1702,3210 1500,3210 1031,3224 511,3233"/>
+                <Baseline points="512,3263 1032,3254 1500,3240 1702,3240 1959,3240 2298,3249"/>
+                <TextEquiv>
+                    <Unicode>stellungen, hängt von dem Grund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:23;} unclear {offset:31; length:2;}">
+                <Coords points="500,3371 883,3363 1228,3366 2026,3354 2085,3383 2132,3383 2164,3354 2231,3345 2227,3315 2151,3327 2121,3355 2092,3354 2033,3325 1228,3336 883,3333 499,3341"/>
+                <Baseline points="500,3371 883,3363 1228,3366 2026,3354 2085,3383 2132,3383 2164,3354 2231,3345"/>
+                <TextEquiv>
+                    <Unicode>schlüssel ab. Die Wahrscheinliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2427,3477 2484,3477 2484,3549 2427,3549"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;}">
+                <Coords points="2432,3543 2470,3541 2468,3511 2430,3513"/>
+                <Baseline points="2432,3543 2470,3541"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

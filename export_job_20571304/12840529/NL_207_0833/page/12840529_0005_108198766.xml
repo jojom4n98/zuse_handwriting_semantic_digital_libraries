@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:40:42.723+01:00</Created>
+        <LastChange>2025-12-28T13:23:08.606+01:00</LastChange>
+        <TranskribusMetadata docId="12840529" pageId="108198766" pageNr="5" tsid="269504703" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GTKATFHRBDKEHXZMGSJLADFP" xmlUrl="https://files.transkribus.eu/Get?id=CVPSXGMZDPICQVNZVUPZPIPM" imageId="90985286"/>
+    </Metadata>
+    <Page imageFilename="12840529_0005_108198766.jpg" imageWidth="2577" imageHeight="3621">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766957958092" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="244,166 2408,166 2408,350 244,350"/>
+            <TextLine id="l" custom="readingOrder {index:0;} textStyle {offset:3; length:5;underlined} textStyle {offset:28; length:7;underlined}">
+                <Coords points="281,305 718,294 1386,297 1701,294 2065,307 2375,302 2375,272 2065,277 1701,264 1386,267 718,264 280,275"/>
+                <Baseline points="281,305 718,294 1386,297 1701,294 2065,307 2375,302"/>
+                <TextEquiv>
+                    <Unicode>Zu ENIAC: aus Newsweek 1946 Februar 18.9.76</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="403,381 2443,397 2445,537 2365,556 2299,2949 403,2949"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;} textStyle {offset:1; length:9;underlined}">
+                <Coords points="410,509 927,503 1528,506 2032,514 2414,496 2413,466 2032,484 1528,476 927,473 410,479"/>
+                <Baseline points="410,509 927,503 1528,506 2032,514 2414,496"/>
+                <TextEquiv>
+                    <Unicode>"Last week at the Moore School of Electrical Engineering</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="444,609 966,599 1342,604 1696,620 1949,612 2290,612 2290,582 1949,582 1696,590 1343,574 966,569 443,579"/>
+                <Baseline points="444,609 966,599 1342,604 1696,620 1949,612 2290,612"/>
+                <TextEquiv>
+                    <Unicode>at the Univiersity of Pennsylvania, the prime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;}">
+                <Coords points="436,720 741,707 986,710 1291,710 1565,707 1763,710 1983,710 2334,713 2334,683 1983,680 1763,680 1565,677 1291,680 986,680 741,677 435,690"/>
+                <Baseline points="436,720 741,707 986,710 1291,710 1565,707 1763,710 1983,710 2334,713"/>
+                <TextEquiv>
+                    <Unicode>donna of all mathematical devices was demon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:3;}">
+                <Coords points="429,816 718,811 862,818 1157,813 1371,811 1616,808 1794,808 2001,811 2169,813 2331,813 2331,783 2169,783 2001,781 1794,778 1616,778 1371,781 1157,783 862,788 718,781 428,786"/>
+                <Baseline points="429,816 718,811 862,818 1157,813 1371,811 1616,808 1794,808 2001,811 2169,813 2331,813"/>
+                <TextEquiv>
+                    <Unicode>strated. It is the Electronic Numerical In-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:4;}">
+                <Coords points="447,914 736,919 960,922 1211,917 1433,917 1699,924 1998,927 2274,922 2273,892 1998,897 1700,894 1433,887 1211,887 960,892 736,889 448,884"/>
+                <Baseline points="447,914 736,919 960,922 1211,917 1433,917 1699,924 1998,927 2274,922"/>
+                <TextEquiv>
+                    <Unicode>tegrator and Computer, shortened to ENIAC!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:5;} person {offset:12; length:17;wikiData:Q522162;}">
+                <Coords points="540,1020 875,1017 1015,1017 1288,1017 1420,1030 1634,1022 1779,1012 1949,1025 2107,1028 2321,1025 2321,995 2107,998 1950,995 1779,982 1632,992 1421,1000 1289,987 1015,987 875,987 540,990"/>
+                <Baseline points="540,1020 875,1017 1015,1017 1288,1017 1420,1030 1634,1022 1779,1012 1949,1025 2107,1028 2321,1025"/>
+                <TextEquiv>
+                    <Unicode>Invented by Dr. J. W. Mauchly, a 38 Year old physi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:6;} person {offset:10; length:21;wikiData:Q457906;}">
+                <Coords points="462,1131 684,1133 1056,1126 1389,1133 1634,1141 1802,1146 2104,1139 2236,1144 2237,1114 2104,1109 1802,1116 1635,1111 1390,1103 1056,1096 684,1103 462,1101"/>
+                <Baseline points="462,1131 684,1133 1056,1126 1389,1133 1634,1141 1802,1146 2104,1139 2236,1144"/>
+                <TextEquiv>
+                    <Unicode>cist, and J. Presper Eckert jr., 26, a designing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:7;}">
+                <Coords points="439,1229 596,1231 829,1234 1020,1229 1304,1234 1655,1229 1998,1231 2243,1237 2244,1207 1998,1201 1655,1199 1304,1204 1020,1199 829,1204 596,1201 439,1199"/>
+                <Baseline points="439,1229 596,1231 829,1234 1020,1229 1304,1234 1655,1229 1998,1231 2243,1237"/>
+                <TextEquiv>
+                    <Unicode>engineer, to meet the Army's needs for com-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:8;} unclear {offset:7; length:16;}">
+                <Coords points="457,1340 713,1340 886,1342 1097,1342 1330,1342 1580,1345 1776,1332 2047,1340 2269,1342 2269,1312 2048,1310 1775,1302 1579,1315 1330,1312 1097,1312 886,1312 713,1310 457,1310"/>
+                <Baseline points="457,1340 713,1340 886,1342 1097,1342 1330,1342 1580,1345 1776,1332 2047,1340 2269,1342"/>
+                <TextEquiv>
+                    <Unicode>puting problemspeciliar to the Ballistics-Re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:9;}">
+                <Coords points="460,1451 661,1441 898,1443 1025,1456 1120,1453 1342,1446 1565,1443 1699,1448 1939,1446 2218,1443 2218,1413 1939,1416 1699,1418 1565,1413 1341,1416 1119,1423 1026,1426 900,1413 660,1411 459,1421"/>
+                <Baseline points="460,1451 661,1441 898,1443 1025,1456 1120,1453 1342,1446 1565,1443 1699,1448 1939,1446 2218,1443"/>
+                <TextEquiv>
+                    <Unicode>search Laboratory, Eniac is the first all-elec-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:10;}">
+                <Coords points="452,1539 609,1552 661,1554 829,1541 1095,1549 1350,1544 1526,1552 1779,1552 1931,1552 2130,1552 2130,1522 1931,1522 1779,1522 1527,1522 1350,1514 1095,1519 828,1511 660,1524 611,1522 454,1509"/>
+                <Baseline points="452,1539 609,1552 661,1554 829,1541 1095,1549 1350,1544 1526,1552 1779,1552 1931,1552 2130,1552"/>
+                <TextEquiv>
+                    <Unicode>tronic mathematical instrument the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:11;}">
+                <Coords points="444,1645 614,1657 842,1655 1030,1655 1255,1655 1518,1655 1823,1655 2003,1655 2127,1655 2127,1625 2003,1625 1823,1625 1518,1625 1255,1625 1030,1625 842,1625 615,1627 446,1615"/>
+                <Baseline points="444,1645 614,1657 842,1655 1030,1655 1255,1655 1518,1655 1823,1655 2003,1655 2127,1655"/>
+                <TextEquiv>
+                    <Unicode>earlier machines, with their labyrinths of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:12;}">
+                <Coords points="441,1753 591,1761 775,1766 1038,1758 1335,1753 1632,1761 2045,1758 2285,1753 2284,1723 2045,1728 1632,1731 1335,1723 1037,1728 775,1736 592,1731 443,1723"/>
+                <Baseline points="441,1753 591,1761 775,1766 1038,1758 1335,1753 1632,1761 2045,1758 2285,1753"/>
+                <TextEquiv>
+                    <Unicode>shafts, gears, and wheels, are electro-mechani-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:13;}">
+                <Coords points="467,1869 599,1879 787,1872 1035,1864 1200,1864 1490,1861 1805,1872 2055,1874 2151,1867 2149,1837 2054,1844 1806,1842 1490,1831 1200,1834 1035,1834 786,1842 600,1849 469,1839"/>
+                <Baseline points="467,1869 599,1879 787,1872 1035,1864 1200,1864 1490,1861 1805,1872 2055,1874 2151,1867"/>
+                <TextEquiv>
+                    <Unicode>cal computers. the Harvard Machine,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:14;}">
+                <Coords points="465,1988 599,1980 710,1972 883,1975 1092,1975 1335,1975 1515,1975 1861,1983 2192,1978 2280,1975 2279,1945 2191,1948 1861,1953 1515,1945 1335,1945 1092,1945 883,1945 709,1942 597,1950 463,1958"/>
+                <Baseline points="465,1988 599,1980 710,1972 883,1975 1092,1975 1335,1975 1515,1975 1861,1983 2192,1978 2280,1975"/>
+                <TextEquiv>
+                    <Unicode>wholly so; the MIT, 80 percent electromecha-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:15;}">
+                <Coords points="441,2078 627,2081 736,2071 922,2071 1141,2071 1366,2078 1521,2078 1650,2071 1737,2071 1823,2071 1823,2041 1737,2041 1649,2041 1520,2048 1366,2048 1141,2041 922,2041 735,2041 626,2051 441,2048"/>
+                <Baseline points="441,2078 627,2081 736,2071 922,2071 1141,2071 1366,2078 1521,2078 1650,2071 1737,2071 1823,2071"/>
+                <TextEquiv>
+                    <Unicode>nical and 20 percent electronic"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:16;} unclear {offset:18; length:3;}">
+                <Coords points="576,2166 731,2176 875,2176 935,2182 1102,2176 1275,2174 1404,2176 1595,2176 1745,2174 1823,2176 1985,2176 2076,2179 2077,2149 1985,2146 1823,2146 1745,2144 1595,2146 1404,2146 1275,2144 1101,2146 936,2152 876,2146 732,2146 578,2136"/>
+                <Baseline points="576,2166 731,2176 875,2176 935,2182 1102,2176 1275,2174 1404,2176 1595,2176 1745,2174 1823,2176 1985,2176 2076,2179"/>
+                <TextEquiv>
+                    <Unicode>The first problem fit to Eniac was a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:17;} unclear {offset:39; length:7;}">
+                <Coords points="457,2280 733,2285 870,2290 1022,2282 1195,2282 1363,2290 1590,2298 1727,2295 1934,2290 2052,2290 2246,2282 2245,2252 2051,2260 1934,2260 1726,2265 1590,2268 1364,2260 1196,2252 1021,2252 870,2260 734,2255 458,2250"/>
+                <Baseline points="457,2280 733,2285 870,2290 1022,2282 1195,2282 1363,2290 1590,2298 1727,2295 1934,2290 2052,2290 2246,2282"/>
+                <TextEquiv>
+                    <Unicode>nuclear physics-calculation that would segnite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:18;}">
+                <Coords points="485,2393 917,2385 1115,2401 1247,2383 1314,2385 1438,2391 1539,2396 1670,2398 1885,2398 2037,2393 2213,2393 2213,2363 2037,2363 1885,2368 1670,2368 1540,2366 1439,2361 1315,2355 1245,2353 1114,2371 918,2355 484,2363"/>
+                <Baseline points="485,2393 917,2385 1115,2401 1247,2383 1314,2385 1438,2391 1539,2396 1670,2398 1885,2398 2037,2393 2213,2393"/>
+                <TextEquiv>
+                    <Unicode>100 man years of work by a trained compu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:19;}">
+                <Coords points="447,2494 630,2496 803,2481 911,2494 1115,2491 1273,2496 1614,2491 1805,2481 1944,2491 2081,2489 2179,2494 2181,2464 2082,2459 1945,2461 1805,2451 1613,2461 1273,2466 1115,2461 913,2464 803,2451 629,2466 447,2464"/>
+                <Baseline points="447,2494 630,2496 803,2481 911,2494 1115,2491 1273,2496 1614,2491 1805,2481 1944,2491 2081,2489 2179,2494"/>
+                <TextEquiv>
+                    <Unicode>ter. The electronic device solved it in two</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:20;}">
+                <Coords points="436,2605 697,2600 824,2602 1038,2595 1226,2592 1461,2592 1626,2592 1805,2595 2109,2600 2109,2570 1805,2565 1626,2562 1461,2562 1226,2562 1037,2565 824,2572 697,2570 435,2575"/>
+                <Baseline points="436,2605 697,2600 824,2602 1038,2595 1226,2592 1461,2592 1626,2592 1805,2595 2109,2600"/>
+                <TextEquiv>
+                    <Unicode>weeks, of which two hours were used for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:21;}">
+                <Coords points="457,2703 723,2719 942,2706 1167,2706 1353,2706 1534,2700 1652,2698 1784,2700 1916,2706 2122,2706 2249,2706 2249,2676 2122,2676 1917,2676 1785,2670 1652,2668 1533,2670 1353,2676 1167,2676 941,2676 723,2689 459,2673"/>
+                <Baseline points="457,2703 723,2719 942,2706 1167,2706 1353,2706 1534,2700 1652,2698 1784,2700 1916,2706 2122,2706 2249,2706"/>
+                <TextEquiv>
+                    <Unicode>actual electronic computing and the re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:22;}">
+                <Coords points="470,2809 842,2819 1089,2814 1288,2811 1484,2811 1706,2814 2065,2814 2225,2806 2224,2776 2064,2784 1706,2784 1484,2781 1288,2781 1088,2784 842,2789 471,2779"/>
+                <Baseline points="470,2809 842,2819 1089,2814 1288,2811 1484,2811 1706,2814 2065,2814 2225,2806"/>
+                <TextEquiv>
+                    <Unicode>maining time for operating details and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:23;}">
+                <Coords points="421,2912 524,2917 645,2907 780,2907 886,2907 1043,2907 1157,2907 1262,2907 1262,2877 1157,2877 1043,2877 886,2877 780,2877 644,2877 523,2887 422,2882"/>
+                <Baseline points="421,2912 524,2917 645,2907 780,2907 886,2907 1043,2907 1157,2907 1262,2907"/>
+                <TextEquiv>
+                    <Unicode>review of results."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2393,3439 2480,3439 2480,3561 2393,3561"/>
+            <TextLine id="l_25" custom="readingOrder {index:0;}">
+                <Coords points="2414,3538 2453,3536 2451,3506 2412,3508"/>
+                <Baseline points="2414,3538 2453,3536"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

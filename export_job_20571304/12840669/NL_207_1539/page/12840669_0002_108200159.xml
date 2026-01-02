@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-10T11:45:56.754+01:00</Created>
+        <LastChange>2025-12-27T12:10:35.006+01:00</LastChange>
+        <TranskribusMetadata docId="12840669" pageId="108200159" pageNr="2" tsid="269307840" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=DWMIVPUNLLBAWTGUYVZKCKPC" xmlUrl="https://files.transkribus.eu/Get?id=MQVQALDOWBIMFCHQACGHHXJC" imageId="90985374"/>
+    </Metadata>
+    <Page imageFilename="12840669_0002_108200159.jpg" imageWidth="1887" imageHeight="2549">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958257146" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_2"/>
+                <RegionRefIndexed index="3" regionRef="r_3"/>
+                <RegionRefIndexed index="4" regionRef="r_4"/>
+                <RegionRefIndexed index="5" regionRef="r_5"/>
+                <RegionRefIndexed index="6" regionRef="r_6"/>
+                <RegionRefIndexed index="7" regionRef="r_7"/>
+                <RegionRefIndexed index="8" regionRef="r_8"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="159,127 1807,127 1807,633 159,633"/>
+            <TextLine id="l" custom="readingOrder {index:0;} textStyle {offset:20; length:5;strikethrough}">
+                <Coords points="180,271 1708,275 1708,245 180,241"/>
+                <Baseline points="180,271 1708,275"/>
+                <TextEquiv>
+                    <Unicode>stand und der Tellerwider ebenfalls</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="178,386 1789,386 1789,356 178,356"/>
+                <Baseline points="178,386 1789,386"/>
+                <TextEquiv>
+                    <Unicode>durch einen Widerstand dargestellt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="180,503 1704,503 1704,473 180,473"/>
+                <Baseline points="180,503 1704,503"/>
+                <TextEquiv>
+                    <Unicode>Der schädliche Raum entspricht einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;}">
+                <Coords points="195,611 741,609 741,579 195,581"/>
+                <Baseline points="195,611 741,609"/>
+                <TextEquiv>
+                    <Unicode>Kondensator</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="420,747 730,747 708,1177 730,1457 584,2006 418,1996"/>
+        </GraphicRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:2;}">
+            <Coords points="734,883 1311,883 1311,1047 734,1047"/>
+            <TextLine id="l_4" custom="readingOrder {index:0;}">
+                <Coords points="737,976 1281,973 1281,943 737,946"/>
+                <Baseline points="737,976 1281,973"/>
+                <TextEquiv>
+                    <Unicode>Spannungsquelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:3;}">
+            <Coords points="713,1126 976,1126 976,1212 713,1212"/>
+            <TextLine id="l_5" custom="readingOrder {index:0;}">
+                <Coords points="711,1205 963,1201 963,1171 711,1175"/>
+                <Baseline points="711,1205 963,1201"/>
+                <TextEquiv>
+                    <Unicode>Drossel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:4;}">
+            <Coords points="746,1263 1294,1263 1294,1395 746,1395"/>
+            <TextLine id="l_6" custom="readingOrder {index:0;} textStyle {offset:1; length:1;subscript} textStyle {offset:3; length:11;strikethrough}">
+                <Coords points="748,1359 1275,1364 1275,1334 748,1329"/>
+                <Baseline points="748,1359 1275,1364"/>
+                <TextEquiv>
+                    <Unicode>p0 zu konstant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:5;}">
+            <Coords points="739,1406 1378,1406 1378,1509 739,1509"/>
+            <TextLine id="l_7" custom="readingOrder {index:0;}">
+                <Coords points="746,1500 1368,1498 1368,1468 746,1470"/>
+                <Baseline points="746,1500 1368,1498"/>
+                <TextEquiv>
+                    <Unicode>schädlicher Raum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_6" custom="readingOrder {index:6;}">
+            <Coords points="674,1701 1631,1701 1631,1798 674,1798"/>
+            <TextLine id="l_8" custom="readingOrder {index:0;}">
+                <Coords points="675,1789 1617,1786 1617,1756 675,1759"/>
+                <Baseline points="675,1789 1617,1786"/>
+                <TextEquiv>
+                    <Unicode>Variablen Teller Widerstand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_7" custom="readingOrder {index:7;}">
+            <Coords points="220,2029 1764,2029 1759,2295 1537,2466 220,2480"/>
+            <TextLine id="l_9" custom="readingOrder {index:0;}">
+                <Coords points="272,2146 1707,2149 1707,2119 272,2116"/>
+                <Baseline points="272,2146 1707,2149"/>
+                <TextEquiv>
+                    <Unicode>Vielleicht kann Ihnen dies Hinweise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:1;}">
+                <Coords points="253,2273 1738,2268 1738,2238 253,2243"/>
+                <Baseline points="253,2273 1738,2268"/>
+                <TextEquiv>
+                    <Unicode>geben. Ev. komme ich Anfang nächster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:2;}">
+                <Coords points="262,2370 1483,2380 1483,2350 262,2340"/>
+                <Baseline points="262,2370 1483,2380"/>
+                <TextEquiv>
+                    <Unicode>Woche wd vorbei. Herzl. Grüsse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:3;} person {offset:6; length:7;wikiData:Q60093; firstname:Konrad; lastname:Zuse;}">
+                <Coords points="928,2456 1533,2461 1533,2431 928,2426"/>
+                <Baseline points="928,2456 1533,2461"/>
+                <TextEquiv>
+                    <Unicode>Ihr . K. Zuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_8" custom="readingOrder {index:8;} structure {type:page-number;}">
+            <Coords points="1725,2418 1786,2418 1786,2480 1725,2480"/>
+            <TextLine id="l_13" custom="readingOrder {index:0;}">
+                <Coords points="1738,2475 1772,2473 1770,2443 1736,2445"/>
+                <Baseline points="1738,2475 1772,2473"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

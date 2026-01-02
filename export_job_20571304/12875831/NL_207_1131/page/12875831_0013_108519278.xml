@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-12-11T15:48:44.380+01:00</Created>
+        <LastChange>2025-12-28T13:47:16.550+01:00</LastChange>
+        <TranskribusMetadata docId="12875831" pageId="108519278" pageNr="13" tsid="269506563" status="GT" userId="444774" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=DMHLLUAXNCLQKQGVZIFJFGSX" xmlUrl="https://files.transkribus.eu/Get?id=LVVRLWKOSFWNQNMEWWUULZNM" imageId="91288395"/>
+    </Metadata>
+    <Page imageFilename="12875831_0013_108519278.jpg" imageWidth="2518" imageHeight="3271">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766958021570" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+                <RegionRefIndexed index="2" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1048,89 2272,89 2272,219 1048,219"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1115,201 1428,197 1508,199 2262,193 2262,163 1508,169 1428,167 1115,171"/>
+                <Baseline points="1115,201 1428,197 1508,199 2262,193"/>
+                <TextEquiv>
+                    <Unicode>Hinterstein, d. 19.9.46.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="637,3142 630,3103 586,3075 529,3069 530,3021 514,2933 399,2873 330,2836 396,1081 221,1057 199,1014 225,579 311,233 1926,233 2018,404 2255,440 2421,572 2288,1294 2428,2068 2425,3119 2252,3109 2079,3190 666,3187"/>
+            <TextLine id="l_1" custom="readingOrder {index:0;} person {offset:19; length:12;wikiData:Q1794263;}">
+                <Coords points="305,352 1906,330 1906,300 305,322"/>
+                <Baseline points="305,352 1906,330"/>
+                <TextEquiv>
+                    <Unicode>Sehr geehrter Herr De Beauclair</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="419,521 913,500 1343,517 2252,507 2252,477 1343,487 913,470 418,491"/>
+                <Baseline points="419,521 913,500 1343,517 2252,507"/>
+                <TextEquiv>
+                    <Unicode>Leider kann ich Ihnen noch keine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:2;}">
+                <Coords points="269,618 993,610 1593,602 2372,610 2372,580 1593,572 993,580 269,588"/>
+                <Baseline points="269,618 993,610 1593,602 2372,610"/>
+                <TextEquiv>
+                    <Unicode>genaue Materialaufstellung geben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:3;}">
+                <Coords points="258,737 678,724 1196,726 1650,726 2128,736 2319,743 2320,713 2129,706 1650,696 1196,696 678,694 257,707"/>
+                <Baseline points="258,737 678,724 1196,726 1650,726 2128,736 2319,743"/>
+                <TextEquiv>
+                    <Unicode>da das Gerät zur Zeit so schwer zu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:4;}">
+                <Coords points="246,854 771,830 964,850 1516,842 2193,840 2193,810 1516,812 965,820 772,800 245,824"/>
+                <Baseline points="246,854 771,830 964,850 1516,842 2193,840"/>
+                <TextEquiv>
+                    <Unicode>gänglich ist. Ungefähr dürfte aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:5;}">
+                <Coords points="226,981 584,956 1204,956 1567,972 2065,954 2064,924 1567,942 1205,926 583,926 224,951"/>
+                <Baseline points="226,981 584,956 1204,956 1567,972 2065,954"/>
+                <TextEquiv>
+                    <Unicode>folgende Aufstellung zutreffen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:6;}">
+                <Coords points="417,1139 806,1129 1398,1121 1874,1117 2270,1127 2271,1097 1874,1087 1398,1091 805,1099 416,1109"/>
+                <Baseline points="417,1139 806,1129 1398,1121 1874,1117 2270,1127"/>
+                <TextEquiv>
+                    <Unicode>1) 1000 Rundrelais, (Schneidanker)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:7;}">
+                <Coords points="724,1229 828,1221 1015,1231 1412,1221 1685,1221 2250,1239 2251,1209 1685,1191 1412,1191 1015,1201 828,1191 722,1199"/>
+                <Baseline points="724,1229 828,1221 1015,1231 1412,1221 1685,1221 2250,1239"/>
+                <TextEquiv>
+                    <Unicode>mit 2 Kupferwicklungen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:8;}">
+                <Coords points="720,1318 1487,1329 1487,1299 720,1288"/>
+                <Baseline points="720,1318 1487,1329"/>
+                <TextEquiv>
+                    <Unicode>etwa 1000 Ω.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:9;}">
+                <Coords points="403,1465 1190,1469 2189,1453 2189,1423 1190,1439 403,1435"/>
+                <Baseline points="403,1465 1190,1469 2189,1453"/>
+                <TextEquiv>
+                    <Unicode>2) 500 Rundrelais mit einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:10;}">
+                <Coords points="779,1563 1359,1575 1935,1565 2283,1569 2283,1539 1935,1535 1359,1545 780,1533"/>
+                <Baseline points="779,1563 1359,1575 1935,1565 2283,1569"/>
+                <TextEquiv>
+                    <Unicode>Kupferwicklung etwa 1000 Ω</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:11;}">
+                <Coords points="513,1740 924,1731 1487,1725 1849,1725 2332,1735 2333,1705 1849,1695 1487,1695 924,1701 512,1710"/>
+                <Baseline points="513,1740 924,1731 1487,1725 1849,1725 2332,1735"/>
+                <TextEquiv>
+                    <Unicode>Kontaktbesetzungen der Relais ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:12;}">
+                <Coords points="509,1845 808,1833 954,1831 954,1801 807,1803 508,1815"/>
+                <Baseline points="509,1845 808,1833 954,1831"/>
+                <TextEquiv>
+                    <Unicode>schieden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:13;}">
+                <Coords points="374,1990 1076,1971 1611,1967 2081,1973 2346,1980 2347,1950 2082,1943 1611,1937 1075,1941 373,1960"/>
+                <Baseline points="374,1990 1076,1971 1611,1967 2081,1973 2346,1980"/>
+                <TextEquiv>
+                    <Unicode>3) Etwa 30 Schrittschalter. Verschiedene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:14;}">
+                <Coords points="677,2100 1093,2106 1489,2102 1990,2096 2417,2118 2419,2088 1991,2066 1489,2072 1093,2076 677,2070"/>
+                <Baseline points="677,2100 1093,2106 1489,2102 1990,2096 2417,2118"/>
+                <TextEquiv>
+                    <Unicode>Schrittzahl und Zahl der Kontakt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:15;}">
+                <Coords points="655,2207 950,2203 1115,2207 1116,2177 950,2173 655,2177"/>
+                <Baseline points="655,2207 950,2203 1115,2207"/>
+                <TextEquiv>
+                    <Unicode>bahnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:16;}">
+                <Coords points="393,2372 779,2348 1239,2344 1799,2354 2148,2368 2354,2372 2355,2342 2149,2338 1800,2324 1239,2314 778,2318 391,2342"/>
+                <Baseline points="393,2372 779,2348 1239,2344 1799,2354 2148,2368 2354,2372"/>
+                <TextEquiv>
+                    <Unicode>4) 300 Fernsprechglühlampen mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:17;}">
+                <Coords points="500,2482 883,2468 1316,2476 1626,2476 1626,2446 1316,2446 883,2438 499,2452"/>
+                <Baseline points="500,2482 883,2468 1316,2476 1626,2476"/>
+                <TextEquiv>
+                    <Unicode>Lampenfassungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:18;}">
+                <Coords points="352,2604 893,2604 1200,2612 1463,2600 1462,2570 1200,2582 893,2574 352,2574"/>
+                <Baseline points="352,2604 893,2604 1200,2612 1463,2600"/>
+                <TextEquiv>
+                    <Unicode>5) 120 Drucktasten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:19;}">
+                <Coords points="354,2740 1088,2730 1792,2728 2071,2734 2072,2704 1792,2698 1088,2700 354,2710"/>
+                <Baseline points="354,2740 1088,2730 1792,2728 2071,2734"/>
+                <TextEquiv>
+                    <Unicode>6) 50 Schalter (Kippschalter).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:20;}">
+                <Coords points="380,2856 500,2867 730,2869 1158,2859 1774,2873 2053,2875 2053,2845 1774,2843 1158,2829 730,2839 502,2837 383,2826"/>
+                <Baseline points="380,2856 500,2867 730,2869 1158,2859 1774,2873 2053,2875"/>
+                <TextEquiv>
+                    <Unicode>7) Ein Motor etwa 400 Watt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:21;}">
+                <Coords points="535,2983 1261,2974 1701,2983 1892,2989 2281,3005 2282,2975 1893,2959 1702,2953 1261,2944 535,2953"/>
+                <Baseline points="535,2983 1261,2974 1701,2983 1892,2989 2281,3005"/>
+                <TextEquiv>
+                    <Unicode>Eine Spannungsquelle für 60 Volt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:22;}">
+                <Coords points="608,3080 973,3090 1400,3092 1888,3094 2191,3088 2395,3103 2397,3073 2192,3058 1888,3064 1400,3062 973,3060 609,3050"/>
+                <Baseline points="608,3080 973,3090 1400,3092 1888,3094 2191,3088 2395,3103"/>
+                <TextEquiv>
+                    <Unicode>Gleichstrom. (Umformer oder Motor-Dynamo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:23;}">
+                <Coords points="1650,3168 2063,3162 2063,3132 1650,3138"/>
+                <Baseline points="1650,3168 2063,3162"/>
+                <TextEquiv>
+                    <Unicode>Aggregat).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:2;} structure {type:page-number;}">
+            <Coords points="2312,3133 2404,3133 2404,3193 2312,3193"/>
+            <TextLine id="l_25" custom="readingOrder {index:0;}">
+                <Coords points="2329,3190 2391,3190 2391,3160 2329,3160"/>
+                <Baseline points="2329,3190 2391,3190"/>
+                <TextEquiv>
+                    <Unicode>21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
