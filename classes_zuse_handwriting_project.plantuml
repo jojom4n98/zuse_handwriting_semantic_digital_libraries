@@ -1,0 +1,19 @@
+@startuml classes_zuse_handwriting_project
+set namespaceSeparator none
+class "TrainingSampleAnalyzer" as zuse_sample_analysis_script.TrainingSampleAnalyzer {
+  amount_all_letters : int
+  letter_count : dict[str, int]
+  letter_percentage_german : dict[str, float]
+  letter_percentage_zuse : dict[str, float]
+  number_count : dict[str, int]
+  special_sign_count : dict[str, int]
+  txt_dict : dict[str, str]
+  count_signs_in_text() -> None
+  export_counts_as_xlsx() -> None
+  export_percentage_comparison() -> None
+  export_plots() -> None
+  get_letter_percentage_german() -> dict[str, float]
+  get_letter_percentage_zuse() -> dict[str, float]
+  read_txt_in_dict() -> dict[str, str]
+}
+@enduml
