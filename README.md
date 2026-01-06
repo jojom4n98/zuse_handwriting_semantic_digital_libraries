@@ -9,7 +9,7 @@ Model III – Zuse handwritten - From scratch without line polygons: https://app
 Model IV – Zuse handwritten - tuned basemodel without line polygons (best performing): https://app.transkribus.org/models/text/463085
 
 In detail the repository contains the following items:
-- A detailed project report
+- A detailed [project report](Zuse_Trascribus_project_report_eng.pdf)
 - A [detailed list of Zuse's documents and material](DMA_Zuse_material_listing/NL_207_Zuse.pdf) managed by the Archive of the Deutsches Museum (Munich)
 - The [exported transcripted documents](export_job_20571304) from the annotation campaign, which were used as training material
 - The [TCER and VCER curves](training_curves_pngs) from all model trainings
